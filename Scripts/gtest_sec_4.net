@@ -1,0 +1,4637 @@
+*network periodic_grid_2d_graph(40,40)
+*vertices 1600
+1 8209 0.0 0.0 ellipse type 0 fitness 2.0
+2 8218 0.0 0.0 ellipse type 1 fitness 2.5
+3 8233 0.0 0.0 ellipse type 1 fitness 1.0
+4 8249 0.0 0.0 ellipse type 1 fitness 0.5
+5 8260 0.0 0.0 ellipse type 1 fitness 0.5
+6 8265 0.0 0.0 ellipse type 1 fitness 1.0
+7 8266 0.0 0.0 ellipse type 0 fitness 3.5
+8 8277 0.0 0.0 ellipse type 1 fitness 0.5
+9 8299 0.0 0.0 ellipse type 1 fitness 0.5
+10 8318 0.0 0.0 ellipse type 1 fitness 1.0
+11 8344 0.0 0.0 ellipse type 0 fitness 1.5
+12 8348 0.0 0.0 ellipse type 1 fitness 1.0
+13 8365 0.0 0.0 ellipse type 0 fitness 1.5
+14 8368 0.0 0.0 ellipse type 1 fitness 0.5
+15 8374 0.0 0.0 ellipse type 1 fitness 2.0
+16 8379 0.0 0.0 ellipse type 0 fitness 0.5
+17 8384 0.0 0.0 ellipse type 1 fitness 3.0
+18 8394 0.0 0.0 ellipse type 0 fitness 2.5
+19 8396 0.0 0.0 ellipse type 1 fitness 0.5
+20 8401 0.0 0.0 ellipse type 0 fitness 0.5
+21 8405 0.0 0.0 ellipse type 0 fitness 2.75
+22 8406 0.0 0.0 ellipse type 0 fitness 2.0
+23 8410 0.0 0.0 ellipse type 1 fitness 0.5
+24 8415 0.0 0.0 ellipse type 1 fitness 3.0
+25 8417 0.0 0.0 ellipse type 1 fitness 0.5
+26 8428 0.0 0.0 ellipse type 0 fitness 1.25
+27 8450 0.0 0.0 ellipse type 0 fitness 4.0
+28 8455 0.0 0.0 ellipse type 1 fitness 0.5
+29 8479 0.0 0.0 ellipse type 1 fitness 0.5
+30 8493 0.0 0.0 ellipse type 1 fitness 2.5
+31 8523 0.0 0.0 ellipse type 1 fitness 1.5
+32 8529 0.0 0.0 ellipse type 1 fitness 0.5
+33 8532 0.0 0.0 ellipse type 1 fitness 4.0
+34 8551 0.0 0.0 ellipse type 1 fitness 0.5
+35 8557 0.0 0.0 ellipse type 1 fitness 1.5
+36 8561 0.0 0.0 ellipse type 0 fitness 1.75
+37 8572 0.0 0.0 ellipse type 1 fitness 1.0
+38 8587 0.0 0.0 ellipse type 0 fitness 1.5
+39 8599 0.0 0.0 ellipse type 0 fitness 1.5
+40 8611 0.0 0.0 ellipse type 0 fitness 0.75
+41 8627 0.0 0.0 ellipse type 1 fitness 1.5
+42 8631 0.0 0.0 ellipse type 1 fitness 0.5
+43 8634 0.0 0.0 ellipse type 1 fitness 1.0
+44 8659 0.0 0.0 ellipse type 1 fitness 2.5
+45 8660 0.0 0.0 ellipse type 0 fitness 0.75
+46 8665 0.0 0.0 ellipse type 1 fitness 1.0
+47 8678 0.0 0.0 ellipse type 0 fitness 3.0
+48 8679 0.0 0.0 ellipse type 0 fitness 0.75
+49 8703 0.0 0.0 ellipse type 1 fitness 0.5
+50 8712 0.0 0.0 ellipse type 1 fitness 1.0
+51 8727 0.0 0.0 ellipse type 0 fitness 1.0
+52 8728 0.0 0.0 ellipse type 1 fitness 3.0
+53 8739 0.0 0.0 ellipse type 0 fitness 1.25
+54 8754 0.0 0.0 ellipse type 1 fitness 2.0
+55 8762 0.0 0.0 ellipse type 0 fitness 0.75
+56 8768 0.0 0.0 ellipse type 1 fitness 3.5
+57 8787 0.0 0.0 ellipse type 1 fitness 0.5
+58 8790 0.0 0.0 ellipse type 1 fitness 3.0
+59 8791 0.0 0.0 ellipse type 1 fitness 0.5
+60 8795 0.0 0.0 ellipse type 0 fitness 0.5
+61 8796 0.0 0.0 ellipse type 1 fitness 1.5
+62 8798 0.0 0.0 ellipse type 1 fitness 3.5
+63 8807 0.0 0.0 ellipse type 0 fitness 2.25
+64 8812 0.0 0.0 ellipse type 1 fitness 1.5
+65 8817 0.0 0.0 ellipse type 0 fitness 2.0
+66 8819 0.0 0.0 ellipse type 1 fitness 0.5
+67 8823 0.0 0.0 ellipse type 0 fitness 1.25
+68 8836 0.0 0.0 ellipse type 1 fitness 1.0
+69 8841 0.0 0.0 ellipse type 1 fitness 0.5
+70 8854 0.0 0.0 ellipse type 1 fitness 1.0
+71 8856 0.0 0.0 ellipse type 1 fitness 2.0
+72 8862 0.0 0.0 ellipse type 0 fitness 1.75
+73 8868 0.0 0.0 ellipse type 1 fitness 2.0
+74 8873 0.0 0.0 ellipse type 0 fitness 1.5
+75 8888 0.0 0.0 ellipse type 0 fitness 2.0
+76 8891 0.0 0.0 ellipse type 1 fitness 1.5
+77 8893 0.0 0.0 ellipse type 0 fitness 1.25
+78 8899 0.0 0.0 ellipse type 0 fitness 2.5
+79 8900 0.0 0.0 ellipse type 0 fitness 0.75
+80 8910 0.0 0.0 ellipse type 1 fitness 1.0
+81 8912 0.0 0.0 ellipse type 1 fitness 0.5
+82 8922 0.0 0.0 ellipse type 1 fitness 1.5
+83 8928 0.0 0.0 ellipse type 1 fitness 1.5
+84 8935 0.0 0.0 ellipse type 1 fitness 2.5
+85 8939 0.0 0.0 ellipse type 0 fitness 0.5
+86 8942 0.0 0.0 ellipse type 1 fitness 3.0
+87 8947 0.0 0.0 ellipse type 1 fitness 0.5
+88 8956 0.0 0.0 ellipse type 0 fitness 1.25
+89 8957 0.0 0.0 ellipse type 0 fitness 1.25
+90 8959 0.0 0.0 ellipse type 0 fitness 1.0
+91 8962 0.0 0.0 ellipse type 1 fitness 4.0
+92 8963 0.0 0.0 ellipse type 0 fitness 0.5
+93 8969 0.0 0.0 ellipse type 1 fitness 1.0
+94 8970 0.0 0.0 ellipse type 1 fitness 1.5
+95 8972 0.0 0.0 ellipse type 1 fitness 6.5
+96 8976 0.0 0.0 ellipse type 0 fitness 2.0
+97 8984 0.0 0.0 ellipse type 0 fitness 0.75
+98 8987 0.0 0.0 ellipse type 0 fitness 1.5
+99 8990 0.0 0.0 ellipse type 0 fitness 2.5
+100 8991 0.0 0.0 ellipse type 1 fitness 3.0
+101 8998 0.0 0.0 ellipse type 1 fitness 3.5
+102 9002 0.0 0.0 ellipse type 0 fitness 1.5
+103 9010 0.0 0.0 ellipse type 0 fitness 0.75
+104 9012 0.0 0.0 ellipse type 1 fitness 3.5
+105 9023 0.0 0.0 ellipse type 1 fitness 0.5
+106 9028 0.0 0.0 ellipse type 0 fitness 0.75
+107 9029 0.0 0.0 ellipse type 1 fitness 0.5
+108 9035 0.0 0.0 ellipse type 1 fitness 5.5
+109 9043 0.0 0.0 ellipse type 1 fitness 1.5
+110 9053 0.0 0.0 ellipse type 0 fitness 1.25
+111 9058 0.0 0.0 ellipse type 0 fitness 0.5
+112 9059 0.0 0.0 ellipse type 1 fitness 1.5
+113 9067 0.0 0.0 ellipse type 0 fitness 3.0
+114 9068 0.0 0.0 ellipse type 0 fitness 3.5
+115 9073 0.0 0.0 ellipse type 1 fitness 0.5
+116 9077 0.0 0.0 ellipse type 1 fitness 4.0
+117 9082 0.0 0.0 ellipse type 0 fitness 1.0
+118 9088 0.0 0.0 ellipse type 1 fitness 4.0
+119 9090 0.0 0.0 ellipse type 1 fitness 5.0
+120 9093 0.0 0.0 ellipse type 0 fitness 1.25
+121 9101 0.0 0.0 ellipse type 1 fitness 2.0
+122 9103 0.0 0.0 ellipse type 1 fitness 3.0
+123 9104 0.0 0.0 ellipse type 0 fitness 3.75
+124 9112 0.0 0.0 ellipse type 0 fitness 1.0
+125 9114 0.0 0.0 ellipse type 0 fitness 1.75
+126 9118 0.0 0.0 ellipse type 1 fitness 6.0
+127 9126 0.0 0.0 ellipse type 0 fitness 1.75
+128 9129 0.0 0.0 ellipse type 0 fitness 2.0
+129 9143 0.0 0.0 ellipse type 1 fitness 2.5
+130 9153 0.0 0.0 ellipse type 0 fitness 1.0
+131 9156 0.0 0.0 ellipse type 1 fitness 1.5
+132 9168 0.0 0.0 ellipse type 0 fitness 1.75
+133 9172 0.0 0.0 ellipse type 1 fitness 1.0
+134 9173 0.0 0.0 ellipse type 0 fitness 0.75
+135 9178 0.0 0.0 ellipse type 0 fitness 1.25
+136 9181 0.0 0.0 ellipse type 1 fitness 1.5
+137 9206 0.0 0.0 ellipse type 1 fitness 1.5
+138 9211 0.0 0.0 ellipse type 0 fitness 2.0
+139 9213 0.0 0.0 ellipse type 1 fitness 0.5
+140 9216 0.0 0.0 ellipse type 1 fitness 4.0
+141 9219 0.0 0.0 ellipse type 1 fitness 1.0
+142 9220 0.0 0.0 ellipse type 1 fitness 1.5
+143 9221 0.0 0.0 ellipse type 1 fitness 2.0
+144 9231 0.0 0.0 ellipse type 1 fitness 1.5
+145 9233 0.0 0.0 ellipse type 0 fitness 2.25
+146 9237 0.0 0.0 ellipse type 0 fitness 1.0
+147 9250 0.0 0.0 ellipse type 1 fitness 2.0
+148 9267 0.0 0.0 ellipse type 0 fitness 0.5
+149 9271 0.0 0.0 ellipse type 0 fitness 0.75
+150 9273 0.0 0.0 ellipse type 1 fitness 0.5
+151 9274 0.0 0.0 ellipse type 1 fitness 2.0
+152 11220 0.0 0.0 ellipse type 0 fitness 0.75
+153 9280 0.0 0.0 ellipse type 0 fitness 3.75
+154 9284 0.0 0.0 ellipse type 1 fitness 2.0
+155 9289 0.0 0.0 ellipse type 1 fitness 1.0
+156 9294 0.0 0.0 ellipse type 0 fitness 2.25
+157 9301 0.0 0.0 ellipse type 1 fitness 1.5
+158 9305 0.0 0.0 ellipse type 0 fitness 0.75
+159 9311 0.0 0.0 ellipse type 0 fitness 1.75
+160 9318 0.0 0.0 ellipse type 0 fitness 2.75
+161 9322 0.0 0.0 ellipse type 0 fitness 0.5
+162 9323 0.0 0.0 ellipse type 0 fitness 4.75
+163 9334 0.0 0.0 ellipse type 0 fitness 1.25
+164 9335 0.0 0.0 ellipse type 0 fitness 1.5
+165 9343 0.0 0.0 ellipse type 1 fitness 4.0
+166 9345 0.0 0.0 ellipse type 1 fitness 4.0
+167 9351 0.0 0.0 ellipse type 1 fitness 2.0
+168 9355 0.0 0.0 ellipse type 0 fitness 1.5
+169 9356 0.0 0.0 ellipse type 1 fitness 2.5
+170 9359 0.0 0.0 ellipse type 0 fitness 1.0
+171 9363 0.0 0.0 ellipse type 0 fitness 1.25
+172 9364 0.0 0.0 ellipse type 0 fitness 5.5
+173 9369 0.0 0.0 ellipse type 0 fitness 2.0
+174 9379 0.0 0.0 ellipse type 0 fitness 1.0
+175 9383 0.0 0.0 ellipse type 0 fitness 0.75
+176 9384 0.0 0.0 ellipse type 0 fitness 1.5
+177 9395 0.0 0.0 ellipse type 1 fitness 4.0
+178 9397 0.0 0.0 ellipse type 1 fitness 3.0
+179 9406 0.0 0.0 ellipse type 1 fitness 0.5
+180 9410 0.0 0.0 ellipse type 0 fitness 3.0
+181 9418 0.0 0.0 ellipse type 0 fitness 1.25
+182 9420 0.0 0.0 ellipse type 1 fitness 2.0
+183 9421 0.0 0.0 ellipse type 1 fitness 1.0
+184 9429 0.0 0.0 ellipse type 0 fitness 4.5
+185 9441 0.0 0.0 ellipse type 1 fitness 3.0
+186 9446 0.0 0.0 ellipse type 1 fitness 1.0
+187 9450 0.0 0.0 ellipse type 1 fitness 4.0
+188 9451 0.0 0.0 ellipse type 0 fitness 1.25
+189 9452 0.0 0.0 ellipse type 1 fitness 3.5
+190 9453 0.0 0.0 ellipse type 1 fitness 2.0
+191 9454 0.0 0.0 ellipse type 0 fitness 1.5
+192 9455 0.0 0.0 ellipse type 1 fitness 2.0
+193 9460 0.0 0.0 ellipse type 1 fitness 1.5
+194 9464 0.0 0.0 ellipse type 0 fitness 1.75
+195 9465 0.0 0.0 ellipse type 0 fitness 1.25
+196 9477 0.0 0.0 ellipse type 1 fitness 3.5
+197 9482 0.0 0.0 ellipse type 0 fitness 0.5
+198 9494 0.0 0.0 ellipse type 0 fitness 2.75
+199 9501 0.0 0.0 ellipse type 1 fitness 1.5
+200 9504 0.0 0.0 ellipse type 1 fitness 1.0
+201 9506 0.0 0.0 ellipse type 1 fitness 2.0
+202 9514 0.0 0.0 ellipse type 1 fitness 3.0
+203 9531 0.0 0.0 ellipse type 0 fitness 1.75
+204 9534 0.0 0.0 ellipse type 1 fitness 1.0
+205 9535 0.0 0.0 ellipse type 0 fitness 0.5
+206 9550 0.0 0.0 ellipse type 0 fitness 1.75
+207 9554 0.0 0.0 ellipse type 1 fitness 3.5
+208 9557 0.0 0.0 ellipse type 1 fitness 1.5
+209 9558 0.0 0.0 ellipse type 0 fitness 4.25
+210 9565 0.0 0.0 ellipse type 1 fitness 6.0
+211 9575 0.0 0.0 ellipse type 0 fitness 0.75
+212 9578 0.0 0.0 ellipse type 1 fitness 6.0
+213 9579 0.0 0.0 ellipse type 0 fitness 2.25
+214 9582 0.0 0.0 ellipse type 0 fitness 2.0
+215 9593 0.0 0.0 ellipse type 0 fitness 3.25
+216 9611 0.0 0.0 ellipse type 0 fitness 1.0
+217 9612 0.0 0.0 ellipse type 0 fitness 2.75
+218 9616 0.0 0.0 ellipse type 0 fitness 1.5
+219 9620 0.0 0.0 ellipse type 0 fitness 0.5
+220 9627 0.0 0.0 ellipse type 0 fitness 7.25
+221 9629 0.0 0.0 ellipse type 1 fitness 1.5
+222 9631 0.0 0.0 ellipse type 1 fitness 3.5
+223 9642 0.0 0.0 ellipse type 1 fitness 1.5
+224 9650 0.0 0.0 ellipse type 1 fitness 2.0
+225 9652 0.0 0.0 ellipse type 1 fitness 4.0
+226 9653 0.0 0.0 ellipse type 0 fitness 3.25
+227 9659 0.0 0.0 ellipse type 1 fitness 2.0
+228 9662 0.0 0.0 ellipse type 1 fitness 6.0
+229 9665 0.0 0.0 ellipse type 1 fitness 0.5
+230 9668 0.0 0.0 ellipse type 0 fitness 2.0
+231 9670 0.0 0.0 ellipse type 0 fitness 4.25
+232 9680 0.0 0.0 ellipse type 1 fitness 2.0
+233 9693 0.0 0.0 ellipse type 0 fitness 0.5
+234 9697 0.0 0.0 ellipse type 0 fitness 2.0
+235 9699 0.0 0.0 ellipse type 1 fitness 3.0
+236 9700 0.0 0.0 ellipse type 1 fitness 6.5
+237 9702 0.0 0.0 ellipse type 1 fitness 1.5
+238 9705 0.0 0.0 ellipse type 1 fitness 1.5
+239 9706 0.0 0.0 ellipse type 1 fitness 2.0
+240 9711 0.0 0.0 ellipse type 0 fitness 1.75
+241 9718 0.0 0.0 ellipse type 0 fitness 0.5
+242 9719 0.0 0.0 ellipse type 0 fitness 4.5
+243 9724 0.0 0.0 ellipse type 1 fitness 1.5
+244 9730 0.0 0.0 ellipse type 0 fitness 1.25
+245 9739 0.0 0.0 ellipse type 0 fitness 0.75
+246 9744 0.0 0.0 ellipse type 1 fitness 1.5
+247 9747 0.0 0.0 ellipse type 1 fitness 2.0
+248 9757 0.0 0.0 ellipse type 0 fitness 1.75
+249 9762 0.0 0.0 ellipse type 1 fitness 2.0
+250 9767 0.0 0.0 ellipse type 1 fitness 1.0
+251 9772 0.0 0.0 ellipse type 0 fitness 1.75
+252 9774 0.0 0.0 ellipse type 1 fitness 0.5
+253 9789 0.0 0.0 ellipse type 1 fitness 0.5
+254 9798 0.0 0.0 ellipse type 1 fitness 2.5
+255 9802 0.0 0.0 ellipse type 1 fitness 0.5
+256 9808 0.0 0.0 ellipse type 0 fitness 5.5
+257 9810 0.0 0.0 ellipse type 0 fitness 1.25
+258 9813 0.0 0.0 ellipse type 1 fitness 2.5
+259 9815 0.0 0.0 ellipse type 1 fitness 1.0
+260 9824 0.0 0.0 ellipse type 1 fitness 3.0
+261 9825 0.0 0.0 ellipse type 0 fitness 0.75
+262 11413 0.0 0.0 ellipse type 1 fitness 2.0
+263 9839 0.0 0.0 ellipse type 1 fitness 4.0
+264 9841 0.0 0.0 ellipse type 1 fitness 3.5
+265 9844 0.0 0.0 ellipse type 1 fitness 4.0
+266 9845 0.0 0.0 ellipse type 0 fitness 4.75
+267 9846 0.0 0.0 ellipse type 0 fitness 2.0
+268 9848 0.0 0.0 ellipse type 1 fitness 6.0
+269 9850 0.0 0.0 ellipse type 0 fitness 0.75
+270 9851 0.0 0.0 ellipse type 1 fitness 1.5
+271 9853 0.0 0.0 ellipse type 1 fitness 0.5
+272 9855 0.0 0.0 ellipse type 1 fitness 1.5
+273 9856 0.0 0.0 ellipse type 1 fitness 2.5
+274 9857 0.0 0.0 ellipse type 1 fitness 0.5
+275 9859 0.0 0.0 ellipse type 1 fitness 1.5
+276 9861 0.0 0.0 ellipse type 1 fitness 3.0
+277 9862 0.0 0.0 ellipse type 0 fitness 3.5
+278 9863 0.0 0.0 ellipse type 0 fitness 3.25
+279 9878 0.0 0.0 ellipse type 1 fitness 4.0
+280 9879 0.0 0.0 ellipse type 0 fitness 0.75
+281 9881 0.0 0.0 ellipse type 1 fitness 1.5
+282 9884 0.0 0.0 ellipse type 1 fitness 0.5
+283 9890 0.0 0.0 ellipse type 1 fitness 0.5
+284 9891 0.0 0.0 ellipse type 1 fitness 3.0
+285 9899 0.0 0.0 ellipse type 1 fitness 0.5
+286 9900 0.0 0.0 ellipse type 1 fitness 0.5
+287 9917 0.0 0.0 ellipse type 0 fitness 0.75
+288 9920 0.0 0.0 ellipse type 0 fitness 0.5
+289 9924 0.0 0.0 ellipse type 1 fitness 1.5
+290 9930 0.0 0.0 ellipse type 1 fitness 3.5
+291 9932 0.0 0.0 ellipse type 0 fitness 1.25
+292 9941 0.0 0.0 ellipse type 0 fitness 0.5
+293 9943 0.0 0.0 ellipse type 1 fitness 1.5
+294 9946 0.0 0.0 ellipse type 0 fitness 2.75
+295 9947 0.0 0.0 ellipse type 1 fitness 3.0
+296 9950 0.0 0.0 ellipse type 0 fitness 1.5
+297 9959 0.0 0.0 ellipse type 1 fitness 1.0
+298 9960 0.0 0.0 ellipse type 1 fitness 1.0
+299 9962 0.0 0.0 ellipse type 0 fitness 1.5
+300 9967 0.0 0.0 ellipse type 0 fitness 2.25
+301 9968 0.0 0.0 ellipse type 0 fitness 2.5
+302 9970 0.0 0.0 ellipse type 1 fitness 1.0
+303 9971 0.0 0.0 ellipse type 1 fitness 1.0
+304 9972 0.0 0.0 ellipse type 1 fitness 1.5
+305 9973 0.0 0.0 ellipse type 0 fitness 1.5
+306 9976 0.0 0.0 ellipse type 0 fitness 1.75
+307 9977 0.0 0.0 ellipse type 1 fitness 1.0
+308 9978 0.0 0.0 ellipse type 1 fitness 4.0
+309 9981 0.0 0.0 ellipse type 0 fitness 1.5
+310 9984 0.0 0.0 ellipse type 1 fitness 2.0
+311 9986 0.0 0.0 ellipse type 1 fitness 2.0
+312 9987 0.0 0.0 ellipse type 0 fitness 3.5
+313 9988 0.0 0.0 ellipse type 0 fitness 1.0
+314 9989 0.0 0.0 ellipse type 0 fitness 1.25
+315 10008 0.0 0.0 ellipse type 1 fitness 2.5
+316 10010 0.0 0.0 ellipse type 1 fitness 2.0
+317 10011 0.0 0.0 ellipse type 0 fitness 4.75
+318 10014 0.0 0.0 ellipse type 0 fitness 1.75
+319 10015 0.0 0.0 ellipse type 0 fitness 3.0
+320 10016 0.0 0.0 ellipse type 0 fitness 2.5
+321 10019 0.0 0.0 ellipse type 1 fitness 3.5
+322 10029 0.0 0.0 ellipse type 0 fitness 2.25
+323 10041 0.0 0.0 ellipse type 1 fitness 3.0
+324 10044 0.0 0.0 ellipse type 1 fitness 3.0
+325 10046 0.0 0.0 ellipse type 1 fitness 4.5
+326 10050 0.0 0.0 ellipse type 1 fitness 1.5
+327 10052 0.0 0.0 ellipse type 0 fitness 1.75
+328 10055 0.0 0.0 ellipse type 1 fitness 1.5
+329 10059 0.0 0.0 ellipse type 1 fitness 0.5
+330 10075 0.0 0.0 ellipse type 1 fitness 3.5
+331 10076 0.0 0.0 ellipse type 0 fitness 3.25
+332 10077 0.0 0.0 ellipse type 1 fitness 1.5
+333 10079 0.0 0.0 ellipse type 0 fitness 1.25
+334 10080 0.0 0.0 ellipse type 0 fitness 2.25
+335 10081 0.0 0.0 ellipse type 1 fitness 1.5
+336 10082 0.0 0.0 ellipse type 1 fitness 1.0
+337 10083 0.0 0.0 ellipse type 1 fitness 0.5
+338 10089 0.0 0.0 ellipse type 1 fitness 1.0
+339 10094 0.0 0.0 ellipse type 1 fitness 3.0
+340 10095 0.0 0.0 ellipse type 1 fitness 1.5
+341 10103 0.0 0.0 ellipse type 1 fitness 0.5
+342 10105 0.0 0.0 ellipse type 0 fitness 0.75
+343 10112 0.0 0.0 ellipse type 0 fitness 1.5
+344 10118 0.0 0.0 ellipse type 0 fitness 1.0
+345 10119 0.0 0.0 ellipse type 1 fitness 4.0
+346 10120 0.0 0.0 ellipse type 1 fitness 1.5
+347 10128 0.0 0.0 ellipse type 1 fitness 1.0
+348 10130 0.0 0.0 ellipse type 0 fitness 1.0
+349 10132 0.0 0.0 ellipse type 1 fitness 2.5
+350 10703 0.0 0.0 ellipse type 0 fitness 2.0
+351 10137 0.0 0.0 ellipse type 1 fitness 2.5
+352 10138 0.0 0.0 ellipse type 1 fitness 2.0
+353 10140 0.0 0.0 ellipse type 1 fitness 2.0
+354 10143 0.0 0.0 ellipse type 1 fitness 3.5
+355 10145 0.0 0.0 ellipse type 1 fitness 1.0
+356 10146 0.0 0.0 ellipse type 1 fitness 0.5
+357 10147 0.0 0.0 ellipse type 1 fitness 0.5
+358 10149 0.0 0.0 ellipse type 1 fitness 1.0
+359 10150 0.0 0.0 ellipse type 0 fitness 1.5
+360 10157 0.0 0.0 ellipse type 1 fitness 3.5
+361 10158 0.0 0.0 ellipse type 0 fitness 2.75
+362 10162 0.0 0.0 ellipse type 1 fitness 1.5
+363 10163 0.0 0.0 ellipse type 0 fitness 2.25
+364 10173 0.0 0.0 ellipse type 0 fitness 2.5
+365 10175 0.0 0.0 ellipse type 0 fitness 1.5
+366 10180 0.0 0.0 ellipse type 1 fitness 1.5
+367 10186 0.0 0.0 ellipse type 1 fitness 2.5
+368 10193 0.0 0.0 ellipse type 1 fitness 1.5
+369 10195 0.0 0.0 ellipse type 0 fitness 0.5
+370 10196 0.0 0.0 ellipse type 0 fitness 2.5
+371 10199 0.0 0.0 ellipse type 1 fitness 3.5
+372 10201 0.0 0.0 ellipse type 0 fitness 1.25
+373 10202 0.0 0.0 ellipse type 1 fitness 1.5
+374 10207 0.0 0.0 ellipse type 1 fitness 2.0
+375 10208 0.0 0.0 ellipse type 1 fitness 0.5
+376 10215 0.0 0.0 ellipse type 0 fitness 2.25
+377 10216 0.0 0.0 ellipse type 0 fitness 1.0
+378 10217 0.0 0.0 ellipse type 0 fitness 1.5
+379 10218 0.0 0.0 ellipse type 1 fitness 2.5
+380 10226 0.0 0.0 ellipse type 1 fitness 1.0
+381 10227 0.0 0.0 ellipse type 1 fitness 0.5
+382 10230 0.0 0.0 ellipse type 1 fitness 1.0
+383 10231 0.0 0.0 ellipse type 1 fitness 1.0
+384 10235 0.0 0.0 ellipse type 1 fitness 1.0
+385 10237 0.0 0.0 ellipse type 0 fitness 1.25
+386 10238 0.0 0.0 ellipse type 1 fitness 0.5
+387 10239 0.0 0.0 ellipse type 1 fitness 1.0
+388 10240 0.0 0.0 ellipse type 0 fitness 2.25
+389 10241 0.0 0.0 ellipse type 0 fitness 4.25
+390 10248 0.0 0.0 ellipse type 0 fitness 1.0
+391 10250 0.0 0.0 ellipse type 0 fitness 2.25
+392 10252 0.0 0.0 ellipse type 0 fitness 1.75
+393 10254 0.0 0.0 ellipse type 1 fitness 4.5
+394 10255 0.0 0.0 ellipse type 0 fitness 5.0
+395 10257 0.0 0.0 ellipse type 0 fitness 0.75
+396 10260 0.0 0.0 ellipse type 1 fitness 1.5
+397 10265 0.0 0.0 ellipse type 0 fitness 3.0
+398 10266 0.0 0.0 ellipse type 1 fitness 1.0
+399 10268 0.0 0.0 ellipse type 0 fitness 2.0
+400 10269 0.0 0.0 ellipse type 0 fitness 1.75
+401 10276 0.0 0.0 ellipse type 1 fitness 1.5
+402 10281 0.0 0.0 ellipse type 0 fitness 1.75
+403 10283 0.0 0.0 ellipse type 1 fitness 0.5
+404 10286 0.0 0.0 ellipse type 0 fitness 2.0
+405 10290 0.0 0.0 ellipse type 1 fitness 1.0
+406 10294 0.0 0.0 ellipse type 1 fitness 1.0
+407 10298 0.0 0.0 ellipse type 0 fitness 1.75
+408 10305 0.0 0.0 ellipse type 1 fitness 1.5
+409 10308 0.0 0.0 ellipse type 1 fitness 1.5
+410 10310 0.0 0.0 ellipse type 1 fitness 1.0
+411 10312 0.0 0.0 ellipse type 0 fitness 2.5
+412 10313 0.0 0.0 ellipse type 1 fitness 2.0
+413 10314 0.0 0.0 ellipse type 1 fitness 2.5
+414 10321 0.0 0.0 ellipse type 1 fitness 2.0
+415 10326 0.0 0.0 ellipse type 0 fitness 0.5
+416 10328 0.0 0.0 ellipse type 1 fitness 1.5
+417 10329 0.0 0.0 ellipse type 1 fitness 4.5
+418 10330 0.0 0.0 ellipse type 1 fitness 0.5
+419 10335 0.0 0.0 ellipse type 1 fitness 2.5
+420 10337 0.0 0.0 ellipse type 0 fitness 2.0
+421 10340 0.0 0.0 ellipse type 1 fitness 4.5
+422 10341 0.0 0.0 ellipse type 0 fitness 1.25
+423 10342 0.0 0.0 ellipse type 1 fitness 3.5
+424 10345 0.0 0.0 ellipse type 0 fitness 2.25
+425 10347 0.0 0.0 ellipse type 1 fitness 7.0
+426 10351 0.0 0.0 ellipse type 1 fitness 1.5
+427 10353 0.0 0.0 ellipse type 1 fitness 3.0
+428 10357 0.0 0.0 ellipse type 1 fitness 3.0
+429 10362 0.0 0.0 ellipse type 0 fitness 0.5
+430 10363 0.0 0.0 ellipse type 0 fitness 2.0
+431 10364 0.0 0.0 ellipse type 1 fitness 1.0
+432 10365 0.0 0.0 ellipse type 0 fitness 1.5
+433 10370 0.0 0.0 ellipse type 1 fitness 0.5
+434 10378 0.0 0.0 ellipse type 1 fitness 1.5
+435 10379 0.0 0.0 ellipse type 1 fitness 2.0
+436 10383 0.0 0.0 ellipse type 1 fitness 1.5
+437 10385 0.0 0.0 ellipse type 1 fitness 3.0
+438 10387 0.0 0.0 ellipse type 0 fitness 2.25
+439 10388 0.0 0.0 ellipse type 1 fitness 0.5
+440 10391 0.0 0.0 ellipse type 1 fitness 1.0
+441 10396 0.0 0.0 ellipse type 0 fitness 0.75
+442 10398 0.0 0.0 ellipse type 1 fitness 0.5
+443 10400 0.0 0.0 ellipse type 0 fitness 2.0
+444 10408 0.0 0.0 ellipse type 1 fitness 5.0
+445 10409 0.0 0.0 ellipse type 1 fitness 3.5
+446 10410 0.0 0.0 ellipse type 1 fitness 2.0
+447 10412 0.0 0.0 ellipse type 1 fitness 0.5
+448 10414 0.0 0.0 ellipse type 0 fitness 1.25
+449 10419 0.0 0.0 ellipse type 1 fitness 1.5
+450 10420 0.0 0.0 ellipse type 0 fitness 1.5
+451 10421 0.0 0.0 ellipse type 0 fitness 4.75
+452 10426 0.0 0.0 ellipse type 0 fitness 3.5
+453 10428 0.0 0.0 ellipse type 1 fitness 2.5
+454 10430 0.0 0.0 ellipse type 1 fitness 2.5
+455 10434 0.0 0.0 ellipse type 0 fitness 2.25
+456 10445 0.0 0.0 ellipse type 0 fitness 1.25
+457 10447 0.0 0.0 ellipse type 1 fitness 2.5
+458 10448 0.0 0.0 ellipse type 1 fitness 1.5
+459 10451 0.0 0.0 ellipse type 0 fitness 1.25
+460 10452 0.0 0.0 ellipse type 1 fitness 3.0
+461 10455 0.0 0.0 ellipse type 0 fitness 3.0
+462 10457 0.0 0.0 ellipse type 1 fitness 5.0
+463 10461 0.0 0.0 ellipse type 1 fitness 0.5
+464 10463 0.0 0.0 ellipse type 1 fitness 1.0
+465 10464 0.0 0.0 ellipse type 1 fitness 0.5
+466 10468 0.0 0.0 ellipse type 1 fitness 2.0
+467 10474 0.0 0.0 ellipse type 1 fitness 3.0
+468 10475 0.0 0.0 ellipse type 1 fitness 3.0
+469 10479 0.0 0.0 ellipse type 1 fitness 4.0
+470 10480 0.0 0.0 ellipse type 0 fitness 2.25
+471 10481 0.0 0.0 ellipse type 1 fitness 2.0
+472 10483 0.0 0.0 ellipse type 1 fitness 2.5
+473 10484 0.0 0.0 ellipse type 0 fitness 1.75
+474 10485 0.0 0.0 ellipse type 0 fitness 1.5
+475 10491 0.0 0.0 ellipse type 1 fitness 1.5
+476 10492 0.0 0.0 ellipse type 0 fitness 0.75
+477 10493 0.0 0.0 ellipse type 0 fitness 1.5
+478 10494 0.0 0.0 ellipse type 0 fitness 1.25
+479 10497 0.0 0.0 ellipse type 1 fitness 1.5
+480 10498 0.0 0.0 ellipse type 0 fitness 2.0
+481 10500 0.0 0.0 ellipse type 1 fitness 2.0
+482 10502 0.0 0.0 ellipse type 0 fitness 1.5
+483 10503 0.0 0.0 ellipse type 1 fitness 3.5
+484 10505 0.0 0.0 ellipse type 0 fitness 2.75
+485 10510 0.0 0.0 ellipse type 1 fitness 2.0
+486 10518 0.0 0.0 ellipse type 1 fitness 1.5
+487 10519 0.0 0.0 ellipse type 0 fitness 2.25
+488 10520 0.0 0.0 ellipse type 1 fitness 1.0
+489 10526 0.0 0.0 ellipse type 1 fitness 4.0
+490 10528 0.0 0.0 ellipse type 1 fitness 3.0
+491 10536 0.0 0.0 ellipse type 0 fitness 0.5
+492 10538 0.0 0.0 ellipse type 1 fitness 1.0
+493 10539 0.0 0.0 ellipse type 1 fitness 4.0
+494 10544 0.0 0.0 ellipse type 1 fitness 1.5
+495 10546 0.0 0.0 ellipse type 1 fitness 0.5
+496 10547 0.0 0.0 ellipse type 1 fitness 3.0
+497 10549 0.0 0.0 ellipse type 1 fitness 0.5
+498 10551 0.0 0.0 ellipse type 0 fitness 2.25
+499 10552 0.0 0.0 ellipse type 1 fitness 2.5
+500 10553 0.0 0.0 ellipse type 0 fitness 1.75
+501 10562 0.0 0.0 ellipse type 0 fitness 1.0
+502 10564 0.0 0.0 ellipse type 1 fitness 1.5
+503 10565 0.0 0.0 ellipse type 0 fitness 2.0
+504 10568 0.0 0.0 ellipse type 1 fitness 5.0
+505 10570 0.0 0.0 ellipse type 0 fitness 3.25
+506 10572 0.0 0.0 ellipse type 1 fitness 2.5
+507 10574 0.0 0.0 ellipse type 1 fitness 1.0
+508 10577 0.0 0.0 ellipse type 0 fitness 1.25
+509 10578 0.0 0.0 ellipse type 0 fitness 1.75
+510 10583 0.0 0.0 ellipse type 1 fitness 1.0
+511 10584 0.0 0.0 ellipse type 0 fitness 1.25
+512 10585 0.0 0.0 ellipse type 1 fitness 2.5
+513 10589 0.0 0.0 ellipse type 1 fitness 2.0
+514 10591 0.0 0.0 ellipse type 1 fitness 3.5
+515 10594 0.0 0.0 ellipse type 1 fitness 2.0
+516 10596 0.0 0.0 ellipse type 0 fitness 3.0
+517 10599 0.0 0.0 ellipse type 1 fitness 1.0
+518 10603 0.0 0.0 ellipse type 1 fitness 2.0
+519 10604 0.0 0.0 ellipse type 1 fitness 1.0
+520 10606 0.0 0.0 ellipse type 1 fitness 2.5
+521 10610 0.0 0.0 ellipse type 1 fitness 1.5
+522 10618 0.0 0.0 ellipse type 1 fitness 0.5
+523 10620 0.0 0.0 ellipse type 0 fitness 1.25
+524 10627 0.0 0.0 ellipse type 1 fitness 1.5
+525 10629 0.0 0.0 ellipse type 1 fitness 4.5
+526 10632 0.0 0.0 ellipse type 1 fitness 3.5
+527 10633 0.0 0.0 ellipse type 1 fitness 3.0
+528 10637 0.0 0.0 ellipse type 1 fitness 1.0
+529 10640 0.0 0.0 ellipse type 1 fitness 1.0
+530 10647 0.0 0.0 ellipse type 0 fitness 2.5
+531 10659 0.0 0.0 ellipse type 0 fitness 0.5
+532 10660 0.0 0.0 ellipse type 0 fitness 2.25
+533 10661 0.0 0.0 ellipse type 0 fitness 1.25
+534 10666 0.0 0.0 ellipse type 0 fitness 2.0
+535 10668 0.0 0.0 ellipse type 0 fitness 2.5
+536 10671 0.0 0.0 ellipse type 1 fitness 2.0
+537 10673 0.0 0.0 ellipse type 1 fitness 3.0
+538 10674 0.0 0.0 ellipse type 1 fitness 2.5
+539 10676 0.0 0.0 ellipse type 1 fitness 3.0
+540 10677 0.0 0.0 ellipse type 0 fitness 3.0
+541 10678 0.0 0.0 ellipse type 0 fitness 3.25
+542 10679 0.0 0.0 ellipse type 1 fitness 5.0
+543 10682 0.0 0.0 ellipse type 1 fitness 5.0
+544 10683 0.0 0.0 ellipse type 0 fitness 2.75
+545 10684 0.0 0.0 ellipse type 1 fitness 2.0
+546 10689 0.0 0.0 ellipse type 0 fitness 1.25
+547 10691 0.0 0.0 ellipse type 1 fitness 4.5
+548 10694 0.0 0.0 ellipse type 1 fitness 0.5
+549 10697 0.0 0.0 ellipse type 1 fitness 2.0
+550 10702 0.0 0.0 ellipse type 1 fitness 2.0
+551 2511 0.0 0.0 ellipse type 0 fitness 0.5
+552 10706 0.0 0.0 ellipse type 1 fitness 2.5
+553 10709 0.0 0.0 ellipse type 1 fitness 1.5
+554 10710 0.0 0.0 ellipse type 0 fitness 1.25
+555 10712 0.0 0.0 ellipse type 1 fitness 0.5
+556 10713 0.0 0.0 ellipse type 1 fitness 1.0
+557 10714 0.0 0.0 ellipse type 0 fitness 1.0
+558 10715 0.0 0.0 ellipse type 0 fitness 1.25
+559 10716 0.0 0.0 ellipse type 0 fitness 1.75
+560 10720 0.0 0.0 ellipse type 0 fitness 1.0
+561 10723 0.0 0.0 ellipse type 0 fitness 5.25
+562 10726 0.0 0.0 ellipse type 0 fitness 1.25
+563 10730 0.0 0.0 ellipse type 0 fitness 3.25
+564 10731 0.0 0.0 ellipse type 0 fitness 3.5
+565 10735 0.0 0.0 ellipse type 0 fitness 2.0
+566 10737 0.0 0.0 ellipse type 0 fitness 3.0
+567 10738 0.0 0.0 ellipse type 0 fitness 1.5
+568 10739 0.0 0.0 ellipse type 1 fitness 4.5
+569 10741 0.0 0.0 ellipse type 0 fitness 1.0
+570 10742 0.0 0.0 ellipse type 1 fitness 0.5
+571 10745 0.0 0.0 ellipse type 0 fitness 3.25
+572 10746 0.0 0.0 ellipse type 1 fitness 1.5
+573 10747 0.0 0.0 ellipse type 1 fitness 0.5
+574 10752 0.0 0.0 ellipse type 0 fitness 0.75
+575 10753 0.0 0.0 ellipse type 0 fitness 2.0
+576 10754 0.0 0.0 ellipse type 1 fitness 3.5
+577 10756 0.0 0.0 ellipse type 0 fitness 2.5
+578 10757 0.0 0.0 ellipse type 0 fitness 2.0
+579 10761 0.0 0.0 ellipse type 0 fitness 3.75
+580 10763 0.0 0.0 ellipse type 0 fitness 0.75
+581 10766 0.0 0.0 ellipse type 0 fitness 3.0
+582 10769 0.0 0.0 ellipse type 1 fitness 1.5
+583 10771 0.0 0.0 ellipse type 1 fitness 1.5
+584 10773 0.0 0.0 ellipse type 1 fitness 2.5
+585 10774 0.0 0.0 ellipse type 0 fitness 2.25
+586 10777 0.0 0.0 ellipse type 1 fitness 5.5
+587 10778 0.0 0.0 ellipse type 1 fitness 1.0
+588 10779 0.0 0.0 ellipse type 1 fitness 1.5
+589 10781 0.0 0.0 ellipse type 1 fitness 1.0
+590 10782 0.0 0.0 ellipse type 1 fitness 2.0
+591 10784 0.0 0.0 ellipse type 1 fitness 1.5
+592 10787 0.0 0.0 ellipse type 0 fitness 1.75
+593 10789 0.0 0.0 ellipse type 0 fitness 0.75
+594 10794 0.0 0.0 ellipse type 1 fitness 2.0
+595 10795 0.0 0.0 ellipse type 0 fitness 4.25
+596 10797 0.0 0.0 ellipse type 1 fitness 1.5
+597 10798 0.0 0.0 ellipse type 1 fitness 2.5
+598 10802 0.0 0.0 ellipse type 1 fitness 1.0
+599 10806 0.0 0.0 ellipse type 0 fitness 1.5
+600 10807 0.0 0.0 ellipse type 0 fitness 0.5
+601 10808 0.0 0.0 ellipse type 1 fitness 1.0
+602 10809 0.0 0.0 ellipse type 1 fitness 1.0
+603 10810 0.0 0.0 ellipse type 1 fitness 2.5
+604 10811 0.0 0.0 ellipse type 0 fitness 1.75
+605 10814 0.0 0.0 ellipse type 1 fitness 1.5
+606 10815 0.0 0.0 ellipse type 1 fitness 5.0
+607 10819 0.0 0.0 ellipse type 1 fitness 3.0
+608 10821 0.0 0.0 ellipse type 0 fitness 3.0
+609 10822 0.0 0.0 ellipse type 0 fitness 0.5
+610 10823 0.0 0.0 ellipse type 0 fitness 1.25
+611 10824 0.0 0.0 ellipse type 1 fitness 2.5
+612 10825 0.0 0.0 ellipse type 1 fitness 2.0
+613 10826 0.0 0.0 ellipse type 0 fitness 5.5
+614 10827 0.0 0.0 ellipse type 1 fitness 4.5
+615 10831 0.0 0.0 ellipse type 1 fitness 2.0
+616 10833 0.0 0.0 ellipse type 1 fitness 2.0
+617 10836 0.0 0.0 ellipse type 0 fitness 1.75
+618 10838 0.0 0.0 ellipse type 1 fitness 2.5
+619 10839 0.0 0.0 ellipse type 0 fitness 1.0
+620 10840 0.0 0.0 ellipse type 1 fitness 1.5
+621 10841 0.0 0.0 ellipse type 0 fitness 3.0
+622 10843 0.0 0.0 ellipse type 1 fitness 1.0
+623 10847 0.0 0.0 ellipse type 1 fitness 2.0
+624 10851 0.0 0.0 ellipse type 1 fitness 4.5
+625 10852 0.0 0.0 ellipse type 0 fitness 1.5
+626 10853 0.0 0.0 ellipse type 1 fitness 2.5
+627 10855 0.0 0.0 ellipse type 1 fitness 1.0
+628 10856 0.0 0.0 ellipse type 0 fitness 1.75
+629 10857 0.0 0.0 ellipse type 0 fitness 2.25
+630 10858 0.0 0.0 ellipse type 0 fitness 2.25
+631 10860 0.0 0.0 ellipse type 0 fitness 1.0
+632 10861 0.0 0.0 ellipse type 1 fitness 1.5
+633 10865 0.0 0.0 ellipse type 0 fitness 1.25
+634 10866 0.0 0.0 ellipse type 0 fitness 1.5
+635 10867 0.0 0.0 ellipse type 1 fitness 2.5
+636 10871 0.0 0.0 ellipse type 1 fitness 2.0
+637 10872 0.0 0.0 ellipse type 1 fitness 1.0
+638 10873 0.0 0.0 ellipse type 1 fitness 2.0
+639 10874 0.0 0.0 ellipse type 0 fitness 1.0
+640 10876 0.0 0.0 ellipse type 1 fitness 2.0
+641 10877 0.0 0.0 ellipse type 1 fitness 2.0
+642 10878 0.0 0.0 ellipse type 1 fitness 3.5
+643 10881 0.0 0.0 ellipse type 1 fitness 1.5
+644 10888 0.0 0.0 ellipse type 0 fitness 0.75
+645 2697 0.0 0.0 ellipse type 1 fitness 1.0
+646 10890 0.0 0.0 ellipse type 0 fitness 1.25
+647 10891 0.0 0.0 ellipse type 1 fitness 1.0
+648 10892 0.0 0.0 ellipse type 0 fitness 2.0
+649 10896 0.0 0.0 ellipse type 0 fitness 2.0
+650 10897 0.0 0.0 ellipse type 1 fitness 2.5
+651 10898 0.0 0.0 ellipse type 1 fitness 4.5
+652 10900 0.0 0.0 ellipse type 0 fitness 3.0
+653 10901 0.0 0.0 ellipse type 0 fitness 2.0
+654 10902 0.0 0.0 ellipse type 0 fitness 2.75
+655 10904 0.0 0.0 ellipse type 0 fitness 3.0
+656 10905 0.0 0.0 ellipse type 0 fitness 1.25
+657 10913 0.0 0.0 ellipse type 1 fitness 3.5
+658 10915 0.0 0.0 ellipse type 1 fitness 0.5
+659 10917 0.0 0.0 ellipse type 0 fitness 3.0
+660 10918 0.0 0.0 ellipse type 0 fitness 0.75
+661 10919 0.0 0.0 ellipse type 0 fitness 3.75
+662 10922 0.0 0.0 ellipse type 0 fitness 3.0
+663 10925 0.0 0.0 ellipse type 1 fitness 3.0
+664 10926 0.0 0.0 ellipse type 1 fitness 2.0
+665 10929 0.0 0.0 ellipse type 0 fitness 1.25
+666 10931 0.0 0.0 ellipse type 0 fitness 1.25
+667 10936 0.0 0.0 ellipse type 1 fitness 2.5
+668 10937 0.0 0.0 ellipse type 1 fitness 2.5
+669 10941 0.0 0.0 ellipse type 0 fitness 0.75
+670 10944 0.0 0.0 ellipse type 1 fitness 2.0
+671 10947 0.0 0.0 ellipse type 1 fitness 3.5
+672 10948 0.0 0.0 ellipse type 0 fitness 3.5
+673 10949 0.0 0.0 ellipse type 1 fitness 2.0
+674 10950 0.0 0.0 ellipse type 0 fitness 1.5
+675 10952 0.0 0.0 ellipse type 0 fitness 1.75
+676 10953 0.0 0.0 ellipse type 1 fitness 3.5
+677 10956 0.0 0.0 ellipse type 0 fitness 1.25
+678 10957 0.0 0.0 ellipse type 1 fitness 2.0
+679 10958 0.0 0.0 ellipse type 1 fitness 4.5
+680 10959 0.0 0.0 ellipse type 1 fitness 2.5
+681 10960 0.0 0.0 ellipse type 1 fitness 1.5
+682 10961 0.0 0.0 ellipse type 1 fitness 3.0
+683 10963 0.0 0.0 ellipse type 1 fitness 2.0
+684 10964 0.0 0.0 ellipse type 1 fitness 2.0
+685 10967 0.0 0.0 ellipse type 1 fitness 1.5
+686 10968 0.0 0.0 ellipse type 0 fitness 0.75
+687 10969 0.0 0.0 ellipse type 0 fitness 2.0
+688 10970 0.0 0.0 ellipse type 1 fitness 2.0
+689 10971 0.0 0.0 ellipse type 0 fitness 2.5
+690 10973 0.0 0.0 ellipse type 1 fitness 2.0
+691 10976 0.0 0.0 ellipse type 1 fitness 4.0
+692 10977 0.0 0.0 ellipse type 0 fitness 2.75
+693 10979 0.0 0.0 ellipse type 0 fitness 1.75
+694 10980 0.0 0.0 ellipse type 0 fitness 0.5
+695 10981 0.0 0.0 ellipse type 0 fitness 1.75
+696 10983 0.0 0.0 ellipse type 1 fitness 2.5
+697 10984 0.0 0.0 ellipse type 1 fitness 3.0
+698 10985 0.0 0.0 ellipse type 1 fitness 2.5
+699 10987 0.0 0.0 ellipse type 1 fitness 1.5
+700 10988 0.0 0.0 ellipse type 1 fitness 1.0
+701 10989 0.0 0.0 ellipse type 1 fitness 5.0
+702 10992 0.0 0.0 ellipse type 1 fitness 2.0
+703 10993 0.0 0.0 ellipse type 1 fitness 6.5
+704 10994 0.0 0.0 ellipse type 1 fitness 2.0
+705 10996 0.0 0.0 ellipse type 0 fitness 3.75
+706 10997 0.0 0.0 ellipse type 1 fitness 2.0
+707 10998 0.0 0.0 ellipse type 0 fitness 2.25
+708 10999 0.0 0.0 ellipse type 1 fitness 2.5
+709 11000 0.0 0.0 ellipse type 0 fitness 1.0
+710 11001 0.0 0.0 ellipse type 1 fitness 4.0
+711 11005 0.0 0.0 ellipse type 0 fitness 1.25
+712 11008 0.0 0.0 ellipse type 1 fitness 1.5
+713 11010 0.0 0.0 ellipse type 1 fitness 1.0
+714 11011 0.0 0.0 ellipse type 1 fitness 2.0
+715 11012 0.0 0.0 ellipse type 1 fitness 2.0
+716 11013 0.0 0.0 ellipse type 1 fitness 0.5
+717 11015 0.0 0.0 ellipse type 0 fitness 3.25
+718 11016 0.0 0.0 ellipse type 1 fitness 2.5
+719 11018 0.0 0.0 ellipse type 0 fitness 3.0
+720 11019 0.0 0.0 ellipse type 1 fitness 1.5
+721 11021 0.0 0.0 ellipse type 1 fitness 0.5
+722 11023 0.0 0.0 ellipse type 1 fitness 2.5
+723 11024 0.0 0.0 ellipse type 0 fitness 2.0
+724 11029 0.0 0.0 ellipse type 1 fitness 3.0
+725 11030 0.0 0.0 ellipse type 0 fitness 1.0
+726 11032 0.0 0.0 ellipse type 1 fitness 2.0
+727 11037 0.0 0.0 ellipse type 0 fitness 7.0
+728 11038 0.0 0.0 ellipse type 0 fitness 2.0
+729 11039 0.0 0.0 ellipse type 0 fitness 1.5
+730 11040 0.0 0.0 ellipse type 0 fitness 2.25
+731 11042 0.0 0.0 ellipse type 1 fitness 1.5
+732 11046 0.0 0.0 ellipse type 0 fitness 2.0
+733 11047 0.0 0.0 ellipse type 1 fitness 1.5
+734 11048 0.0 0.0 ellipse type 0 fitness 0.75
+735 11053 0.0 0.0 ellipse type 1 fitness 1.0
+736 11055 0.0 0.0 ellipse type 0 fitness 1.25
+737 11060 0.0 0.0 ellipse type 0 fitness 2.25
+738 11063 0.0 0.0 ellipse type 1 fitness 2.0
+739 11064 0.0 0.0 ellipse type 0 fitness 1.0
+740 11066 0.0 0.0 ellipse type 1 fitness 2.0
+741 11067 0.0 0.0 ellipse type 1 fitness 1.0
+742 11068 0.0 0.0 ellipse type 1 fitness 2.0
+743 11072 0.0 0.0 ellipse type 1 fitness 2.0
+744 11074 0.0 0.0 ellipse type 1 fitness 2.0
+745 11078 0.0 0.0 ellipse type 1 fitness 5.0
+746 11079 0.0 0.0 ellipse type 1 fitness 3.0
+747 11080 0.0 0.0 ellipse type 0 fitness 2.25
+748 11083 0.0 0.0 ellipse type 0 fitness 1.5
+749 11084 0.0 0.0 ellipse type 1 fitness 2.0
+750 11086 0.0 0.0 ellipse type 0 fitness 1.0
+751 11087 0.0 0.0 ellipse type 0 fitness 0.75
+752 11088 0.0 0.0 ellipse type 1 fitness 3.5
+753 11089 0.0 0.0 ellipse type 1 fitness 2.5
+754 11090 0.0 0.0 ellipse type 1 fitness 3.0
+755 11091 0.0 0.0 ellipse type 1 fitness 2.0
+756 11092 0.0 0.0 ellipse type 1 fitness 0.5
+757 11093 0.0 0.0 ellipse type 0 fitness 3.25
+758 11094 0.0 0.0 ellipse type 0 fitness 1.75
+759 11096 0.0 0.0 ellipse type 1 fitness 2.0
+760 11097 0.0 0.0 ellipse type 1 fitness 3.5
+761 11101 0.0 0.0 ellipse type 0 fitness 1.25
+762 11104 0.0 0.0 ellipse type 1 fitness 3.5
+763 11108 0.0 0.0 ellipse type 0 fitness 1.0
+764 11110 0.0 0.0 ellipse type 1 fitness 2.5
+765 11113 0.0 0.0 ellipse type 1 fitness 3.5
+766 11115 0.0 0.0 ellipse type 1 fitness 2.5
+767 11116 0.0 0.0 ellipse type 1 fitness 2.5
+768 11117 0.0 0.0 ellipse type 0 fitness 1.25
+769 11118 0.0 0.0 ellipse type 1 fitness 3.0
+770 11120 0.0 0.0 ellipse type 0 fitness 3.75
+771 11123 0.0 0.0 ellipse type 1 fitness 1.5
+772 11125 0.0 0.0 ellipse type 1 fitness 2.0
+773 11126 0.0 0.0 ellipse type 1 fitness 4.5
+774 11127 0.0 0.0 ellipse type 1 fitness 3.0
+775 11128 0.0 0.0 ellipse type 1 fitness 2.0
+776 11130 0.0 0.0 ellipse type 1 fitness 1.5
+777 11131 0.0 0.0 ellipse type 1 fitness 1.0
+778 11132 0.0 0.0 ellipse type 0 fitness 3.0
+779 11133 0.0 0.0 ellipse type 1 fitness 1.0
+780 11134 0.0 0.0 ellipse type 0 fitness 1.25
+781 11135 0.0 0.0 ellipse type 0 fitness 4.25
+782 11137 0.0 0.0 ellipse type 0 fitness 0.75
+783 11138 0.0 0.0 ellipse type 0 fitness 0.5
+784 11139 0.0 0.0 ellipse type 0 fitness 0.75
+785 11143 0.0 0.0 ellipse type 0 fitness 1.25
+786 11145 0.0 0.0 ellipse type 1 fitness 2.0
+787 11146 0.0 0.0 ellipse type 1 fitness 3.0
+788 11147 0.0 0.0 ellipse type 1 fitness 1.5
+789 11148 0.0 0.0 ellipse type 0 fitness 1.5
+790 11150 0.0 0.0 ellipse type 1 fitness 1.0
+791 11154 0.0 0.0 ellipse type 0 fitness 3.0
+792 11155 0.0 0.0 ellipse type 0 fitness 1.75
+793 11156 0.0 0.0 ellipse type 1 fitness 2.0
+794 11158 0.0 0.0 ellipse type 0 fitness 3.25
+795 11159 0.0 0.0 ellipse type 1 fitness 3.0
+796 11160 0.0 0.0 ellipse type 1 fitness 4.5
+797 11161 0.0 0.0 ellipse type 1 fitness 0.5
+798 11162 0.0 0.0 ellipse type 1 fitness 2.5
+799 11164 0.0 0.0 ellipse type 1 fitness 4.0
+800 11165 0.0 0.0 ellipse type 0 fitness 2.0
+801 11166 0.0 0.0 ellipse type 0 fitness 2.0
+802 11167 0.0 0.0 ellipse type 0 fitness 1.0
+803 11169 0.0 0.0 ellipse type 1 fitness 3.5
+804 11170 0.0 0.0 ellipse type 0 fitness 3.0
+805 11171 0.0 0.0 ellipse type 0 fitness 3.5
+806 11172 0.0 0.0 ellipse type 1 fitness 1.5
+807 11175 0.0 0.0 ellipse type 1 fitness 1.5
+808 11176 0.0 0.0 ellipse type 1 fitness 2.0
+809 11178 0.0 0.0 ellipse type 1 fitness 2.0
+810 11182 0.0 0.0 ellipse type 1 fitness 1.5
+811 11184 0.0 0.0 ellipse type 1 fitness 2.0
+812 11185 0.0 0.0 ellipse type 1 fitness 2.0
+813 11186 0.0 0.0 ellipse type 0 fitness 3.75
+814 11189 0.0 0.0 ellipse type 1 fitness 1.0
+815 11190 0.0 0.0 ellipse type 1 fitness 0.5
+816 11191 0.0 0.0 ellipse type 1 fitness 0.5
+817 11192 0.0 0.0 ellipse type 0 fitness 2.0
+818 11194 0.0 0.0 ellipse type 0 fitness 1.0
+819 11195 0.0 0.0 ellipse type 0 fitness 2.0
+820 11197 0.0 0.0 ellipse type 1 fitness 1.0
+821 11198 0.0 0.0 ellipse type 1 fitness 2.5
+822 11199 0.0 0.0 ellipse type 1 fitness 1.0
+823 11200 0.0 0.0 ellipse type 0 fitness 2.25
+824 11201 0.0 0.0 ellipse type 0 fitness 1.0
+825 11203 0.0 0.0 ellipse type 0 fitness 1.5
+826 11205 0.0 0.0 ellipse type 1 fitness 1.5
+827 11206 0.0 0.0 ellipse type 1 fitness 2.0
+828 11211 0.0 0.0 ellipse type 1 fitness 1.5
+829 11212 0.0 0.0 ellipse type 0 fitness 1.75
+830 11213 0.0 0.0 ellipse type 0 fitness 1.5
+831 11214 0.0 0.0 ellipse type 0 fitness 3.25
+832 11215 0.0 0.0 ellipse type 1 fitness 1.5
+833 11217 0.0 0.0 ellipse type 1 fitness 2.0
+834 11219 0.0 0.0 ellipse type 1 fitness 1.0
+835 11221 0.0 0.0 ellipse type 0 fitness 1.5
+836 11222 0.0 0.0 ellipse type 0 fitness 0.75
+837 11223 0.0 0.0 ellipse type 1 fitness 1.5
+838 11224 0.0 0.0 ellipse type 0 fitness 1.5
+839 11228 0.0 0.0 ellipse type 1 fitness 3.5
+840 11229 0.0 0.0 ellipse type 0 fitness 2.25
+841 11230 0.0 0.0 ellipse type 1 fitness 3.5
+842 11231 0.0 0.0 ellipse type 1 fitness 1.5
+843 11232 0.0 0.0 ellipse type 1 fitness 1.0
+844 11233 0.0 0.0 ellipse type 1 fitness 2.5
+845 11235 0.0 0.0 ellipse type 1 fitness 1.5
+846 11237 0.0 0.0 ellipse type 1 fitness 3.5
+847 11239 0.0 0.0 ellipse type 1 fitness 2.5
+848 11240 0.0 0.0 ellipse type 0 fitness 1.75
+849 11242 0.0 0.0 ellipse type 1 fitness 2.5
+850 11244 0.0 0.0 ellipse type 0 fitness 1.5
+851 11245 0.0 0.0 ellipse type 1 fitness 2.0
+852 11246 0.0 0.0 ellipse type 1 fitness 3.0
+853 11249 0.0 0.0 ellipse type 1 fitness 2.0
+854 11250 0.0 0.0 ellipse type 0 fitness 2.0
+855 11252 0.0 0.0 ellipse type 1 fitness 2.0
+856 11253 0.0 0.0 ellipse type 1 fitness 1.0
+857 11255 0.0 0.0 ellipse type 1 fitness 2.0
+858 11257 0.0 0.0 ellipse type 0 fitness 2.25
+859 11260 0.0 0.0 ellipse type 1 fitness 1.0
+860 11263 0.0 0.0 ellipse type 1 fitness 1.0
+861 11264 0.0 0.0 ellipse type 0 fitness 1.0
+862 11268 0.0 0.0 ellipse type 1 fitness 2.0
+863 11269 0.0 0.0 ellipse type 1 fitness 2.0
+864 11273 0.0 0.0 ellipse type 1 fitness 3.5
+865 11274 0.0 0.0 ellipse type 1 fitness 1.5
+866 11275 0.0 0.0 ellipse type 0 fitness 1.75
+867 11276 0.0 0.0 ellipse type 1 fitness 1.0
+868 11277 0.0 0.0 ellipse type 0 fitness 2.0
+869 11280 0.0 0.0 ellipse type 1 fitness 0.5
+870 11283 0.0 0.0 ellipse type 1 fitness 2.0
+871 11284 0.0 0.0 ellipse type 1 fitness 2.5
+872 11285 0.0 0.0 ellipse type 1 fitness 1.0
+873 11286 0.0 0.0 ellipse type 1 fitness 1.5
+874 11288 0.0 0.0 ellipse type 0 fitness 2.5
+875 11289 0.0 0.0 ellipse type 1 fitness 2.0
+876 11291 0.0 0.0 ellipse type 0 fitness 1.75
+877 11292 0.0 0.0 ellipse type 0 fitness 1.75
+878 11294 0.0 0.0 ellipse type 0 fitness 1.75
+879 11295 0.0 0.0 ellipse type 1 fitness 1.5
+880 11296 0.0 0.0 ellipse type 1 fitness 3.0
+881 11298 0.0 0.0 ellipse type 0 fitness 1.75
+882 11299 0.0 0.0 ellipse type 1 fitness 2.0
+883 11300 0.0 0.0 ellipse type 1 fitness 0.5
+884 11302 0.0 0.0 ellipse type 1 fitness 1.5
+885 11303 0.0 0.0 ellipse type 0 fitness 2.25
+886 11304 0.0 0.0 ellipse type 1 fitness 1.5
+887 11305 0.0 0.0 ellipse type 1 fitness 1.5
+888 11307 0.0 0.0 ellipse type 1 fitness 1.5
+889 11308 0.0 0.0 ellipse type 0 fitness 1.0
+890 11309 0.0 0.0 ellipse type 1 fitness 4.5
+891 11315 0.0 0.0 ellipse type 1 fitness 2.5
+892 11316 0.0 0.0 ellipse type 1 fitness 2.0
+893 11317 0.0 0.0 ellipse type 1 fitness 4.5
+894 11318 0.0 0.0 ellipse type 0 fitness 1.25
+895 11320 0.0 0.0 ellipse type 1 fitness 2.0
+896 11321 0.0 0.0 ellipse type 1 fitness 1.5
+897 11322 0.0 0.0 ellipse type 1 fitness 2.5
+898 11324 0.0 0.0 ellipse type 0 fitness 1.0
+899 11325 0.0 0.0 ellipse type 1 fitness 0.5
+900 3134 0.0 0.0 ellipse type 0 fitness 2.0
+901 11327 0.0 0.0 ellipse type 1 fitness 2.0
+902 11331 0.0 0.0 ellipse type 1 fitness 3.0
+903 11332 0.0 0.0 ellipse type 1 fitness 3.0
+904 11333 0.0 0.0 ellipse type 1 fitness 2.0
+905 11335 0.0 0.0 ellipse type 0 fitness 1.75
+906 11336 0.0 0.0 ellipse type 0 fitness 1.5
+907 11337 0.0 0.0 ellipse type 0 fitness 2.75
+908 11338 0.0 0.0 ellipse type 0 fitness 1.25
+909 11339 0.0 0.0 ellipse type 1 fitness 2.5
+910 11340 0.0 0.0 ellipse type 1 fitness 2.5
+911 11341 0.0 0.0 ellipse type 0 fitness 1.5
+912 11342 0.0 0.0 ellipse type 0 fitness 1.75
+913 11344 0.0 0.0 ellipse type 1 fitness 3.0
+914 11345 0.0 0.0 ellipse type 0 fitness 1.75
+915 11346 0.0 0.0 ellipse type 1 fitness 0.5
+916 11352 0.0 0.0 ellipse type 1 fitness 0.5
+917 11353 0.0 0.0 ellipse type 0 fitness 4.5
+918 11355 0.0 0.0 ellipse type 1 fitness 1.5
+919 11356 0.0 0.0 ellipse type 1 fitness 5.0
+920 11358 0.0 0.0 ellipse type 0 fitness 2.75
+921 11359 0.0 0.0 ellipse type 1 fitness 2.5
+922 11361 0.0 0.0 ellipse type 1 fitness 3.5
+923 11362 0.0 0.0 ellipse type 1 fitness 1.5
+924 11363 0.0 0.0 ellipse type 1 fitness 1.5
+925 11364 0.0 0.0 ellipse type 1 fitness 3.0
+926 11365 0.0 0.0 ellipse type 0 fitness 3.25
+927 11369 0.0 0.0 ellipse type 1 fitness 1.5
+928 11370 0.0 0.0 ellipse type 1 fitness 0.5
+929 11371 0.0 0.0 ellipse type 1 fitness 3.0
+930 11372 0.0 0.0 ellipse type 1 fitness 2.5
+931 11375 0.0 0.0 ellipse type 1 fitness 0.5
+932 11379 0.0 0.0 ellipse type 1 fitness 1.0
+933 11381 0.0 0.0 ellipse type 0 fitness 3.5
+934 11382 0.0 0.0 ellipse type 1 fitness 3.5
+935 11383 0.0 0.0 ellipse type 1 fitness 0.5
+936 11384 0.0 0.0 ellipse type 1 fitness 2.5
+937 11385 0.0 0.0 ellipse type 1 fitness 2.0
+938 11386 0.0 0.0 ellipse type 1 fitness 1.5
+939 11387 0.0 0.0 ellipse type 1 fitness 1.0
+940 11388 0.0 0.0 ellipse type 0 fitness 5.0
+941 11390 0.0 0.0 ellipse type 1 fitness 2.0
+942 11391 0.0 0.0 ellipse type 1 fitness 1.5
+943 11392 0.0 0.0 ellipse type 0 fitness 2.25
+944 11393 0.0 0.0 ellipse type 0 fitness 2.0
+945 11394 0.0 0.0 ellipse type 1 fitness 1.5
+946 11395 0.0 0.0 ellipse type 0 fitness 1.75
+947 11399 0.0 0.0 ellipse type 0 fitness 1.25
+948 11400 0.0 0.0 ellipse type 0 fitness 0.75
+949 11401 0.0 0.0 ellipse type 0 fitness 1.0
+950 11402 0.0 0.0 ellipse type 1 fitness 2.0
+951 11403 0.0 0.0 ellipse type 0 fitness 1.75
+952 11404 0.0 0.0 ellipse type 1 fitness 1.5
+953 11406 0.0 0.0 ellipse type 0 fitness 2.5
+954 11407 0.0 0.0 ellipse type 0 fitness 1.0
+955 11408 0.0 0.0 ellipse type 1 fitness 3.0
+956 11409 0.0 0.0 ellipse type 0 fitness 2.25
+957 11411 0.0 0.0 ellipse type 0 fitness 1.5
+958 11412 0.0 0.0 ellipse type 1 fitness 2.5
+959 3221 0.0 0.0 ellipse type 0 fitness 0.75
+960 11414 0.0 0.0 ellipse type 1 fitness 1.5
+961 11415 0.0 0.0 ellipse type 1 fitness 2.5
+962 11416 0.0 0.0 ellipse type 1 fitness 2.5
+963 11418 0.0 0.0 ellipse type 1 fitness 2.5
+964 11419 0.0 0.0 ellipse type 1 fitness 1.5
+965 11420 0.0 0.0 ellipse type 0 fitness 2.75
+966 11421 0.0 0.0 ellipse type 0 fitness 1.0
+967 11423 0.0 0.0 ellipse type 0 fitness 1.0
+968 11425 0.0 0.0 ellipse type 1 fitness 3.0
+969 11426 0.0 0.0 ellipse type 1 fitness 4.0
+970 11427 0.0 0.0 ellipse type 0 fitness 1.75
+971 11428 0.0 0.0 ellipse type 1 fitness 1.5
+972 11429 0.0 0.0 ellipse type 1 fitness 1.5
+973 11430 0.0 0.0 ellipse type 1 fitness 1.0
+974 11431 0.0 0.0 ellipse type 1 fitness 3.5
+975 11433 0.0 0.0 ellipse type 1 fitness 1.0
+976 11434 0.0 0.0 ellipse type 1 fitness 3.0
+977 11435 0.0 0.0 ellipse type 1 fitness 1.5
+978 11436 0.0 0.0 ellipse type 1 fitness 1.0
+979 11438 0.0 0.0 ellipse type 1 fitness 1.0
+980 11439 0.0 0.0 ellipse type 1 fitness 2.0
+981 11443 0.0 0.0 ellipse type 1 fitness 2.5
+982 11444 0.0 0.0 ellipse type 1 fitness 4.0
+983 11445 0.0 0.0 ellipse type 0 fitness 3.0
+984 11446 0.0 0.0 ellipse type 0 fitness 2.5
+985 11448 0.0 0.0 ellipse type 1 fitness 2.0
+986 11449 0.0 0.0 ellipse type 1 fitness 2.5
+987 11450 0.0 0.0 ellipse type 0 fitness 1.25
+988 11453 0.0 0.0 ellipse type 1 fitness 1.5
+989 11454 0.0 0.0 ellipse type 0 fitness 2.25
+990 11455 0.0 0.0 ellipse type 0 fitness 3.5
+991 11456 0.0 0.0 ellipse type 1 fitness 1.0
+992 11457 0.0 0.0 ellipse type 1 fitness 1.5
+993 11458 0.0 0.0 ellipse type 0 fitness 2.75
+994 11460 0.0 0.0 ellipse type 1 fitness 0.5
+995 11462 0.0 0.0 ellipse type 1 fitness 2.5
+996 11464 0.0 0.0 ellipse type 1 fitness 1.0
+997 11465 0.0 0.0 ellipse type 1 fitness 2.0
+998 11467 0.0 0.0 ellipse type 1 fitness 1.0
+999 11468 0.0 0.0 ellipse type 1 fitness 1.5
+1000 11470 0.0 0.0 ellipse type 0 fitness 2.5
+1001 11471 0.0 0.0 ellipse type 0 fitness 3.0
+1002 11472 0.0 0.0 ellipse type 1 fitness 1.5
+1003 11473 0.0 0.0 ellipse type 0 fitness 1.5
+1004 11475 0.0 0.0 ellipse type 1 fitness 1.0
+1005 3284 0.0 0.0 ellipse type 0 fitness 1.5
+1006 11477 0.0 0.0 ellipse type 1 fitness 2.0
+1007 11478 0.0 0.0 ellipse type 1 fitness 2.0
+1008 11479 0.0 0.0 ellipse type 1 fitness 2.5
+1009 11480 0.0 0.0 ellipse type 0 fitness 1.5
+1010 11481 0.0 0.0 ellipse type 1 fitness 3.0
+1011 11482 0.0 0.0 ellipse type 0 fitness 1.25
+1012 11483 0.0 0.0 ellipse type 1 fitness 1.0
+1013 11484 0.0 0.0 ellipse type 1 fitness 2.5
+1014 11485 0.0 0.0 ellipse type 1 fitness 1.5
+1015 11487 0.0 0.0 ellipse type 1 fitness 1.0
+1016 11488 0.0 0.0 ellipse type 0 fitness 1.5
+1017 11489 0.0 0.0 ellipse type 1 fitness 2.5
+1018 11490 0.0 0.0 ellipse type 1 fitness 2.5
+1019 11491 0.0 0.0 ellipse type 0 fitness 3.25
+1020 11493 0.0 0.0 ellipse type 0 fitness 2.75
+1021 11494 0.0 0.0 ellipse type 1 fitness 2.0
+1022 11495 0.0 0.0 ellipse type 1 fitness 1.5
+1023 11497 0.0 0.0 ellipse type 1 fitness 2.0
+1024 11498 0.0 0.0 ellipse type 1 fitness 2.0
+1025 11499 0.0 0.0 ellipse type 0 fitness 1.5
+1026 11501 0.0 0.0 ellipse type 1 fitness 2.5
+1027 11502 0.0 0.0 ellipse type 1 fitness 3.0
+1028 11503 0.0 0.0 ellipse type 0 fitness 2.5
+1029 11504 0.0 0.0 ellipse type 1 fitness 3.0
+1030 11505 0.0 0.0 ellipse type 1 fitness 1.0
+1031 11507 0.0 0.0 ellipse type 1 fitness 1.0
+1032 11509 0.0 0.0 ellipse type 1 fitness 2.0
+1033 11510 0.0 0.0 ellipse type 0 fitness 3.25
+1034 11476 0.0 0.0 ellipse type 0 fitness 3.25
+1035 11514 0.0 0.0 ellipse type 0 fitness 2.75
+1036 11515 0.0 0.0 ellipse type 0 fitness 2.25
+1037 11516 0.0 0.0 ellipse type 0 fitness 1.25
+1038 11517 0.0 0.0 ellipse type 0 fitness 1.5
+1039 11518 0.0 0.0 ellipse type 1 fitness 1.5
+1040 11520 0.0 0.0 ellipse type 1 fitness 3.0
+1041 3330 0.0 0.0 ellipse type 0 fitness 3.75
+1042 11524 0.0 0.0 ellipse type 0 fitness 1.75
+1043 11525 0.0 0.0 ellipse type 1 fitness 1.5
+1044 11527 0.0 0.0 ellipse type 0 fitness 1.0
+1045 11528 0.0 0.0 ellipse type 0 fitness 1.5
+1046 11529 0.0 0.0 ellipse type 1 fitness 1.5
+1047 11533 0.0 0.0 ellipse type 0 fitness 2.25
+1048 11535 0.0 0.0 ellipse type 0 fitness 2.75
+1049 11536 0.0 0.0 ellipse type 1 fitness 1.5
+1050 11537 0.0 0.0 ellipse type 1 fitness 2.5
+1051 11538 0.0 0.0 ellipse type 1 fitness 2.5
+1052 11539 0.0 0.0 ellipse type 0 fitness 3.5
+1053 11540 0.0 0.0 ellipse type 0 fitness 1.0
+1054 11542 0.0 0.0 ellipse type 1 fitness 2.0
+1055 11543 0.0 0.0 ellipse type 0 fitness 2.5
+1056 11544 0.0 0.0 ellipse type 1 fitness 3.0
+1057 11545 0.0 0.0 ellipse type 1 fitness 1.5
+1058 11546 0.0 0.0 ellipse type 1 fitness 1.5
+1059 11547 0.0 0.0 ellipse type 1 fitness 2.0
+1060 11549 0.0 0.0 ellipse type 0 fitness 4.5
+1061 11550 0.0 0.0 ellipse type 1 fitness 1.0
+1062 11551 0.0 0.0 ellipse type 0 fitness 2.0
+1063 11552 0.0 0.0 ellipse type 0 fitness 3.5
+1064 11553 0.0 0.0 ellipse type 0 fitness 2.0
+1065 11554 0.0 0.0 ellipse type 1 fitness 1.0
+1066 11555 0.0 0.0 ellipse type 1 fitness 4.0
+1067 11556 0.0 0.0 ellipse type 1 fitness 2.5
+1068 11557 0.0 0.0 ellipse type 1 fitness 2.0
+1069 11558 0.0 0.0 ellipse type 0 fitness 1.75
+1070 11559 0.0 0.0 ellipse type 0 fitness 3.25
+1071 11560 0.0 0.0 ellipse type 1 fitness 2.0
+1072 3369 0.0 0.0 ellipse type 0 fitness 2.0
+1073 11562 0.0 0.0 ellipse type 1 fitness 4.0
+1074 11563 0.0 0.0 ellipse type 1 fitness 2.0
+1075 11564 0.0 0.0 ellipse type 1 fitness 1.5
+1076 11566 0.0 0.0 ellipse type 1 fitness 4.0
+1077 11568 0.0 0.0 ellipse type 1 fitness 1.5
+1078 11569 0.0 0.0 ellipse type 1 fitness 2.0
+1079 11570 0.0 0.0 ellipse type 1 fitness 2.0
+1080 11572 0.0 0.0 ellipse type 1 fitness 2.5
+1081 11575 0.0 0.0 ellipse type 1 fitness 2.0
+1082 11576 0.0 0.0 ellipse type 1 fitness 3.0
+1083 11577 0.0 0.0 ellipse type 0 fitness 2.75
+1084 11578 0.0 0.0 ellipse type 1 fitness 1.0
+1085 3389 0.0 0.0 ellipse type 1 fitness 1.5
+1086 11582 0.0 0.0 ellipse type 0 fitness 1.5
+1087 11583 0.0 0.0 ellipse type 0 fitness 1.5
+1088 11584 0.0 0.0 ellipse type 1 fitness 2.0
+1089 11585 0.0 0.0 ellipse type 0 fitness 2.5
+1090 11586 0.0 0.0 ellipse type 1 fitness 3.0
+1091 11587 0.0 0.0 ellipse type 1 fitness 3.0
+1092 11588 0.0 0.0 ellipse type 0 fitness 2.0
+1093 11589 0.0 0.0 ellipse type 0 fitness 1.5
+1094 11591 0.0 0.0 ellipse type 1 fitness 3.5
+1095 11592 0.0 0.0 ellipse type 1 fitness 3.0
+1096 11593 0.0 0.0 ellipse type 1 fitness 3.0
+1097 11594 0.0 0.0 ellipse type 1 fitness 1.0
+1098 11595 0.0 0.0 ellipse type 1 fitness 2.5
+1099 11596 0.0 0.0 ellipse type 0 fitness 2.25
+1100 11597 0.0 0.0 ellipse type 1 fitness 1.0
+1101 11599 0.0 0.0 ellipse type 1 fitness 2.5
+1102 11600 0.0 0.0 ellipse type 1 fitness 1.5
+1103 11601 0.0 0.0 ellipse type 1 fitness 2.5
+1104 11602 0.0 0.0 ellipse type 1 fitness 2.5
+1105 11603 0.0 0.0 ellipse type 0 fitness 1.25
+1106 11604 0.0 0.0 ellipse type 0 fitness 0.75
+1107 11605 0.0 0.0 ellipse type 0 fitness 2.5
+1108 11608 0.0 0.0 ellipse type 0 fitness 2.0
+1109 11609 0.0 0.0 ellipse type 1 fitness 2.0
+1110 11611 0.0 0.0 ellipse type 1 fitness 3.5
+1111 11612 0.0 0.0 ellipse type 0 fitness 1.0
+1112 11613 0.0 0.0 ellipse type 0 fitness 1.25
+1113 11614 0.0 0.0 ellipse type 1 fitness 1.0
+1114 11615 0.0 0.0 ellipse type 0 fitness 2.0
+1115 11617 0.0 0.0 ellipse type 0 fitness 2.75
+1116 11619 0.0 0.0 ellipse type 0 fitness 2.5
+1117 11622 0.0 0.0 ellipse type 1 fitness 1.5
+1118 11623 0.0 0.0 ellipse type 0 fitness 2.0
+1119 11624 0.0 0.0 ellipse type 1 fitness 3.0
+1120 11626 0.0 0.0 ellipse type 1 fitness 2.0
+1121 11627 0.0 0.0 ellipse type 1 fitness 2.5
+1122 11629 0.0 0.0 ellipse type 0 fitness 3.5
+1123 11630 0.0 0.0 ellipse type 1 fitness 2.5
+1124 11631 0.0 0.0 ellipse type 0 fitness 1.0
+1125 11633 0.0 0.0 ellipse type 0 fitness 1.75
+1126 11634 0.0 0.0 ellipse type 1 fitness 1.5
+1127 11635 0.0 0.0 ellipse type 1 fitness 1.0
+1128 11638 0.0 0.0 ellipse type 1 fitness 3.5
+1129 11639 0.0 0.0 ellipse type 1 fitness 1.5
+1130 11642 0.0 0.0 ellipse type 1 fitness 4.0
+1131 11644 0.0 0.0 ellipse type 0 fitness 1.25
+1132 11645 0.0 0.0 ellipse type 1 fitness 1.0
+1133 11646 0.0 0.0 ellipse type 0 fitness 1.25
+1134 11647 0.0 0.0 ellipse type 1 fitness 1.5
+1135 11648 0.0 0.0 ellipse type 0 fitness 1.5
+1136 11649 0.0 0.0 ellipse type 1 fitness 2.0
+1137 11650 0.0 0.0 ellipse type 0 fitness 1.5
+1138 11651 0.0 0.0 ellipse type 0 fitness 2.25
+1139 11652 0.0 0.0 ellipse type 0 fitness 2.75
+1140 11654 0.0 0.0 ellipse type 1 fitness 2.5
+1141 11657 0.0 0.0 ellipse type 1 fitness 3.0
+1142 11658 0.0 0.0 ellipse type 1 fitness 1.5
+1143 11659 0.0 0.0 ellipse type 1 fitness 1.0
+1144 11660 0.0 0.0 ellipse type 1 fitness 1.5
+1145 11661 0.0 0.0 ellipse type 0 fitness 1.75
+1146 11662 0.0 0.0 ellipse type 1 fitness 2.5
+1147 11664 0.0 0.0 ellipse type 1 fitness 1.5
+1148 11665 0.0 0.0 ellipse type 0 fitness 2.5
+1149 11666 0.0 0.0 ellipse type 1 fitness 1.0
+1150 11667 0.0 0.0 ellipse type 1 fitness 2.5
+1151 11668 0.0 0.0 ellipse type 1 fitness 3.0
+1152 11669 0.0 0.0 ellipse type 0 fitness 1.25
+1153 11671 0.0 0.0 ellipse type 1 fitness 3.5
+1154 11673 0.0 0.0 ellipse type 0 fitness 1.5
+1155 11674 0.0 0.0 ellipse type 0 fitness 2.5
+1156 11676 0.0 0.0 ellipse type 1 fitness 1.0
+1157 11677 0.0 0.0 ellipse type 1 fitness 2.5
+1158 11678 0.0 0.0 ellipse type 1 fitness 2.5
+1159 11679 0.0 0.0 ellipse type 1 fitness 1.5
+1160 11680 0.0 0.0 ellipse type 0 fitness 3.5
+1161 11681 0.0 0.0 ellipse type 1 fitness 2.5
+1162 11682 0.0 0.0 ellipse type 0 fitness 3.0
+1163 11684 0.0 0.0 ellipse type 0 fitness 3.25
+1164 11685 0.0 0.0 ellipse type 1 fitness 2.0
+1165 11686 0.0 0.0 ellipse type 0 fitness 3.0
+1166 11688 0.0 0.0 ellipse type 1 fitness 2.5
+1167 11689 0.0 0.0 ellipse type 0 fitness 2.0
+1168 11690 0.0 0.0 ellipse type 0 fitness 2.75
+1169 11691 0.0 0.0 ellipse type 0 fitness 2.25
+1170 11692 0.0 0.0 ellipse type 1 fitness 2.5
+1171 11694 0.0 0.0 ellipse type 0 fitness 3.0
+1172 11695 0.0 0.0 ellipse type 1 fitness 3.0
+1173 11696 0.0 0.0 ellipse type 0 fitness 2.25
+1174 11697 0.0 0.0 ellipse type 1 fitness 1.5
+1175 11698 0.0 0.0 ellipse type 0 fitness 1.5
+1176 11699 0.0 0.0 ellipse type 1 fitness 1.0
+1177 11700 0.0 0.0 ellipse type 0 fitness 1.25
+1178 11701 0.0 0.0 ellipse type 1 fitness 2.5
+1179 11703 0.0 0.0 ellipse type 1 fitness 1.5
+1180 11704 0.0 0.0 ellipse type 0 fitness 1.75
+1181 11705 0.0 0.0 ellipse type 1 fitness 1.5
+1182 11706 0.0 0.0 ellipse type 0 fitness 2.25
+1183 11707 0.0 0.0 ellipse type 0 fitness 1.0
+1184 11708 0.0 0.0 ellipse type 0 fitness 2.5
+1185 11709 0.0 0.0 ellipse type 1 fitness 2.0
+1186 11710 0.0 0.0 ellipse type 1 fitness 1.5
+1187 11711 0.0 0.0 ellipse type 0 fitness 2.5
+1188 11712 0.0 0.0 ellipse type 1 fitness 2.5
+1189 11713 0.0 0.0 ellipse type 1 fitness 1.5
+1190 11714 0.0 0.0 ellipse type 1 fitness 2.5
+1191 3524 0.0 0.0 ellipse type 0 fitness 1.5
+1192 11717 0.0 0.0 ellipse type 1 fitness 2.0
+1193 3526 0.0 0.0 ellipse type 0 fitness 1.25
+1194 11719 0.0 0.0 ellipse type 1 fitness 1.0
+1195 11720 0.0 0.0 ellipse type 1 fitness 2.5
+1196 11721 0.0 0.0 ellipse type 0 fitness 1.5
+1197 11722 0.0 0.0 ellipse type 1 fitness 3.0
+1198 11723 0.0 0.0 ellipse type 1 fitness 2.0
+1199 11724 0.0 0.0 ellipse type 0 fitness 2.75
+1200 11725 0.0 0.0 ellipse type 0 fitness 2.5
+1201 11726 0.0 0.0 ellipse type 0 fitness 0.5
+1202 11727 0.0 0.0 ellipse type 0 fitness 2.0
+1203 11728 0.0 0.0 ellipse type 0 fitness 1.5
+1204 11729 0.0 0.0 ellipse type 1 fitness 3.0
+1205 11730 0.0 0.0 ellipse type 1 fitness 2.0
+1206 11731 0.0 0.0 ellipse type 1 fitness 2.5
+1207 11732 0.0 0.0 ellipse type 0 fitness 1.75
+1208 11733 0.0 0.0 ellipse type 1 fitness 1.5
+1209 11734 0.0 0.0 ellipse type 0 fitness 2.25
+1210 11735 0.0 0.0 ellipse type 0 fitness 1.75
+1211 11736 0.0 0.0 ellipse type 1 fitness 2.0
+1212 11737 0.0 0.0 ellipse type 0 fitness 3.25
+1213 11738 0.0 0.0 ellipse type 0 fitness 1.75
+1214 11739 0.0 0.0 ellipse type 0 fitness 2.0
+1215 11741 0.0 0.0 ellipse type 1 fitness 2.0
+1216 11742 0.0 0.0 ellipse type 0 fitness 0.75
+1217 11743 0.0 0.0 ellipse type 1 fitness 1.5
+1218 11744 0.0 0.0 ellipse type 0 fitness 3.0
+1219 11745 0.0 0.0 ellipse type 0 fitness 2.5
+1220 11748 0.0 0.0 ellipse type 1 fitness 2.0
+1221 11749 0.0 0.0 ellipse type 1 fitness 1.5
+1222 11750 0.0 0.0 ellipse type 0 fitness 2.75
+1223 11751 0.0 0.0 ellipse type 0 fitness 1.75
+1224 11752 0.0 0.0 ellipse type 1 fitness 2.5
+1225 11753 0.0 0.0 ellipse type 0 fitness 1.0
+1226 11754 0.0 0.0 ellipse type 1 fitness 1.5
+1227 11755 0.0 0.0 ellipse type 0 fitness 2.5
+1228 11756 0.0 0.0 ellipse type 1 fitness 2.0
+1229 11757 0.0 0.0 ellipse type 1 fitness 1.5
+1230 11758 0.0 0.0 ellipse type 1 fitness 1.0
+1231 11759 0.0 0.0 ellipse type 0 fitness 1.5
+1232 11761 0.0 0.0 ellipse type 1 fitness 1.0
+1233 11763 0.0 0.0 ellipse type 1 fitness 1.5
+1234 11764 0.0 0.0 ellipse type 0 fitness 2.0
+1235 11765 0.0 0.0 ellipse type 1 fitness 2.5
+1236 11766 0.0 0.0 ellipse type 1 fitness 1.5
+1237 11767 0.0 0.0 ellipse type 0 fitness 2.0
+1238 11768 0.0 0.0 ellipse type 1 fitness 4.0
+1239 11769 0.0 0.0 ellipse type 0 fitness 1.75
+1240 11770 0.0 0.0 ellipse type 0 fitness 3.0
+1241 11771 0.0 0.0 ellipse type 1 fitness 2.0
+1242 11773 0.0 0.0 ellipse type 0 fitness 1.0
+1243 11775 0.0 0.0 ellipse type 0 fitness 3.5
+1244 11776 0.0 0.0 ellipse type 1 fitness 2.0
+1245 11777 0.0 0.0 ellipse type 0 fitness 2.0
+1246 3586 0.0 0.0 ellipse type 0 fitness 2.5
+1247 11780 0.0 0.0 ellipse type 0 fitness 1.5
+1248 11781 0.0 0.0 ellipse type 0 fitness 2.0
+1249 11782 0.0 0.0 ellipse type 1 fitness 2.5
+1250 11783 0.0 0.0 ellipse type 1 fitness 2.0
+1251 11784 0.0 0.0 ellipse type 1 fitness 2.5
+1252 11785 0.0 0.0 ellipse type 0 fitness 2.75
+1253 11786 0.0 0.0 ellipse type 0 fitness 2.5
+1254 11787 0.0 0.0 ellipse type 1 fitness 2.0
+1255 11788 0.0 0.0 ellipse type 0 fitness 0.75
+1256 11791 0.0 0.0 ellipse type 1 fitness 2.0
+1257 11793 0.0 0.0 ellipse type 0 fitness 1.5
+1258 11794 0.0 0.0 ellipse type 1 fitness 3.0
+1259 11795 0.0 0.0 ellipse type 0 fitness 3.25
+1260 11796 0.0 0.0 ellipse type 1 fitness 2.5
+1261 11797 0.0 0.0 ellipse type 0 fitness 0.75
+1262 11798 0.0 0.0 ellipse type 0 fitness 1.25
+1263 11799 0.0 0.0 ellipse type 0 fitness 3.5
+1264 11800 0.0 0.0 ellipse type 1 fitness 2.0
+1265 11802 0.0 0.0 ellipse type 0 fitness 1.25
+1266 11803 0.0 0.0 ellipse type 1 fitness 3.0
+1267 11806 0.0 0.0 ellipse type 1 fitness 3.5
+1268 11807 0.0 0.0 ellipse type 0 fitness 2.25
+1269 11808 0.0 0.0 ellipse type 1 fitness 2.5
+1270 11809 0.0 0.0 ellipse type 1 fitness 1.5
+1271 11810 0.0 0.0 ellipse type 1 fitness 2.5
+1272 11811 0.0 0.0 ellipse type 1 fitness 2.0
+1273 11812 0.0 0.0 ellipse type 1 fitness 2.0
+1274 3621 0.0 0.0 ellipse type 1 fitness 2.0
+1275 11814 0.0 0.0 ellipse type 1 fitness 2.0
+1276 11815 0.0 0.0 ellipse type 1 fitness 2.0
+1277 11816 0.0 0.0 ellipse type 0 fitness 1.25
+1278 11817 0.0 0.0 ellipse type 1 fitness 2.5
+1279 11820 0.0 0.0 ellipse type 0 fitness 1.25
+1280 11821 0.0 0.0 ellipse type 1 fitness 1.5
+1281 11822 0.0 0.0 ellipse type 0 fitness 1.75
+1282 11823 0.0 0.0 ellipse type 0 fitness 2.0
+1283 11824 0.0 0.0 ellipse type 1 fitness 2.0
+1284 11825 0.0 0.0 ellipse type 0 fitness 2.5
+1285 11826 0.0 0.0 ellipse type 1 fitness 2.5
+1286 11828 0.0 0.0 ellipse type 0 fitness 0.75
+1287 11829 0.0 0.0 ellipse type 1 fitness 2.5
+1288 11830 0.0 0.0 ellipse type 0 fitness 2.25
+1289 11832 0.0 0.0 ellipse type 1 fitness 2.5
+1290 11833 0.0 0.0 ellipse type 1 fitness 1.5
+1291 11835 0.0 0.0 ellipse type 1 fitness 2.0
+1292 11836 0.0 0.0 ellipse type 0 fitness 2.5
+1293 11837 0.0 0.0 ellipse type 1 fitness 3.0
+1294 11838 0.0 0.0 ellipse type 1 fitness 1.0
+1295 11840 0.0 0.0 ellipse type 1 fitness 3.5
+1296 11841 0.0 0.0 ellipse type 0 fitness 1.5
+1297 11842 0.0 0.0 ellipse type 1 fitness 2.5
+1298 11843 0.0 0.0 ellipse type 0 fitness 1.25
+1299 11846 0.0 0.0 ellipse type 1 fitness 1.5
+1300 11847 0.0 0.0 ellipse type 0 fitness 2.0
+1301 11848 0.0 0.0 ellipse type 1 fitness 1.0
+1302 11849 0.0 0.0 ellipse type 0 fitness 5.25
+1303 11851 0.0 0.0 ellipse type 1 fitness 2.0
+1304 11852 0.0 0.0 ellipse type 1 fitness 2.0
+1305 11854 0.0 0.0 ellipse type 1 fitness 1.5
+1306 11855 0.0 0.0 ellipse type 1 fitness 1.0
+1307 11856 0.0 0.0 ellipse type 1 fitness 2.5
+1308 11857 0.0 0.0 ellipse type 1 fitness 1.5
+1309 11858 0.0 0.0 ellipse type 0 fitness 2.5
+1310 11859 0.0 0.0 ellipse type 1 fitness 2.5
+1311 11860 0.0 0.0 ellipse type 1 fitness 1.5
+1312 11861 0.0 0.0 ellipse type 1 fitness 2.5
+1313 11862 0.0 0.0 ellipse type 1 fitness 2.0
+1314 11863 0.0 0.0 ellipse type 1 fitness 2.5
+1315 11864 0.0 0.0 ellipse type 0 fitness 1.25
+1316 11865 0.0 0.0 ellipse type 1 fitness 2.5
+1317 11866 0.0 0.0 ellipse type 1 fitness 1.5
+1318 11867 0.0 0.0 ellipse type 0 fitness 2.0
+1319 11869 0.0 0.0 ellipse type 1 fitness 1.5
+1320 11870 0.0 0.0 ellipse type 1 fitness 2.5
+1321 11871 0.0 0.0 ellipse type 1 fitness 3.5
+1322 11872 0.0 0.0 ellipse type 1 fitness 2.0
+1323 11873 0.0 0.0 ellipse type 0 fitness 2.75
+1324 11874 0.0 0.0 ellipse type 1 fitness 1.5
+1325 11875 0.0 0.0 ellipse type 1 fitness 2.0
+1326 11877 0.0 0.0 ellipse type 1 fitness 1.5
+1327 11878 0.0 0.0 ellipse type 1 fitness 2.0
+1328 11879 0.0 0.0 ellipse type 0 fitness 3.0
+1329 11880 0.0 0.0 ellipse type 0 fitness 1.75
+1330 11881 0.0 0.0 ellipse type 0 fitness 1.75
+1331 11882 0.0 0.0 ellipse type 0 fitness 1.0
+1332 11883 0.0 0.0 ellipse type 1 fitness 3.5
+1333 11884 0.0 0.0 ellipse type 1 fitness 1.5
+1334 11885 0.0 0.0 ellipse type 0 fitness 2.25
+1335 11887 0.0 0.0 ellipse type 0 fitness 2.75
+1336 11888 0.0 0.0 ellipse type 1 fitness 2.0
+1337 11889 0.0 0.0 ellipse type 0 fitness 1.25
+1338 11890 0.0 0.0 ellipse type 0 fitness 1.5
+1339 11891 0.0 0.0 ellipse type 1 fitness 1.5
+1340 11892 0.0 0.0 ellipse type 1 fitness 1.5
+1341 11893 0.0 0.0 ellipse type 0 fitness 2.5
+1342 11894 0.0 0.0 ellipse type 1 fitness 1.5
+1343 11895 0.0 0.0 ellipse type 1 fitness 2.5
+1344 11896 0.0 0.0 ellipse type 1 fitness 2.0
+1345 11897 0.0 0.0 ellipse type 1 fitness 2.5
+1346 11898 0.0 0.0 ellipse type 1 fitness 2.0
+1347 11899 0.0 0.0 ellipse type 0 fitness 2.0
+1348 11900 0.0 0.0 ellipse type 0 fitness 2.0
+1349 11901 0.0 0.0 ellipse type 1 fitness 2.5
+1350 11902 0.0 0.0 ellipse type 0 fitness 3.0
+1351 3711 0.0 0.0 ellipse type 0 fitness 0.5
+1352 11904 0.0 0.0 ellipse type 0 fitness 2.0
+1353 11905 0.0 0.0 ellipse type 0 fitness 2.25
+1354 11906 0.0 0.0 ellipse type 1 fitness 2.0
+1355 11907 0.0 0.0 ellipse type 1 fitness 3.0
+1356 11908 0.0 0.0 ellipse type 0 fitness 2.0
+1357 11909 0.0 0.0 ellipse type 1 fitness 2.5
+1358 11910 0.0 0.0 ellipse type 0 fitness 2.25
+1359 11911 0.0 0.0 ellipse type 1 fitness 2.0
+1360 11912 0.0 0.0 ellipse type 1 fitness 2.5
+1361 11913 0.0 0.0 ellipse type 1 fitness 2.0
+1362 11914 0.0 0.0 ellipse type 1 fitness 1.0
+1363 11915 0.0 0.0 ellipse type 0 fitness 2.25
+1364 11916 0.0 0.0 ellipse type 1 fitness 2.5
+1365 11917 0.0 0.0 ellipse type 1 fitness 2.0
+1366 11918 0.0 0.0 ellipse type 1 fitness 1.0
+1367 11919 0.0 0.0 ellipse type 0 fitness 1.25
+1368 11921 0.0 0.0 ellipse type 1 fitness 2.5
+1369 11922 0.0 0.0 ellipse type 1 fitness 2.5
+1370 11923 0.0 0.0 ellipse type 1 fitness 1.5
+1371 11924 0.0 0.0 ellipse type 1 fitness 2.0
+1372 11925 0.0 0.0 ellipse type 0 fitness 2.5
+1373 11926 0.0 0.0 ellipse type 1 fitness 2.5
+1374 11927 0.0 0.0 ellipse type 0 fitness 2.75
+1375 11928 0.0 0.0 ellipse type 1 fitness 2.5
+1376 11929 0.0 0.0 ellipse type 0 fitness 1.5
+1377 11930 0.0 0.0 ellipse type 0 fitness 2.0
+1378 11931 0.0 0.0 ellipse type 1 fitness 2.0
+1379 11932 0.0 0.0 ellipse type 1 fitness 2.5
+1380 11933 0.0 0.0 ellipse type 1 fitness 2.0
+1381 11934 0.0 0.0 ellipse type 1 fitness 2.5
+1382 11935 0.0 0.0 ellipse type 1 fitness 1.5
+1383 11936 0.0 0.0 ellipse type 0 fitness 2.0
+1384 11937 0.0 0.0 ellipse type 1 fitness 2.0
+1385 11938 0.0 0.0 ellipse type 1 fitness 2.0
+1386 11940 0.0 0.0 ellipse type 0 fitness 2.5
+1387 11941 0.0 0.0 ellipse type 1 fitness 2.5
+1388 11942 0.0 0.0 ellipse type 0 fitness 1.75
+1389 11943 0.0 0.0 ellipse type 1 fitness 2.0
+1390 11944 0.0 0.0 ellipse type 0 fitness 2.5
+1391 11945 0.0 0.0 ellipse type 0 fitness 1.5
+1392 11946 0.0 0.0 ellipse type 1 fitness 1.5
+1393 11947 0.0 0.0 ellipse type 1 fitness 2.0
+1394 11948 0.0 0.0 ellipse type 1 fitness 1.0
+1395 11949 0.0 0.0 ellipse type 0 fitness 1.5
+1396 11950 0.0 0.0 ellipse type 0 fitness 3.0
+1397 11951 0.0 0.0 ellipse type 0 fitness 2.0
+1398 11952 0.0 0.0 ellipse type 1 fitness 2.5
+1399 11953 0.0 0.0 ellipse type 1 fitness 1.5
+1400 11954 0.0 0.0 ellipse type 0 fitness 3.0
+1401 11955 0.0 0.0 ellipse type 0 fitness 1.75
+1402 11956 0.0 0.0 ellipse type 1 fitness 2.5
+1403 11957 0.0 0.0 ellipse type 1 fitness 1.0
+1404 11958 0.0 0.0 ellipse type 0 fitness 2.5
+1405 11959 0.0 0.0 ellipse type 0 fitness 2.0
+1406 11960 0.0 0.0 ellipse type 1 fitness 1.5
+1407 11961 0.0 0.0 ellipse type 1 fitness 1.5
+1408 11962 0.0 0.0 ellipse type 0 fitness 3.0
+1409 11963 0.0 0.0 ellipse type 0 fitness 2.0
+1410 11964 0.0 0.0 ellipse type 0 fitness 1.75
+1411 11965 0.0 0.0 ellipse type 0 fitness 2.5
+1412 11966 0.0 0.0 ellipse type 0 fitness 2.5
+1413 11967 0.0 0.0 ellipse type 0 fitness 1.5
+1414 11968 0.0 0.0 ellipse type 1 fitness 2.5
+1415 11969 0.0 0.0 ellipse type 1 fitness 2.0
+1416 11970 0.0 0.0 ellipse type 0 fitness 2.0
+1417 11971 0.0 0.0 ellipse type 0 fitness 1.5
+1418 11972 0.0 0.0 ellipse type 1 fitness 2.0
+1419 11973 0.0 0.0 ellipse type 0 fitness 2.0
+1420 11974 0.0 0.0 ellipse type 0 fitness 2.5
+1421 11975 0.0 0.0 ellipse type 0 fitness 2.0
+1422 11976 0.0 0.0 ellipse type 1 fitness 2.5
+1423 11977 0.0 0.0 ellipse type 0 fitness 3.0
+1424 11978 0.0 0.0 ellipse type 0 fitness 2.0
+1425 11979 0.0 0.0 ellipse type 1 fitness 1.5
+1426 11981 0.0 0.0 ellipse type 0 fitness 1.5
+1427 11982 0.0 0.0 ellipse type 1 fitness 1.0
+1428 11983 0.0 0.0 ellipse type 0 fitness 2.5
+1429 11984 0.0 0.0 ellipse type 1 fitness 2.5
+1430 11985 0.0 0.0 ellipse type 0 fitness 0.75
+1431 11986 0.0 0.0 ellipse type 1 fitness 2.5
+1432 11987 0.0 0.0 ellipse type 0 fitness 1.5
+1433 11988 0.0 0.0 ellipse type 1 fitness 2.5
+1434 11989 0.0 0.0 ellipse type 0 fitness 1.75
+1435 11990 0.0 0.0 ellipse type 0 fitness 1.5
+1436 11991 0.0 0.0 ellipse type 0 fitness 2.0
+1437 11992 0.0 0.0 ellipse type 1 fitness 2.5
+1438 11993 0.0 0.0 ellipse type 0 fitness 2.5
+1439 11994 0.0 0.0 ellipse type 0 fitness 2.5
+1440 11995 0.0 0.0 ellipse type 1 fitness 2.5
+1441 11996 0.0 0.0 ellipse type 0 fitness 1.5
+1442 11997 0.0 0.0 ellipse type 1 fitness 1.5
+1443 11998 0.0 0.0 ellipse type 1 fitness 2.0
+1444 11999 0.0 0.0 ellipse type 1
+1445 11561 0.0 0.0 ellipse type 1 fitness 2.0
+1446 3863 0.0 0.0 ellipse type 1 fitness 1.0
+1447 11581 0.0 0.0 ellipse type 0 fitness 0.75
+1448 4054 0.0 0.0 ellipse type 1 fitness 2.5
+1449 4188 0.0 0.0 ellipse type 0 fitness 3.25
+1450 4240 0.0 0.0 ellipse type 1 fitness 3.5
+1451 11326 0.0 0.0 ellipse type 1 fitness 2.0
+1452 4272 0.0 0.0 ellipse type 1 fitness 0.5
+1453 4412 0.0 0.0 ellipse type 0 fitness 0.5
+1454 4452 0.0 0.0 ellipse type 0 fitness 1.25
+1455 11718 0.0 0.0 ellipse type 1 fitness 1.5
+1456 4775 0.0 0.0 ellipse type 0 fitness 5.25
+1457 4801 0.0 0.0 ellipse type 1 fitness 3.0
+1458 11778 0.0 0.0 ellipse type 1 fitness 1.5
+1459 11789 0.0 0.0 ellipse type 0 fitness 2.5
+1460 5254 0.0 0.0 ellipse type 0 fitness 1.25
+1461 5326 0.0 0.0 ellipse type 1 fitness 0.5
+1462 11813 0.0 0.0 ellipse type 0 fitness 0.75
+1463 5357 0.0 0.0 ellipse type 1 fitness 5.5
+1464 11827 0.0 0.0 ellipse type 0 fitness 1.5
+1465 5438 0.0 0.0 ellipse type 0 fitness 1.5
+1466 5578 0.0 0.0 ellipse type 1 fitness 0.5
+1467 5657 0.0 0.0 ellipse type 1 fitness 4.5
+1468 5777 0.0 0.0 ellipse type 1 fitness 0.5
+1469 11903 0.0 0.0 ellipse type 0 fitness 2.0
+1470 5885 0.0 0.0 ellipse type 1 fitness 0.5
+1471 5919 0.0 0.0 ellipse type 0 fitness 1.75
+1472 5952 0.0 0.0 ellipse type 0 fitness 3.0
+1473 5971 0.0 0.0 ellipse type 0 fitness 1.75
+1474 6016 0.0 0.0 ellipse type 0 fitness 1.0
+1475 6035 0.0 0.0 ellipse type 0 fitness 0.75
+1476 6065 0.0 0.0 ellipse type 0 fitness 0.75
+1477 6081 0.0 0.0 ellipse type 1 fitness 0.5
+1478 6128 0.0 0.0 ellipse type 1 fitness 3.5
+1479 6298 0.0 0.0 ellipse type 1 fitness 2.5
+1480 6306 0.0 0.0 ellipse type 1 fitness 1.5
+1481 6322 0.0 0.0 ellipse type 1 fitness 2.0
+1482 6338 0.0 0.0 ellipse type 1 fitness 0.5
+1483 6382 0.0 0.0 ellipse type 0 fitness 2.5
+1484 6420 0.0 0.0 ellipse type 0 fitness 0.75
+1485 6425 0.0 0.0 ellipse type 1 fitness 2.5
+1486 6428 0.0 0.0 ellipse type 1 fitness 2.0
+1487 10630 0.0 0.0 ellipse type 1 fitness 1.5
+1488 6495 0.0 0.0 ellipse type 1 fitness 7.0
+1489 6509 0.0 0.0 ellipse type 1 fitness 2.0
+1490 6547 0.0 0.0 ellipse type 0 fitness 1.0
+1491 6551 0.0 0.0 ellipse type 0 fitness 1.5
+1492 6562 0.0 0.0 ellipse type 0 fitness 2.25
+1493 6573 0.0 0.0 ellipse type 1 fitness 0.5
+1494 6574 0.0 0.0 ellipse type 1 fitness 2.0
+1495 6587 0.0 0.0 ellipse type 0 fitness 1.25
+1496 6614 0.0 0.0 ellipse type 0 fitness 1.25
+1497 6641 0.0 0.0 ellipse type 0 fitness 1.0
+1498 6670 0.0 0.0 ellipse type 0 fitness 1.0
+1499 6688 0.0 0.0 ellipse type 0 fitness 1.25
+1500 6708 0.0 0.0 ellipse type 1 fitness 1.5
+1501 6730 0.0 0.0 ellipse type 0 fitness 0.75
+1502 6734 0.0 0.0 ellipse type 0 fitness 2.75
+1503 6810 0.0 0.0 ellipse type 0 fitness 1.75
+1504 6817 0.0 0.0 ellipse type 0 fitness 1.25
+1505 6845 0.0 0.0 ellipse type 1 fitness 2.0
+1506 6861 0.0 0.0 ellipse type 1 fitness 6.5
+1507 6866 0.0 0.0 ellipse type 1 fitness 1.0
+1508 6869 0.0 0.0 ellipse type 0 fitness 0.5
+1509 6880 0.0 0.0 ellipse type 0 fitness 0.75
+1510 6887 0.0 0.0 ellipse type 1 fitness 0.5
+1511 6926 0.0 0.0 ellipse type 0 fitness 0.5
+1512 6957 0.0 0.0 ellipse type 0 fitness 1.5
+1513 6965 0.0 0.0 ellipse type 1 fitness 3.5
+1514 6982 0.0 0.0 ellipse type 1 fitness 5.0
+1515 7050 0.0 0.0 ellipse type 1 fitness 3.5
+1516 7061 0.0 0.0 ellipse type 1 fitness 1.5
+1517 7087 0.0 0.0 ellipse type 1 fitness 2.5
+1518 7095 0.0 0.0 ellipse type 0 fitness 2.25
+1519 7101 0.0 0.0 ellipse type 1 fitness 0.5
+1520 7141 0.0 0.0 ellipse type 0 fitness 1.5
+1521 7162 0.0 0.0 ellipse type 0 fitness 1.25
+1522 7174 0.0 0.0 ellipse type 0 fitness 2.5
+1523 7188 0.0 0.0 ellipse type 1 fitness 1.0
+1524 7206 0.0 0.0 ellipse type 1 fitness 0.5
+1525 7209 0.0 0.0 ellipse type 1 fitness 4.5
+1526 7227 0.0 0.0 ellipse type 1 fitness 6.5
+1527 7231 0.0 0.0 ellipse type 1 fitness 2.0
+1528 7246 0.0 0.0 ellipse type 0 fitness 2.25
+1529 7296 0.0 0.0 ellipse type 1 fitness 0.5
+1530 7298 0.0 0.0 ellipse type 1 fitness 4.5
+1531 7305 0.0 0.0 ellipse type 1 fitness 2.0
+1532 7308 0.0 0.0 ellipse type 1 fitness 1.0
+1533 7323 0.0 0.0 ellipse type 0 fitness 0.5
+1534 7330 0.0 0.0 ellipse type 0 fitness 4.0
+1535 7336 0.0 0.0 ellipse type 1 fitness 3.5
+1536 7356 0.0 0.0 ellipse type 1 fitness 1.0
+1537 7387 0.0 0.0 ellipse type 1 fitness 1.5
+1538 7397 0.0 0.0 ellipse type 1 fitness 1.0
+1539 7404 0.0 0.0 ellipse type 1 fitness 3.0
+1540 7405 0.0 0.0 ellipse type 0 fitness 1.25
+1541 7427 0.0 0.0 ellipse type 1 fitness 5.0
+1542 7453 0.0 0.0 ellipse type 1 fitness 1.0
+1543 7455 0.0 0.0 ellipse type 1 fitness 2.0
+1544 7470 0.0 0.0 ellipse type 1 fitness 3.0
+1545 7514 0.0 0.0 ellipse type 1 fitness 6.5
+1546 7548 0.0 0.0 ellipse type 1 fitness 0.5
+1547 7564 0.0 0.0 ellipse type 0 fitness 1.5
+1548 7568 0.0 0.0 ellipse type 1 fitness 0.5
+1549 7621 0.0 0.0 ellipse type 1 fitness 1.0
+1550 7650 0.0 0.0 ellipse type 1 fitness 2.0
+1551 7654 0.0 0.0 ellipse type 1 fitness 1.5
+1552 7682 0.0 0.0 ellipse type 0 fitness 1.5
+1553 7684 0.0 0.0 ellipse type 1 fitness 2.0
+1554 7704 0.0 0.0 ellipse type 1 fitness 1.0
+1555 7708 0.0 0.0 ellipse type 1 fitness 7.0
+1556 7712 0.0 0.0 ellipse type 0 fitness 0.5
+1557 7723 0.0 0.0 ellipse type 1 fitness 4.5
+1558 7725 0.0 0.0 ellipse type 1 fitness 0.5
+1559 7743 0.0 0.0 ellipse type 0 fitness 1.75
+1560 7768 0.0 0.0 ellipse type 0 fitness 0.5
+1561 7769 0.0 0.0 ellipse type 0 fitness 2.25
+1562 7782 0.0 0.0 ellipse type 0 fitness 0.5
+1563 7787 0.0 0.0 ellipse type 1 fitness 2.5
+1564 7808 0.0 0.0 ellipse type 1 fitness 1.0
+1565 7812 0.0 0.0 ellipse type 1 fitness 0.5
+1566 7823 0.0 0.0 ellipse type 1 fitness 2.5
+1567 7828 0.0 0.0 ellipse type 0 fitness 0.75
+1568 7862 0.0 0.0 ellipse type 0 fitness 2.0
+1569 7864 0.0 0.0 ellipse type 0 fitness 2.75
+1570 7872 0.0 0.0 ellipse type 1 fitness 3.0
+1571 7883 0.0 0.0 ellipse type 1 fitness 3.0
+1572 7885 0.0 0.0 ellipse type 1 fitness 5.5
+1573 7899 0.0 0.0 ellipse type 1 fitness 3.0
+1574 7910 0.0 0.0 ellipse type 1 fitness 1.0
+1575 7923 0.0 0.0 ellipse type 0 fitness 4.25
+1576 7931 0.0 0.0 ellipse type 0 fitness 1.25
+1577 7967 0.0 0.0 ellipse type 0 fitness 2.0
+1578 7978 0.0 0.0 ellipse type 1 fitness 2.5
+1579 7999 0.0 0.0 ellipse type 0 fitness 1.25
+1580 8000 0.0 0.0 ellipse type 1 fitness 0.5
+1581 8007 0.0 0.0 ellipse type 1 fitness 6.0
+1582 8023 0.0 0.0 ellipse type 0 fitness 2.0
+1583 8037 0.0 0.0 ellipse type 0 fitness 2.0
+1584 8043 0.0 0.0 ellipse type 0 fitness 3.5
+1585 8051 0.0 0.0 ellipse type 1 fitness 3.0
+1586 8053 0.0 0.0 ellipse type 1 fitness 1.5
+1587 8058 0.0 0.0 ellipse type 0 fitness 0.5
+1588 8059 0.0 0.0 ellipse type 0 fitness 3.0
+1589 8064 0.0 0.0 ellipse type 0 fitness 1.0
+1590 8068 0.0 0.0 ellipse type 1 fitness 1.0
+1591 8079 0.0 0.0 ellipse type 0 fitness 1.5
+1592 8089 0.0 0.0 ellipse type 1 fitness 1.5
+1593 8093 0.0 0.0 ellipse type 0 fitness 2.0
+1594 8116 0.0 0.0 ellipse type 0 fitness 1.75
+1595 8133 0.0 0.0 ellipse type 1 fitness 1.5
+1596 8145 0.0 0.0 ellipse type 1 fitness 7.5
+1597 8151 0.0 0.0 ellipse type 1 fitness 3.0
+1598 8156 0.0 0.0 ellipse type 0 fitness 1.5
+1599 8172 0.0 0.0 ellipse type 0 fitness 1.5
+1600 8188 0.0 0.0 ellipse type 0 fitness 2.25
+*edges
+1 327 1.0
+1 1207 1.0
+1 856 1.0
+1 215 1.0
+2 731 1.0
+2 237 1.0
+2 1252 1.0
+2 1309 1.0
+2 1285 1.0
+2 1055 1.0
+2 423 1.0
+3 61 1.0
+4 153 1.0
+4 1070 1.0
+5 230 1.0
+5 655 1.0
+5 331 1.0
+6 246 1.0
+7 1384 1.0
+7 1144 1.0
+7 193 1.0
+7 1537 1.0
+9 1292 1.0
+10 1549 1.0
+10 801 1.0
+11 40 1.0
+11 1406 1.0
+12 154 1.0
+13 854 1.0
+13 644 1.0
+13 876 1.0
+13 1348 1.0
+15 1314 1.0
+15 62 1.0
+15 1488 1.0
+17 1581 1.0
+17 167 1.0
+17 1308 1.0
+17 873 1.0
+17 821 1.0
+18 1427 1.0
+18 138 1.0
+18 1412 1.0
+18 464 1.0
+21 948 1.0
+21 391 1.0
+21 362 1.0
+21 740 1.0
+21 987 1.0
+22 546 1.0
+22 1245 1.0
+22 1143 1.0
+22 666 1.0
+23 1009 1.0
+23 1329 1.0
+23 248 1.0
+24 1244 1.0
+24 1018 1.0
+24 672 1.0
+24 445 1.0
+24 1506 1.0
+24 1128 1.0
+26 380 1.0
+27 625 1.0
+27 1250 1.0
+27 534 1.0
+27 259 1.0
+27 1436 1.0
+27 384 1.0
+27 1411 1.0
+27 920 1.0
+30 200 1.0
+30 347 1.0
+30 583 1.0
+30 208 1.0
+31 1140 1.0
+31 1342 1.0
+33 730 1.0
+33 1161 1.0
+33 746 1.0
+33 1205 1.0
+33 472 1.0
+33 1235 1.0
+33 1467 1.0
+33 1555 1.0
+34 970 1.0
+35 1162 1.0
+35 1234 1.0
+35 1006 1.0
+35 317 1.0
+35 220 1.0
+35 1192 1.0
+36 211 1.0
+36 382 1.0
+36 1471 1.0
+37 627 1.0
+37 1001 1.0
+38 159 1.0
+38 1372 1.0
+38 1222 1.0
+38 1577 1.0
+39 223 1.0
+39 214 1.0
+41 398 1.0
+41 1387 1.0
+43 380 1.0
+44 185 1.0
+44 154 1.0
+44 904 1.0
+44 1596 1.0
+45 1462 1.0
+46 1414 1.0
+47 628 1.0
+47 1148 1.0
+47 1434 1.0
+47 1008 1.0
+47 117 1.0
+47 588 1.0
+48 1255 1.0
+49 579 1.0
+49 613 1.0
+50 325 1.0
+51 1323 1.0
+51 127 1.0
+52 385 1.0
+52 144 1.0
+52 258 1.0
+52 667 1.0
+52 1479 1.0
+52 921 1.0
+53 1198 1.0
+54 515 1.0
+54 964 1.0
+54 742 1.0
+55 170 1.0
+56 1553 1.0
+56 1421 1.0
+56 997 1.0
+56 774 1.0
+56 316 1.0
+56 588 1.0
+56 419 1.0
+57 1064 1.0
+58 991 1.0
+58 524 1.0
+58 671 1.0
+58 962 1.0
+58 325 1.0
+59 473 1.0
+61 1359 1.0
+62 374 1.0
+62 615 1.0
+62 1314 1.0
+62 777 1.0
+62 1488 1.0
+63 944 1.0
+63 312 1.0
+63 1202 1.0
+63 1526 1.0
+63 319 1.0
+64 408 1.0
+64 362 1.0
+64 1390 1.0
+64 1047 1.0
+64 1145 1.0
+65 1499 1.0
+65 675 1.0
+65 498 1.0
+65 1294 1.0
+67 1461 1.0
+68 744 1.0
+68 364 1.0
+70 353 1.0
+71 595 1.0
+71 1328 1.0
+71 527 1.0
+71 1544 1.0
+71 932 1.0
+71 652 1.0
+71 540 1.0
+71 541 1.0
+71 990 1.0
+72 334 1.0
+72 501 1.0
+72 789 1.0
+72 301 1.0
+72 874 1.0
+73 1063 1.0
+73 939 1.0
+73 217 1.0
+73 596 1.0
+73 1459 1.0
+73 1057 1.0
+73 819 1.0
+74 1499 1.0
+74 455 1.0
+74 404 1.0
+74 530 1.0
+75 1084 1.0
+75 1294 1.0
+76 413 1.0
+76 1250 1.0
+77 239 1.0
+78 1160 1.0
+78 1353 1.0
+78 1376 1.0
+78 689 1.0
+78 253 1.0
+78 728 1.0
+79 574 1.0
+80 1122 1.0
+80 1306 1.0
+81 266 1.0
+82 83 1.0
+82 1543 1.0
+83 1543 1.0
+84 884 1.0
+84 414 1.0
+84 1233 1.0
+84 451 1.0
+84 917 1.0
+84 1158 1.0
+86 922 1.0
+86 1024 1.0
+86 1489 1.0
+86 1513 1.0
+86 1380 1.0
+87 965 1.0
+88 1277 1.0
+88 1483 1.0
+88 146 1.0
+89 113 1.0
+89 474 1.0
+89 1265 1.0
+90 1135 1.0
+90 1428 1.0
+91 273 1.0
+91 670 1.0
+91 1581 1.0
+91 1445 1.0
+91 113 1.0
+91 1146 1.0
+91 462 1.0
+91 918 1.0
+91 1060 1.0
+93 678 1.0
+94 616 1.0
+94 506 1.0
+95 657 1.0
+95 108 1.0
+95 1463 1.0
+95 852 1.0
+95 701 1.0
+95 1027 1.0
+95 1150 1.0
+95 1373 1.0
+95 1344 1.0
+95 1109 1.0
+95 514 1.0
+95 772 1.0
+96 183 1.0
+96 341 1.0
+97 1567 1.0
+98 580 1.0
+98 1304 1.0
+99 1173 1.0
+99 945 1.0
+99 1237 1.0
+99 202 1.0
+100 1036 1.0
+100 1300 1.0
+100 1144 1.0
+100 156 1.0
+100 193 1.0
+100 226 1.0
+100 572 1.0
+100 1537 1.0
+100 1366 1.0
+101 910 1.0
+101 469 1.0
+101 702 1.0
+101 1592 1.0
+101 1101 1.0
+101 210 1.0
+102 994 1.0
+102 1522 1.0
+103 1286 1.0
+104 335 1.0
+104 582 1.0
+104 831 1.0
+104 1478 1.0
+104 1396 1.0
+104 371 1.0
+104 776 1.0
+104 872 1.0
+106 1430 1.0
+108 657 1.0
+108 1456 1.0
+108 1422 1.0
+108 852 1.0
+108 1463 1.0
+108 339 1.0
+108 701 1.0
+108 1027 1.0
+108 1310 1.0
+108 772 1.0
+108 621 1.0
+109 263 1.0
+109 126 1.0
+109 1263 1.0
+110 1468 1.0
+112 549 1.0
+112 1085 1.0
+113 670 1.0
+113 595 1.0
+113 474 1.0
+113 1265 1.0
+114 889 1.0
+114 448 1.0
+114 1120 1.0
+114 581 1.0
+114 373 1.0
+114 1013 1.0
+116 1581 1.0
+116 367 1.0
+116 1250 1.0
+116 189 1.0
+116 1572 1.0
+116 1264 1.0
+116 413 1.0
+117 1148 1.0
+118 326 1.0
+118 412 1.0
+118 1142 1.0
+118 1198 1.0
+118 1544 1.0
+118 1478 1.0
+118 793 1.0
+119 762 1.0
+119 1189 1.0
+119 624 1.0
+119 1275 1.0
+119 346 1.0
+119 940 1.0
+119 1073 1.0
+119 1121 1.0
+119 539 1.0
+119 542 1.0
+120 988 1.0
+121 1188 1.0
+121 1457 1.0
+121 1094 1.0
+122 1550 1.0
+122 1249 1.0
+122 1515 1.0
+122 1000 1.0
+122 892 1.0
+122 1107 1.0
+122 636 1.0
+123 1578 1.0
+123 598 1.0
+123 521 1.0
+123 1404 1.0
+123 820 1.0
+124 625 1.0
+124 473 1.0
+125 1330 1.0
+125 386 1.0
+125 1498 1.0
+126 166 1.0
+126 1271 1.0
+126 1066 1.0
+126 745 1.0
+126 444 1.0
+126 767 1.0
+126 550 1.0
+126 263 1.0
+126 893 1.0
+126 262 1.0
+127 1323 1.0
+127 402 1.0
+127 748 1.0
+127 1547 1.0
+128 328 1.0
+128 1333 1.0
+129 888 1.0
+129 1463 1.0
+129 1172 1.0
+129 642 1.0
+130 1416 1.0
+130 1460 1.0
+131 1516 1.0
+131 1485 1.0
+131 1439 1.0
+132 172 1.0
+132 341 1.0
+132 309 1.0
+133 1472 1.0
+133 281 1.0
+134 220 1.0
+135 1496 1.0
+135 278 1.0
+135 1600 1.0
+136 697 1.0
+136 352 1.0
+137 649 1.0
+137 1241 1.0
+137 1388 1.0
+137 399 1.0
+137 301 1.0
+137 430 1.0
+137 545 1.0
+138 732 1.0
+138 999 1.0
+138 1412 1.0
+139 1062 1.0
+140 260 1.0
+140 324 1.0
+140 1071 1.0
+140 864 1.0
+140 162 1.0
+140 437 1.0
+140 321 1.0
+140 650 1.0
+140 477 1.0
+140 1062 1.0
+141 144 1.0
+142 875 1.0
+142 623 1.0
+143 1065 1.0
+143 927 1.0
+143 187 1.0
+145 320 1.0
+145 1214 1.0
+145 160 1.0
+145 850 1.0
+145 1512 1.0
+145 461 1.0
+145 1471 1.0
+146 1277 1.0
+147 182 1.0
+147 632 1.0
+147 1003 1.0
+147 397 1.0
+147 727 1.0
+147 623 1.0
+149 1591 1.0
+150 794 1.0
+150 1199 1.0
+150 711 1.0
+151 1327 1.0
+151 239 1.0
+151 1539 1.0
+152 1044 1.0
+153 471 1.0
+153 1070 1.0
+153 949 1.0
+153 1253 1.0
+153 295 1.0
+153 1155 1.0
+154 185 1.0
+155 1056 1.0
+156 572 1.0
+156 1036 1.0
+157 604 1.0
+157 1079 1.0
+157 1015 1.0
+158 216 1.0
+159 647 1.0
+159 1222 1.0
+160 320 1.0
+160 824 1.0
+160 1016 1.0
+160 461 1.0
+160 1512 1.0
+160 280 1.0
+160 1214 1.0
+160 840 1.0
+162 576 1.0
+162 1522 1.0
+162 195 1.0
+162 1084 1.0
+162 1294 1.0
+162 1382 1.0
+163 1149 1.0
+164 999 1.0
+164 1145 1.0
+165 1297 1.0
+165 698 1.0
+165 1557 1.0
+165 890 1.0
+165 1078 1.0
+165 1096 1.0
+165 710 1.0
+166 1020 1.0
+166 1021 1.0
+166 444 1.0
+166 767 1.0
+166 263 1.0
+166 494 1.0
+166 893 1.0
+167 1295 1.0
+167 974 1.0
+167 656 1.0
+168 1472 1.0
+168 563 1.0
+168 217 1.0
+168 819 1.0
+169 865 1.0
+169 1129 1.0
+169 1486 1.0
+169 901 1.0
+170 1011 1.0
+171 326 1.0
+172 691 1.0
+172 1077 1.0
+172 428 1.0
+172 851 1.0
+172 853 1.0
+172 305 1.0
+172 354 1.0
+173 230 1.0
+173 1275 1.0
+173 898 1.0
+173 331 1.0
+174 390 1.0
+174 1225 1.0
+175 1575 1.0
+176 420 1.0
+176 747 1.0
+176 768 1.0
+176 585 1.0
+177 1415 1.0
+177 1091 1.0
+177 236 1.0
+177 1141 1.0
+177 651 1.0
+177 421 1.0
+177 1440 1.0
+178 187 1.0
+178 519 1.0
+178 813 1.0
+178 302 1.0
+178 798 1.0
+178 1156 1.0
+179 1520 1.0
+179 1444 1.0
+180 1165 1.0
+180 827 1.0
+180 820 1.0
+180 980 1.0
+181 427 1.0
+182 481 1.0
+182 632 1.0
+182 621 1.0
+183 239 1.0
+183 1210 1.0
+183 364 1.0
+184 1115 1.0
+184 881 1.0
+184 926 1.0
+184 1193 1.0
+184 1456 1.0
+184 885 1.0
+184 223 1.0
+184 858 1.0
+184 617 1.0
+184 621 1.0
+184 899 1.0
+184 780 1.0
+185 1596 1.0
+185 247 1.0
+185 742 1.0
+186 1541 1.0
+186 1459 1.0
+187 1415 1.0
+187 1174 1.0
+187 1314 1.0
+187 1378 1.0
+187 940 1.0
+187 332 1.0
+188 1472 1.0
+188 509 1.0
+188 209 1.0
+189 993 1.0
+189 358 1.0
+189 1581 1.0
+189 886 1.0
+189 1572 1.0
+189 1190 1.0
+190 401 1.0
+190 914 1.0
+190 1371 1.0
+190 1505 1.0
+190 1465 1.0
+191 403 1.0
+191 1569 1.0
+192 1339 1.0
+192 1081 1.0
+192 1014 1.0
+192 1469 1.0
+193 1144 1.0
+193 1575 1.0
+193 946 1.0
+194 234 1.0
+194 1419 1.0
+194 1012 1.0
+195 546 1.0
+195 1522 1.0
+196 673 1.0
+196 1195 1.0
+196 810 1.0
+196 1050 1.0
+196 936 1.0
+196 1442 1.0
+198 823 1.0
+198 1064 1.0
+198 376 1.0
+198 424 1.0
+198 908 1.0
+198 251 1.0
+198 565 1.0
+198 1432 1.0
+198 1441 1.0
+199 712 1.0
+199 221 1.0
+201 298 1.0
+201 467 1.0
+201 740 1.0
+202 1414 1.0
+202 924 1.0
+202 972 1.0
+202 1485 1.0
+202 1592 1.0
+202 1155 1.0
+203 1531 1.0
+203 662 1.0
+203 817 1.0
+204 1297 1.0
+206 1394 1.0
+206 1575 1.0
+206 1177 1.0
+207 903 1.0
+207 1530 1.0
+207 682 1.0
+207 586 1.0
+207 641 1.0
+207 862 1.0
+208 583 1.0
+209 1360 1.0
+209 927 1.0
+209 1226 1.0
+209 469 1.0
+209 500 1.0
+209 1240 1.0
+210 1384 1.0
+210 1360 1.0
+210 927 1.0
+210 435 1.0
+210 1364 1.0
+210 469 1.0
+210 986 1.0
+210 897 1.0
+210 1101 1.0
+210 690 1.0
+212 490 1.0
+212 1355 1.0
+212 849 1.0
+212 1304 1.0
+212 1369 1.0
+212 752 1.0
+212 1258 1.0
+212 1597 1.0
+212 1289 1.0
+212 1526 1.0
+212 228 1.0
+213 394 1.0
+213 1152 1.0
+213 303 1.0
+213 407 1.0
+213 966 1.0
+214 1454 1.0
+214 848 1.0
+214 1180 1.0
+214 894 1.0
+214 1108 1.0
+215 1296 1.0
+215 313 1.0
+215 1125 1.0
+215 378 1.0
+215 370 1.0
+215 725 1.0
+215 327 1.0
+215 227 1.0
+216 848 1.0
+217 563 1.0
+217 1057 1.0
+217 819 1.0
+218 1331 1.0
+218 1403 1.0
+220 1023 1.0
+220 1025 1.0
+220 1075 1.0
+220 989 1.0
+220 791 1.0
+220 1105 1.0
+220 737 1.0
+220 1007 1.0
+220 1196 1.0
+220 586 1.0
+220 630 1.0
+220 1086 1.0
+220 1006 1.0
+221 712 1.0
+222 1270 1.0
+222 1068 1.0
+222 594 1.0
+222 293 1.0
+222 453 1.0
+222 513 1.0
+223 481 1.0
+223 304 1.0
+224 238 1.0
+224 913 1.0
+224 808 1.0
+225 1570 1.0
+225 1541 1.0
+225 360 1.0
+225 891 1.0
+225 1437 1.0
+225 1526 1.0
+225 1380 1.0
+226 1300 1.0
+226 1363 1.0
+226 1366 1.0
+226 572 1.0
+227 695 1.0
+227 579 1.0
+227 1125 1.0
+227 370 1.0
+227 1208 1.0
+227 940 1.0
+227 590 1.0
+227 514 1.0
+228 490 1.0
+228 1295 1.0
+228 1354 1.0
+228 425 1.0
+228 1369 1.0
+228 1049 1.0
+228 1258 1.0
+228 568 1.0
+228 839 1.0
+228 1267 1.0
+230 1383 1.0
+230 898 1.0
+231 993 1.0
+231 519 1.0
+231 1233 1.0
+231 405 1.0
+231 771 1.0
+231 1239 1.0
+231 333 1.0
+232 827 1.0
+232 980 1.0
+232 837 1.0
+234 1419 1.0
+234 238 1.0
+234 484 1.0
+235 1095 1.0
+235 1089 1.0
+235 611 1.0
+235 766 1.0
+235 868 1.0
+235 1001 1.0
+235 1596 1.0
+235 265 1.0
+235 397 1.0
+235 1292 1.0
+235 727 1.0
+236 1440 1.0
+236 421 1.0
+236 1487 1.0
+236 483 1.0
+236 1141 1.0
+236 457 1.0
+236 651 1.0
+236 1433 1.0
+236 708 1.0
+236 1130 1.0
+236 475 1.0
+237 458 1.0
+238 1419 1.0
+238 484 1.0
+238 602 1.0
+239 814 1.0
+240 1417 1.0
+240 674 1.0
+240 1410 1.0
+240 306 1.0
+240 1449 1.0
+242 723 1.0
+242 804 1.0
+242 337 1.0
+242 672 1.0
+242 1167 1.0
+242 470 1.0
+242 1298 1.0
+242 1034 1.0
+242 758 1.0
+242 1083 1.0
+242 522 1.0
+242 1469 1.0
+243 1095 1.0
+243 1596 1.0
+244 1118 1.0
+244 1397 1.0
+244 571 1.0
+245 1534 1.0
+246 427 1.0
+247 806 1.0
+247 1328 1.0
+247 1390 1.0
+247 265 1.0
+247 540 1.0
+247 541 1.0
+247 990 1.0
+248 441 1.0
+248 1559 1.0
+249 289 1.0
+249 936 1.0
+249 1545 1.0
+250 1545 1.0
+251 823 1.0
+251 376 1.0
+251 908 1.0
+251 831 1.0
+252 1561 1.0
+253 1160 1.0
+253 1353 1.0
+253 689 1.0
+253 728 1.0
+253 781 1.0
+254 1458 1.0
+254 930 1.0
+254 485 1.0
+254 1488 1.0
+256 1423 1.0
+256 1028 1.0
+256 1232 1.0
+256 1113 1.0
+256 258 1.0
+256 667 1.0
+256 1132 1.0
+256 921 1.0
+257 1525 1.0
+258 1028 1.0
+258 667 1.0
+258 1151 1.0
+258 921 1.0
+259 925 1.0
+259 920 1.0
+260 388 1.0
+260 1297 1.0
+260 864 1.0
+260 443 1.0
+260 650 1.0
+260 937 1.0
+260 296 1.0
+261 1492 1.0
+262 444 1.0
+262 722 1.0
+263 1066 1.0
+263 1021 1.0
+263 444 1.0
+263 1278 1.0
+264 607 1.0
+264 1581 1.0
+264 1251 1.0
+264 976 1.0
+264 1572 1.0
+264 1008 1.0
+265 806 1.0
+265 766 1.0
+265 615 1.0
+265 1596 1.0
+265 977 1.0
+266 1472 1.0
+266 992 1.0
+266 482 1.0
+266 1223 1.0
+266 1405 1.0
+266 1171 1.0
+266 348 1.0
+266 961 1.0
+266 1035 1.0
+266 523 1.0
+267 1117 1.0
+267 1479 1.0
+268 1040 1.0
+268 525 1.0
+268 1379 1.0
+268 1375 1.0
+268 1402 1.0
+268 460 1.0
+268 1513 1.0
+268 1057 1.0
+268 1238 1.0
+268 1010 1.0
+268 919 1.0
+269 1589 1.0
+270 1077 1.0
+270 308 1.0
+270 1409 1.0
+272 955 1.0
+272 692 1.0
+272 608 1.0
+272 1488 1.0
+273 494 1.0
+273 1445 1.0
+273 749 1.0
+275 1525 1.0
+275 1026 1.0
+275 498 1.0
+276 955 1.0
+276 651 1.0
+276 1312 1.0
+276 1100 1.0
+276 1488 1.0
+277 943 1.0
+277 1455 1.0
+277 726 1.0
+277 933 1.0
+277 602 1.0
+277 1108 1.0
+278 480 1.0
+278 524 1.0
+278 1424 1.0
+278 646 1.0
+278 1600 1.0
+278 1317 1.0
+279 995 1.0
+279 1514 1.0
+279 1165 1.0
+279 1254 1.0
+279 1090 1.0
+279 1289 1.0
+279 499 1.0
+279 1393 1.0
+281 633 1.0
+281 1527 1.0
+282 907 1.0
+282 1099 1.0
+282 1209 1.0
+283 1504 1.0
+283 503 1.0
+283 500 1.0
+284 945 1.0
+284 664 1.0
+284 1283 1.0
+284 351 1.0
+284 543 1.0
+287 634 1.0
+289 1260 1.0
+290 1188 1.0
+290 1457 1.0
+290 1094 1.0
+290 1566 1.0
+290 1368 1.0
+290 653 1.0
+290 1398 1.0
+291 954 1.0
+291 554 1.0
+291 687 1.0
+293 1184 1.0
+293 513 1.0
+294 733 1.0
+294 1392 1.0
+294 631 1.0
+294 342 1.0
+294 802 1.0
+295 1070 1.0
+295 1253 1.0
+295 699 1.0
+295 910 1.0
+295 702 1.0
+295 471 1.0
+295 1235 1.0
+296 1246 1.0
+297 1194 1.0
+299 1452 1.0
+299 1218 1.0
+300 770 1.0
+300 960 1.0
+300 1573 1.0
+301 334 1.0
+301 1065 1.0
+303 407 1.0
+303 1321 1.0
+303 394 1.0
+304 1045 1.0
+304 387 1.0
+305 341 1.0
+306 1481 1.0
+306 1417 1.0
+307 1590 1.0
+308 1389 1.0
+308 526 1.0
+308 722 1.0
+308 754 1.0
+308 1585 1.0
+308 961 1.0
+309 610 1.0
+309 850 1.0
+309 461 1.0
+310 803 1.0
+310 1231 1.0
+310 601 1.0
+310 896 1.0
+311 788 1.0
+311 488 1.0
+311 416 1.0
+311 900 1.0
+312 944 1.0
+312 360 1.0
+312 1202 1.0
+312 450 1.0
+312 473 1.0
+312 1526 1.0
+312 319 1.0
+313 725 1.0
+314 1063 1.0
+314 1374 1.0
+314 1377 1.0
+315 547 1.0
+315 812 1.0
+315 1571 1.0
+315 753 1.0
+316 997 1.0
+316 512 1.0
+317 420 1.0
+317 747 1.0
+317 768 1.0
+317 1234 1.0
+317 1006 1.0
+317 585 1.0
+317 1340 1.0
+317 1443 1.0
+318 1534 1.0
+318 535 1.0
+318 322 1.0
+318 1395 1.0
+318 1033 1.0
+319 1259 1.0
+319 891 1.0
+319 1526 1.0
+319 558 1.0
+320 349 1.0
+320 755 1.0
+321 576 1.0
+321 864 1.0
+321 437 1.0
+321 603 1.0
+321 1382 1.0
+322 1395 1.0
+322 1033 1.0
+322 637 1.0
+322 990 1.0
+323 577 1.0
+323 468 1.0
+323 436 1.0
+323 956 1.0
+323 349 1.0
+323 1403 1.0
+323 498 1.0
+323 958 1.0
+323 565 1.0
+324 576 1.0
+324 1303 1.0
+324 1004 1.0
+324 688 1.0
+325 671 1.0
+325 1120 1.0
+325 524 1.0
+325 706 1.0
+325 962 1.0
+325 1013 1.0
+326 1544 1.0
+327 1296 1.0
+327 378 1.0
+327 1207 1.0
+328 576 1.0
+328 1506 1.0
+329 692 1.0
+330 1023 1.0
+330 795 1.0
+330 1029 1.0
+330 796 1.0
+330 586 1.0
+330 543 1.0
+331 1383 1.0
+331 1019 1.0
+331 1493 1.0
+331 655 1.0
+331 452 1.0
+332 1174 1.0
+333 824 1.0
+333 993 1.0
+334 501 1.0
+334 660 1.0
+334 570 1.0
+335 1149 1.0
+336 1545 1.0
+337 672 1.0
+337 1167 1.0
+337 723 1.0
+338 1527 1.0
+339 1456 1.0
+339 852 1.0
+339 1463 1.0
+339 913 1.0
+339 1310 1.0
+340 539 1.0
+340 1488 1.0
+343 1509 1.0
+343 1461 1.0
+344 484 1.0
+344 1331 1.0
+345 1188 1.0
+345 1457 1.0
+345 1094 1.0
+345 1399 1.0
+345 417 1.0
+345 1241 1.0
+345 545 1.0
+346 1189 1.0
+347 575 1.0
+348 482 1.0
+349 468 1.0
+349 958 1.0
+349 499 1.0
+350 1336 1.0
+350 618 1.0
+351 945 1.0
+351 1370 1.0
+351 543 1.0
+352 410 1.0
+352 697 1.0
+352 1175 1.0
+352 1203 1.0
+352 906 1.0
+353 624 1.0
+353 1311 1.0
+354 691 1.0
+354 614 1.0
+354 595 1.0
+354 941 1.0
+354 652 1.0
+354 428 1.0
+354 654 1.0
+354 1185 1.0
+354 1451 1.0
+355 1169 1.0
+355 668 1.0
+355 1593 1.0
+359 721 1.0
+359 1111 1.0
+360 389 1.0
+360 1054 1.0
+360 944 1.0
+360 765 1.0
+360 812 1.0
+360 907 1.0
+360 786 1.0
+360 1526 1.0
+360 1060 1.0
+361 1389 1.0
+361 754 1.0
+361 1585 1.0
+362 1052 1.0
+362 408 1.0
+363 411 1.0
+363 829 1.0
+363 1406 1.0
+363 1318 1.0
+363 800 1.0
+364 784 1.0
+364 732 1.0
+365 1354 1.0
+365 800 1.0
+366 1251 1.0
+366 584 1.0
+367 413 1.0
+367 368 1.0
+367 1343 1.0
+368 1264 1.0
+370 1361 1.0
+370 1125 1.0
+371 613 1.0
+371 910 1.0
+371 1313 1.0
+371 1503 1.0
+371 1110 1.0
+371 776 1.0
+371 584 1.0
+372 822 1.0
+373 805 1.0
+373 1138 1.0
+373 828 1.0
+373 1481 1.0
+373 1116 1.0
+373 781 1.0
+374 738 1.0
+374 685 1.0
+375 829 1.0
+375 1540 1.0
+376 1247 1.0
+376 630 1.0
+376 1025 1.0
+376 1257 1.0
+376 737 1.0
+377 1521 1.0
+377 911 1.0
+378 1296 1.0
+378 1207 1.0
+379 1357 1.0
+379 863 1.0
+379 929 1.0
+379 680 1.0
+380 575 1.0
+382 1072 1.0
+382 866 1.0
+382 1514 1.0
+383 1571 1.0
+384 534 1.0
+384 437 1.0
+384 1436 1.0
+384 1411 1.0
+384 920 1.0
+386 1330 1.0
+388 560 1.0
+388 1246 1.0
+388 1011 1.0
+388 878 1.0
+389 1301 1.0
+389 812 1.0
+389 888 1.0
+389 972 1.0
+390 1225 1.0
+391 786 1.0
+391 511 1.0
+391 1038 1.0
+391 1559 1.0
+392 951 1.0
+392 1122 1.0
+392 757 1.0
+392 707 1.0
+392 1561 1.0
+393 862 1.0
+393 423 1.0
+393 1535 1.0
+393 467 1.0
+393 1098 1.0
+393 1170 1.0
+393 718 1.0
+393 1285 1.0
+394 661 1.0
+394 975 1.0
+394 1150 1.0
+394 769 1.0
+394 1124 1.0
+394 1391 1.0
+394 407 1.0
+394 1114 1.0
+395 739 1.0
+396 1274 1.0
+396 832 1.0
+397 1089 1.0
+397 1337 1.0
+397 794 1.0
+397 727 1.0
+398 1449 1.0
+399 1168 1.0
+399 1401 1.0
+399 1388 1.0
+400 1416 1.0
+400 1464 1.0
+400 1386 1.0
+400 1460 1.0
+400 604 1.0
+401 508 1.0
+401 1505 1.0
+402 705 1.0
+402 1590 1.0
+403 505 1.0
+404 455 1.0
+404 1071 1.0
+404 675 1.0
+405 1218 1.0
+405 771 1.0
+405 1263 1.0
+406 1457 1.0
+406 835 1.0
+409 1595 1.0
+409 1159 1.0
+410 1420 1.0
+411 994 1.0
+411 829 1.0
+411 615 1.0
+412 1478 1.0
+412 793 1.0
+413 825 1.0
+413 1250 1.0
+413 830 1.0
+414 884 1.0
+414 1334 1.0
+414 451 1.0
+414 917 1.0
+414 1158 1.0
+416 1492 1.0
+416 985 1.0
+417 1455 1.0
+417 1076 1.0
+417 1082 1.0
+417 449 1.0
+417 726 1.0
+417 799 1.0
+417 1381 1.0
+419 427 1.0
+419 512 1.0
+419 821 1.0
+420 1162 1.0
+420 747 1.0
+420 1575 1.0
+420 585 1.0
+421 922 1.0
+421 1091 1.0
+421 483 1.0
+421 955 1.0
+421 1440 1.0
+421 1259 1.0
+421 1157 1.0
+422 1503 1.0
+422 613 1.0
+422 1522 1.0
+423 467 1.0
+423 1285 1.0
+423 664 1.0
+423 740 1.0
+424 1064 1.0
+424 805 1.0
+424 1116 1.0
+424 1490 1.0
+424 1441 1.0
+424 781 1.0
+425 880 1.0
+425 1354 1.0
+425 715 1.0
+425 696 1.0
+425 1361 1.0
+425 1450 1.0
+425 1258 1.0
+425 568 1.0
+425 1267 1.0
+425 839 1.0
+425 1293 1.0
+425 489 1.0
+426 1130 1.0
+426 640 1.0
+427 1273 1.0
+427 981 1.0
+427 635 1.0
+427 1408 1.0
+427 719 1.0
+428 691 1.0
+428 614 1.0
+428 851 1.0
+428 941 1.0
+430 1072 1.0
+430 649 1.0
+430 949 1.0
+431 1362 1.0
+432 1399 1.0
+432 1231 1.0
+433 533 1.0
+434 436 1.0
+434 1566 1.0
+435 960 1.0
+435 1573 1.0
+437 744 1.0
+437 717 1.0
+437 603 1.0
+438 734 1.0
+438 867 1.0
+438 973 1.0
+439 505 1.0
+439 648 1.0
+440 504 1.0
+443 601 1.0
+444 1021 1.0
+444 922 1.0
+444 1224 1.0
+444 1024 1.0
+444 1157 1.0
+445 846 1.0
+445 1506 1.0
+445 1206 1.0
+445 1128 1.0
+445 1406 1.0
+446 1525 1.0
+446 1303 1.0
+446 1026 1.0
+447 1584 1.0
+448 970 1.0
+448 581 1.0
+449 1076 1.0
+450 944 1.0
+450 1202 1.0
+450 558 1.0
+451 671 1.0
+451 1334 1.0
+451 706 1.0
+451 917 1.0
+451 1013 1.0
+452 1019 1.0
+452 1252 1.0
+452 1445 1.0
+452 1055 1.0
+452 494 1.0
+452 984 1.0
+452 655 1.0
+453 1068 1.0
+453 594 1.0
+453 513 1.0
+454 591 1.0
+454 787 1.0
+454 1056 1.0
+454 923 1.0
+454 1182 1.0
+455 1499 1.0
+455 1069 1.0
+455 675 1.0
+455 530 1.0
+455 1212 1.0
+456 598 1.0
+457 1224 1.0
+457 1578 1.0
+457 708 1.0
+458 1238 1.0
+459 1527 1.0
+460 1040 1.0
+460 919 1.0
+460 1238 1.0
+460 765 1.0
+461 1016 1.0
+461 610 1.0
+461 850 1.0
+461 1365 1.0
+461 1497 1.0
+462 902 1.0
+462 1249 1.0
+462 1119 1.0
+462 493 1.0
+462 520 1.0
+462 1429 1.0
+462 1146 1.0
+462 724 1.0
+464 757 1.0
+464 1427 1.0
+466 886 1.0
+466 1572 1.0
+466 760 1.0
+467 1098 1.0
+467 740 1.0
+468 743 1.0
+468 958 1.0
+468 1140 1.0
+469 1418 1.0
+469 1360 1.0
+469 1101 1.0
+469 1375 1.0
+469 1240 1.0
+469 919 1.0
+470 804 1.0
+470 1279 1.0
+470 723 1.0
+470 1034 1.0
+470 758 1.0
+470 1083 1.0
+471 1070 1.0
+471 1253 1.0
+471 1236 1.0
+471 942 1.0
+472 1555 1.0
+472 1161 1.0
+472 1467 1.0
+474 1265 1.0
+474 1588 1.0
+475 1020 1.0
+475 1224 1.0
+475 1350 1.0
+476 1210 1.0
+477 1589 1.0
+478 1482 1.0
+479 1029 1.0
+479 1272 1.0
+480 1424 1.0
+480 566 1.0
+480 814 1.0
+481 507 1.0
+482 1092 1.0
+482 523 1.0
+483 1141 1.0
+483 1287 1.0
+483 587 1.0
+483 1130 1.0
+484 1419 1.0
+484 1022 1.0
+485 930 1.0
+485 1488 1.0
+486 1517 1.0
+486 1179 1.0
+487 717 1.0
+487 1184 1.0
+487 813 1.0
+487 920 1.0
+487 1134 1.0
+489 670 1.0
+489 880 1.0
+489 1227 1.0
+489 1276 1.0
+489 1282 1.0
+489 1450 1.0
+489 1307 1.0
+489 1293 1.0
+490 752 1.0
+490 1295 1.0
+490 1355 1.0
+492 860 1.0
+493 902 1.0
+493 1119 1.0
+493 1146 1.0
+493 1429 1.0
+493 724 1.0
+493 642 1.0
+495 665 1.0
+496 1075 1.0
+496 1532 1.0
+496 1006 1.0
+496 1007 1.0
+496 1554 1.0
+497 509 1.0
+499 1254 1.0
+499 958 1.0
+500 669 1.0
+502 1536 1.0
+502 1517 1.0
+503 1002 1.0
+504 591 1.0
+504 1269 1.0
+504 1352 1.0
+504 769 1.0
+504 1049 1.0
+504 703 1.0
+504 1104 1.0
+504 982 1.0
+504 654 1.0
+504 798 1.0
+505 583 1.0
+505 836 1.0
+505 739 1.0
+506 1336 1.0
+506 1473 1.0
+506 618 1.0
+506 683 1.0
+509 1484 1.0
+510 1085 1.0
+510 1444 1.0
+511 1038 1.0
+511 1559 1.0
+512 1002 1.0
+512 588 1.0
+514 677 1.0
+514 1027 1.0
+514 1260 1.0
+514 1109 1.0
+514 590 1.0
+515 1221 1.0
+515 964 1.0
+516 1541 1.0
+516 963 1.0
+516 1291 1.0
+516 966 1.0
+517 1324 1.0
+518 1385 1.0
+518 663 1.0
+518 1545 1.0
+520 1571 1.0
+520 1146 1.0
+520 1123 1.0
+521 1578 1.0
+521 1428 1.0
+521 598 1.0
+522 804 1.0
+522 1358 1.0
+522 1347 1.0
+523 1092 1.0
+524 592 1.0
+524 1000 1.0
+524 1107 1.0
+525 1379 1.0
+525 1228 1.0
+525 1051 1.0
+525 1402 1.0
+525 759 1.0
+525 1010 1.0
+525 1318 1.0
+525 919 1.0
+525 1350 1.0
+526 1138 1.0
+526 769 1.0
+526 722 1.0
+526 703 1.0
+526 1104 1.0
+526 798 1.0
+527 643 1.0
+527 1544 1.0
+527 1241 1.0
+527 545 1.0
+528 1270 1.0
+528 1584 1.0
+529 1523 1.0
+530 1308 1.0
+530 873 1.0
+532 1191 1.0
+532 905 1.0
+532 1421 1.0
+532 1173 1.0
+532 599 1.0
+532 1237 1.0
+532 1182 1.0
+534 625 1.0
+534 1436 1.0
+535 1047 1.0
+535 1395 1.0
+535 1468 1.0
+535 838 1.0
+535 1154 1.0
+536 1574 1.0
+536 1069 1.0
+536 681 1.0
+536 755 1.0
+537 1345 1.0
+537 1046 1.0
+537 760 1.0
+537 1059 1.0
+537 1321 1.0
+538 544 1.0
+538 1571 1.0
+538 833 1.0
+538 547 1.0
+538 553 1.0
+539 624 1.0
+539 542 1.0
+539 1073 1.0
+540 806 1.0
+540 541 1.0
+541 806 1.0
+541 595 1.0
+542 762 1.0
+542 1414 1.0
+542 624 1.0
+542 1073 1.0
+542 1332 1.0
+542 1349 1.0
+542 1371 1.0
+543 1266 1.0
+543 1283 1.0
+543 795 1.0
+543 1029 1.0
+543 586 1.0
+543 796 1.0
+544 1219 1.0
+544 553 1.0
+544 1245 1.0
+544 953 1.0
+546 666 1.0
+547 1325 1.0
+547 753 1.0
+547 833 1.0
+547 620 1.0
+547 553 1.0
+547 897 1.0
+549 827 1.0
+549 980 1.0
+550 717 1.0
+550 1425 1.0
+550 1026 1.0
+550 1281 1.0
+550 813 1.0
+552 971 1.0
+552 1022 1.0
+552 1198 1.0
+552 1126 1.0
+552 1583 1.0
+553 1219 1.0
+553 953 1.0
+554 1009 1.0
+554 687 1.0
+556 700 1.0
+557 1338 1.0
+557 1139 1.0
+558 1001 1.0
+559 1594 1.0
+559 1546 1.0
+559 1577 1.0
+560 878 1.0
+561 922 1.0
+561 1420 1.0
+561 1531 1.0
+561 1024 1.0
+561 789 1.0
+561 605 1.0
+561 1210 1.0
+561 877 1.0
+561 814 1.0
+562 1246 1.0
+562 1435 1.0
+562 1268 1.0
+563 1472 1.0
+563 614 1.0
+563 1459 1.0
+563 1341 1.0
+563 1058 1.0
+564 713 1.0
+564 1386 1.0
+564 1595 1.0
+564 661 1.0
+564 1428 1.0
+564 1486 1.0
+565 1064 1.0
+565 577 1.0
+566 1283 1.0
+566 629 1.0
+566 1424 1.0
+566 1400 1.0
+566 668 1.0
+567 1458 1.0
+567 970 1.0
+568 880 1.0
+568 1387 1.0
+568 696 1.0
+568 1276 1.0
+568 1450 1.0
+568 839 1.0
+569 1038 1.0
+569 1559 1.0
+571 1118 1.0
+571 1532 1.0
+571 748 1.0
+571 1547 1.0
+571 1397 1.0
+571 1264 1.0
+572 1363 1.0
+572 1401 1.0
+572 1537 1.0
+576 1071 1.0
+576 871 1.0
+576 1382 1.0
+577 956 1.0
+577 1403 1.0
+578 792 1.0
+578 1591 1.0
+578 1572 1.0
+578 1491 1.0
+579 1579 1.0
+579 695 1.0
+579 750 1.0
+579 1003 1.0
+579 1208 1.0
+581 695 1.0
+581 697 1.0
+581 889 1.0
+581 1164 1.0
+582 1478 1.0
+583 648 1.0
+584 1103 1.0
+584 1597 1.0
+585 946 1.0
+585 747 1.0
+585 1575 1.0
+585 1234 1.0
+586 1266 1.0
+586 969 1.0
+586 1023 1.0
+586 976 1.0
+586 1211 1.0
+586 795 1.0
+586 796 1.0
+588 628 1.0
+588 1434 1.0
+589 846 1.0
+590 1109 1.0
+592 1000 1.0
+592 1107 1.0
+593 1575 1.0
+594 1068 1.0
+595 1344 1.0
+595 932 1.0
+595 652 1.0
+596 1061 1.0
+597 1487 1.0
+597 974 1.0
+597 1506 1.0
+597 1340 1.0
+598 1404 1.0
+599 905 1.0
+599 1421 1.0
+599 1191 1.0
+602 943 1.0
+602 1108 1.0
+602 933 1.0
+603 744 1.0
+603 1178 1.0
+603 984 1.0
+604 1464 1.0
+605 1531 1.0
+605 1494 1.0
+605 984 1.0
+606 803 1.0
+606 925 1.0
+606 764 1.0
+606 968 1.0
+606 999 1.0
+606 1365 1.0
+606 1032 1.0
+606 773 1.0
+606 1555 1.0
+607 1163 1.0
+607 733 1.0
+607 1392 1.0
+607 1581 1.0
+607 1572 1.0
+607 1284 1.0
+608 1383 1.0
+608 1382 1.0
+608 1489 1.0
+610 1016 1.0
+611 1564 1.0
+611 766 1.0
+611 1596 1.0
+612 1525 1.0
+612 684 1.0
+612 1215 1.0
+612 801 1.0
+613 826 1.0
+613 1313 1.0
+613 710 1.0
+613 1503 1.0
+613 1380 1.0
+614 691 1.0
+614 941 1.0
+614 998 1.0
+614 678 1.0
+614 1341 1.0
+614 1185 1.0
+614 1451 1.0
+615 1092 1.0
+615 1314 1.0
+616 1043 1.0
+616 640 1.0
+617 881 1.0
+617 858 1.0
+617 1183 1.0
+617 1348 1.0
+618 1336 1.0
+618 683 1.0
+618 895 1.0
+619 1456 1.0
+619 705 1.0
+620 1012 1.0
+621 1248 1.0
+621 1456 1.0
+621 1093 1.0
+622 774 1.0
+623 875 1.0
+624 762 1.0
+624 1332 1.0
+624 1073 1.0
+624 1121 1.0
+625 1436 1.0
+626 887 1.0
+626 809 1.0
+626 1099 1.0
+626 855 1.0
+626 1209 1.0
+626 1545 1.0
+628 1434 1.0
+629 1530 1.0
+629 772 1.0
+630 1247 1.0
+630 1025 1.0
+630 1502 1.0
+630 737 1.0
+630 989 1.0
+631 802 1.0
+634 975 1.0
+635 1273 1.0
+635 981 1.0
+635 1294 1.0
+636 1515 1.0
+636 979 1.0
+637 1480 1.0
+637 1534 1.0
+637 1033 1.0
+638 741 1.0
+638 1272 1.0
+638 1345 1.0
+639 987 1.0
+639 947 1.0
+640 1031 1.0
+641 732 1.0
+641 1211 1.0
+641 879 1.0
+642 902 1.0
+642 1119 1.0
+642 1172 1.0
+642 724 1.0
+643 735 1.0
+645 1097 1.0
+646 1600 1.0
+646 1213 1.0
+647 1222 1.0
+647 1030 1.0
+647 1372 1.0
+647 800 1.0
+649 866 1.0
+649 1072 1.0
+650 864 1.0
+650 937 1.0
+651 1224 1.0
+651 1433 1.0
+651 1287 1.0
+651 1130 1.0
+651 1312 1.0
+652 932 1.0
+653 817 1.0
+653 686 1.0
+653 1413 1.0
+654 1181 1.0
+655 1493 1.0
+655 984 1.0
+655 1055 1.0
+657 1422 1.0
+657 701 1.0
+657 1463 1.0
+657 1373 1.0
+658 791 1.0
+658 1037 1.0
+659 788 1.0
+659 1532 1.0
+659 1542 1.0
+659 983 1.0
+661 713 1.0
+661 1595 1.0
+661 1124 1.0
+661 1486 1.0
+661 1114 1.0
+662 825 1.0
+662 763 1.0
+662 1236 1.0
+662 817 1.0
+662 818 1.0
+662 900 1.0
+662 967 1.0
+663 1385 1.0
+663 882 1.0
+663 1180 1.0
+663 1545 1.0
+663 841 1.0
+664 1285 1.0
+666 850 1.0
+667 1423 1.0
+667 1028 1.0
+667 1151 1.0
+667 921 1.0
+668 1204 1.0
+668 848 1.0
+668 1256 1.0
+668 834 1.0
+670 918 1.0
+671 1017 1.0
+671 706 1.0
+671 962 1.0
+671 1013 1.0
+672 1244 1.0
+672 804 1.0
+672 1347 1.0
+673 1195 1.0
+673 859 1.0
+674 1417 1.0
+674 1449 1.0
+674 1410 1.0
+675 1069 1.0
+675 1367 1.0
+676 1095 1.0
+676 950 1.0
+676 1123 1.0
+676 1596 1.0
+676 1208 1.0
+676 775 1.0
+678 1103 1.0
+679 1316 1.0
+679 787 1.0
+679 1333 1.0
+679 1082 1.0
+679 1153 1.0
+679 1056 1.0
+679 986 1.0
+679 799 1.0
+680 863 1.0
+680 1267 1.0
+680 1357 1.0
+681 755 1.0
+682 1550 1.0
+682 903 1.0
+682 1431 1.0
+682 1067 1.0
+683 1336 1.0
+684 978 1.0
+684 1215 1.0
+685 738 1.0
+687 954 1.0
+687 814 1.0
+688 871 1.0
+688 1080 1.0
+689 1160 1.0
+689 1353 1.0
+689 1376 1.0
+689 728 1.0
+690 986 1.0
+690 1364 1.0
+691 881 1.0
+691 851 1.0
+691 853 1.0
+691 1185 1.0
+691 1451 1.0
+692 1479 1.0
+693 929 1.0
+693 1449 1.0
+693 729 1.0
+696 880 1.0
+696 1450 1.0
+697 1280 1.0
+697 1343 1.0
+697 842 1.0
+698 890 1.0
+698 1211 1.0
+698 1058 1.0
+699 969 1.0
+699 1522 1.0
+701 1463 1.0
+701 852 1.0
+701 1150 1.0
+701 1027 1.0
+701 1373 1.0
+701 1344 1.0
+702 1043 1.0
+703 870 1.0
+703 1136 1.0
+703 769 1.0
+703 722 1.0
+703 754 1.0
+703 1585 1.0
+703 1269 1.0
+703 982 1.0
+703 1317 1.0
+703 1346 1.0
+704 923 1.0
+704 1513 1.0
+704 1249 1.0
+705 1248 1.0
+705 1456 1.0
+705 1305 1.0
+705 1256 1.0
+705 1204 1.0
+706 909 1.0
+706 1334 1.0
+707 951 1.0
+707 1122 1.0
+707 1561 1.0
+707 1317 1.0
+708 1578 1.0
+708 1433 1.0
+709 900 1.0
+709 1591 1.0
+710 807 1.0
+710 1096 1.0
+710 890 1.0
+710 1305 1.0
+710 1078 1.0
+710 1197 1.0
+712 791 1.0
+713 1428 1.0
+713 1486 1.0
+714 826 1.0
+714 720 1.0
+714 1102 1.0
+715 1223 1.0
+715 1361 1.0
+715 1267 1.0
+715 1268 1.0
+717 1184 1.0
+717 1113 1.0
+718 1535 1.0
+718 1530 1.0
+718 1170 1.0
+719 1408 1.0
+719 981 1.0
+719 1273 1.0
+720 1102 1.0
+721 1534 1.0
+722 1263 1.0
+723 1318 1.0
+724 1119 1.0
+724 1429 1.0
+726 1455 1.0
+726 1076 1.0
+726 933 1.0
+727 1089 1.0
+727 1163 1.0
+727 1270 1.0
+727 766 1.0
+727 1199 1.0
+727 1426 1.0
+727 1282 1.0
+727 1284 1.0
+727 977 1.0
+727 794 1.0
+727 1337 1.0
+727 1292 1.0
+727 1227 1.0
+728 1353 1.0
+729 861 1.0
+729 1584 1.0
+729 1583 1.0
+730 1100 1.0
+730 1155 1.0
+731 895 1.0
+732 1337 1.0
+733 1392 1.0
+736 1486 1.0
+737 1247 1.0
+737 1502 1.0
+737 1257 1.0
+737 1182 1.0
+738 1311 1.0
+741 1495 1.0
+742 1588 1.0
+742 1525 1.0
+743 1301 1.0
+743 1140 1.0
+745 811 1.0
+745 1271 1.0
+745 1066 1.0
+745 1164 1.0
+745 1278 1.0
+745 767 1.0
+745 893 1.0
+745 1378 1.0
+746 929 1.0
+746 934 1.0
+746 1467 1.0
+746 1555 1.0
+747 1311 1.0
+748 1547 1.0
+748 1118 1.0
+749 1117 1.0
+749 1110 1.0
+750 1579 1.0
+751 1449 1.0
+752 1597 1.0
+752 1289 1.0
+752 1526 1.0
+752 849 1.0
+753 1479 1.0
+753 1571 1.0
+754 1389 1.0
+754 1585 1.0
+754 982 1.0
+755 1214 1.0
+755 1370 1.0
+757 951 1.0
+757 1122 1.0
+757 1427 1.0
+757 1561 1.0
+757 1087 1.0
+758 1167 1.0
+758 1279 1.0
+758 1083 1.0
+759 1555 1.0
+759 773 1.0
+760 1059 1.0
+760 1046 1.0
+760 1345 1.0
+760 1321 1.0
+761 1513 1.0
+762 1275 1.0
+762 811 1.0
+762 1349 1.0
+763 967 1.0
+764 1104 1.0
+764 1555 1.0
+764 1032 1.0
+765 1040 1.0
+765 1541 1.0
+765 786 1.0
+765 1526 1.0
+766 977 1.0
+767 893 1.0
+768 1234 1.0
+769 1269 1.0
+769 1346 1.0
+770 1174 1.0
+770 960 1.0
+770 1346 1.0
+770 1573 1.0
+771 1218 1.0
+771 993 1.0
+771 1535 1.0
+772 1218 1.0
+772 1463 1.0
+773 968 1.0
+773 925 1.0
+773 929 1.0
+773 1365 1.0
+773 1467 1.0
+773 1555 1.0
+774 1553 1.0
+774 1186 1.0
+774 1443 1.0
+775 950 1.0
+777 1356 1.0
+777 1413 1.0
+778 1136 1.0
+778 1468 1.0
+778 1080 1.0
+778 1288 1.0
+779 1596 1.0
+780 1569 1.0
+780 885 1.0
+781 823 1.0
+781 805 1.0
+781 828 1.0
+781 1116 1.0
+781 1432 1.0
+781 1187 1.0
+782 1261 1.0
+785 1135 1.0
+785 1048 1.0
+785 1335 1.0
+786 1526 1.0
+787 1166 1.0
+787 1050 1.0
+787 1153 1.0
+788 870 1.0
+789 877 1.0
+789 1216 1.0
+790 1534 1.0
+790 1192 1.0
+790 1423 1.0
+791 1252 1.0
+791 1309 1.0
+791 1404 1.0
+792 1491 1.0
+792 1572 1.0
+793 1142 1.0
+794 1089 1.0
+794 1227 1.0
+794 1199 1.0
+794 1426 1.0
+794 1282 1.0
+794 1439 1.0
+795 969 1.0
+795 796 1.0
+796 969 1.0
+796 1266 1.0
+796 976 1.0
+796 1029 1.0
+796 1083 1.0
+797 957 1.0
+797 1168 1.0
+798 1104 1.0
+799 1316 1.0
+799 1076 1.0
+799 1153 1.0
+799 1082 1.0
+799 1381 1.0
+800 1318 1.0
+803 968 1.0
+803 1220 1.0
+803 1365 1.0
+803 1032 1.0
+803 838 1.0
+803 1593 1.0
+804 1167 1.0
+804 1034 1.0
+804 1438 1.0
+804 1347 1.0
+805 1138 1.0
+805 828 1.0
+805 931 1.0
+806 990 1.0
+807 1557 1.0
+808 1539 1.0
+808 1327 1.0
+809 841 1.0
+809 1545 1.0
+810 1442 1.0
+811 1275 1.0
+812 907 1.0
+812 1526 1.0
+812 1060 1.0
+813 939 1.0
+813 1425 1.0
+814 1424 1.0
+816 1171 1.0
+817 1531 1.0
+818 900 1.0
+819 1459 1.0
+820 1578 1.0
+820 1165 1.0
+821 1308 1.0
+821 1581 1.0
+822 1251 1.0
+823 1116 1.0
+823 908 1.0
+823 1432 1.0
+823 1410 1.0
+826 1050 1.0
+827 1165 1.0
+827 980 1.0
+828 1161 1.0
+828 831 1.0
+828 1400 1.0
+828 1396 1.0
+828 1187 1.0
+830 1145 1.0
+831 888 1.0
+831 1396 1.0
+832 1274 1.0
+833 897 1.0
+834 1252 1.0
+834 1309 1.0
+834 1055 1.0
+835 1569 1.0
+837 996 1.0
+839 1354 1.0
+839 1307 1.0
+839 1293 1.0
+840 1512 1.0
+840 1397 1.0
+840 1049 1.0
+840 1471 1.0
+841 1088 1.0
+841 882 1.0
+841 1326 1.0
+841 1545 1.0
+842 1115 1.0
+842 926 1.0
+842 1280 1.0
+843 1552 1.0
+843 1581 1.0
+843 1137 1.0
+844 1190 1.0
+844 1581 1.0
+844 1572 1.0
+844 1481 1.0
+845 1515 1.0
+845 1568 1.0
+845 1343 1.0
+845 1168 1.0
+846 873 1.0
+846 1506 1.0
+846 1206 1.0
+846 1128 1.0
+847 1074 1.0
+847 1147 1.0
+847 1448 1.0
+847 938 1.0
+849 1304 1.0
+849 1597 1.0
+851 853 1.0
+852 1150 1.0
+853 1143 1.0
+854 1531 1.0
+854 876 1.0
+854 1348 1.0
+855 1515 1.0
+855 857 1.0
+856 1576 1.0
+856 1022 1.0
+857 1515 1.0
+857 1098 1.0
+858 885 1.0
+858 996 1.0
+858 1183 1.0
+861 1583 1.0
+862 1098 1.0
+862 1594 1.0
+863 1357 1.0
+864 1071 1.0
+864 937 1.0
+865 901 1.0
+866 1072 1.0
+867 973 1.0
+868 1546 1.0
+870 1317 1.0
+871 1080 1.0
+871 1572 1.0
+874 1075 1.0
+874 1007 1.0
+874 1106 1.0
+875 1264 1.0
+876 1531 1.0
+877 1531 1.0
+878 952 1.0
+879 1530 1.0
+880 1276 1.0
+880 1034 1.0
+880 1438 1.0
+882 1326 1.0
+885 1418 1.0
+885 1111 1.0
+887 1545 1.0
+888 1248 1.0
+888 1396 1.0
+888 1172 1.0
+890 1096 1.0
+890 1197 1.0
+890 1557 1.0
+890 1058 1.0
+890 1226 1.0
+891 1541 1.0
+891 1001 1.0
+891 1526 1.0
+891 1380 1.0
+892 1550 1.0
+892 1515 1.0
+893 1324 1.0
+893 1066 1.0
+893 1164 1.0
+893 1278 1.0
+894 1473 1.0
+894 1367 1.0
+895 1272 1.0
+896 1220 1.0
+897 1325 1.0
+897 1212 1.0
+901 1134 1.0
+902 1054 1.0
+902 1514 1.0
+903 1431 1.0
+903 1530 1.0
+903 1067 1.0
+904 1596 1.0
+905 1352 1.0
+905 1191 1.0
+905 1182 1.0
+906 1203 1.0
+909 992 1.0
+909 961 1.0
+909 1585 1.0
+910 1313 1.0
+911 1112 1.0
+911 1521 1.0
+911 1242 1.0
+912 1474 1.0
+912 1004 1.0
+912 1496 1.0
+913 1310 1.0
+913 1539 1.0
+913 1443 1.0
+914 1465 1.0
+914 1447 1.0
+917 1192 1.0
+917 1233 1.0
+917 1158 1.0
+919 1040 1.0
+919 1360 1.0
+919 1375 1.0
+919 1238 1.0
+919 1379 1.0
+920 1411 1.0
+921 1151 1.0
+922 1024 1.0
+922 1091 1.0
+922 1157 1.0
+924 972 1.0
+925 1467 1.0
+925 934 1.0
+926 1115 1.0
+926 1458 1.0
+926 1280 1.0
+928 1600 1.0
+928 1213 1.0
+928 965 1.0
+928 1243 1.0
+929 1357 1.0
+929 1019 1.0
+929 1200 1.0
+929 1052 1.0
+929 1235 1.0
+930 1458 1.0
+930 1488 1.0
+931 1400 1.0
+931 1483 1.0
+933 943 1.0
+933 1455 1.0
+933 1108 1.0
+934 1398 1.0
+934 1343 1.0
+934 1467 1.0
+934 1555 1.0
+936 1195 1.0
+936 1050 1.0
+938 1448 1.0
+940 1531 1.0
+940 1121 1.0
+940 1208 1.0
+942 1236 1.0
+943 1315 1.0
+943 1133 1.0
+946 1575 1.0
+947 1053 1.0
+947 987 1.0
+950 1596 1.0
+951 1561 1.0
+951 1114 1.0
+952 1563 1.0
+952 1488 1.0
+953 1529 1.0
+953 1219 1.0
+955 1488 1.0
+955 1312 1.0
+956 1403 1.0
+957 1449 1.0
+958 1163 1.0
+959 1502 1.0
+960 1573 1.0
+961 992 1.0
+961 1467 1.0
+961 1035 1.0
+962 1017 1.0
+963 1570 1.0
+963 1299 1.0
+963 1500 1.0
+963 1081 1.0
+965 975 1.0
+968 1205 1.0
+968 1555 1.0
+969 1023 1.0
+969 976 1.0
+969 1266 1.0
+971 1126 1.0
+974 1018 1.0
+974 1302 1.0
+974 1359 1.0
+974 1041 1.0
+974 1506 1.0
+974 1340 1.0
+975 1525 1.0
+975 1243 1.0
+975 1114 1.0
+976 1008 1.0
+977 1416 1.0
+977 1163 1.0
+981 1273 1.0
+981 1303 1.0
+981 1408 1.0
+982 1269 1.0
+982 1136 1.0
+982 1389 1.0
+982 1585 1.0
+983 1246 1.0
+983 1532 1.0
+983 1435 1.0
+983 1542 1.0
+983 1268 1.0
+985 1290 1.0
+985 1492 1.0
+985 1551 1.0
+986 1364 1.0
+988 1563 1.0
+988 1488 1.0
+989 1196 1.0
+989 1502 1.0
+989 1177 1.0
+989 1105 1.0
+989 1086 1.0
+990 1328 1.0
+990 1033 1.0
+992 1405 1.0
+992 1171 1.0
+992 1035 1.0
+993 1239 1.0
+995 1090 1.0
+995 1514 1.0
+995 1084 1.0
+997 1002 1.0
+999 1486 1.0
+999 1412 1.0
+1000 1107 1.0
+1005 1338 1.0
+1005 1461 1.0
+1006 1162 1.0
+1006 1007 1.0
+1007 1075 1.0
+1008 1251 1.0
+1008 1581 1.0
+1010 1228 1.0
+1010 1051 1.0
+1010 1402 1.0
+1011 1246 1.0
+1013 1017 1.0
+1013 1120 1.0
+1014 1339 1.0
+1016 1497 1.0
+1017 1120 1.0
+1018 1041 1.0
+1018 1302 1.0
+1018 1359 1.0
+1018 1506 1.0
+1018 1259 1.0
+1019 1493 1.0
+1019 1200 1.0
+1019 1338 1.0
+1019 1052 1.0
+1020 1042 1.0
+1020 1152 1.0
+1020 1350 1.0
+1025 1502 1.0
+1026 1425 1.0
+1027 1344 1.0
+1028 1093 1.0
+1029 1283 1.0
+1033 1172 1.0
+1033 1257 1.0
+1033 1207 1.0
+1034 1276 1.0
+1034 1438 1.0
+1034 1347 1.0
+1035 1472 1.0
+1035 1405 1.0
+1036 1366 1.0
+1038 1559 1.0
+1039 1176 1.0
+1039 1595 1.0
+1039 1528 1.0
+1040 1171 1.0
+1040 1402 1.0
+1041 1302 1.0
+1041 1506 1.0
+1041 1399 1.0
+1042 1152 1.0
+1042 1572 1.0
+1044 1045 1.0
+1047 1534 1.0
+1047 1390 1.0
+1047 1154 1.0
+1048 1135 1.0
+1048 1494 1.0
+1048 1335 1.0
+1048 1407 1.0
+1051 1228 1.0
+1051 1178 1.0
+1052 1493 1.0
+1052 1338 1.0
+1052 1200 1.0
+1053 1053 1.0
+1054 1514 1.0
+1054 1060 1.0
+1056 1166 1.0
+1056 1153 1.0
+1057 1063 1.0
+1057 1374 1.0
+1058 1341 1.0
+1059 1321 1.0
+1060 1093 1.0
+1060 1181 1.0
+1061 1187 1.0
+1063 1270 1.0
+1063 1374 1.0
+1063 1377 1.0
+1066 1415 1.0
+1066 1278 1.0
+1066 1378 1.0
+1067 1431 1.0
+1067 1530 1.0
+1070 1253 1.0
+1073 1332 1.0
+1073 1121 1.0
+1073 1349 1.0
+1074 1147 1.0
+1074 1448 1.0
+1075 1173 1.0
+1075 1237 1.0
+1076 1082 1.0
+1076 1181 1.0
+1076 1411 1.0
+1076 1381 1.0
+1077 1485 1.0
+1078 1557 1.0
+1079 1088 1.0
+1079 1545 1.0
+1079 1575 1.0
+1080 1190 1.0
+1080 1572 1.0
+1081 1570 1.0
+1082 1381 1.0
+1083 1298 1.0
+1083 1279 1.0
+1083 1469 1.0
+1086 1105 1.0
+1086 1502 1.0
+1087 1542 1.0
+1088 1356 1.0
+1088 1545 1.0
+1089 1199 1.0
+1089 1439 1.0
+1090 1514 1.0
+1090 1393 1.0
+1090 1110 1.0
+1091 1582 1.0
+1091 1440 1.0
+1091 1157 1.0
+1092 1223 1.0
+1093 1456 1.0
+1094 1188 1.0
+1094 1457 1.0
+1094 1399 1.0
+1095 1123 1.0
+1095 1596 1.0
+1096 1391 1.0
+1096 1197 1.0
+1096 1557 1.0
+1096 1262 1.0
+1099 1209 1.0
+1101 1220 1.0
+1103 1597 1.0
+1103 1304 1.0
+1110 1514 1.0
+1110 1393 1.0
+1110 1313 1.0
+1112 1521 1.0
+1112 1242 1.0
+1113 1423 1.0
+1113 1569 1.0
+1113 1132 1.0
+1115 1245 1.0
+1115 1280 1.0
+1116 1432 1.0
+1116 1441 1.0
+1117 1445 1.0
+1118 1532 1.0
+1119 1429 1.0
+1121 1332 1.0
+1122 1143 1.0
+1122 1306 1.0
+1123 1596 1.0
+1127 1243 1.0
+1127 1598 1.0
+1127 1525 1.0
+1128 1244 1.0
+1128 1506 1.0
+1128 1206 1.0
+1129 1288 1.0
+1129 1517 1.0
+1130 1141 1.0
+1130 1433 1.0
+1130 1287 1.0
+1131 1461 1.0
+1132 1569 1.0
+1133 1315 1.0
+1133 1281 1.0
+1134 1582 1.0
+1134 1178 1.0
+1135 1335 1.0
+1136 1346 1.0
+1137 1552 1.0
+1139 1166 1.0
+1139 1506 1.0
+1139 1522 1.0
+1139 1300 1.0
+1140 1342 1.0
+1140 1412 1.0
+1141 1287 1.0
+1144 1575 1.0
+1148 1327 1.0
+1148 1186 1.0
+1150 1260 1.0
+1151 1229 1.0
+1151 1232 1.0
+1153 1166 1.0
+1153 1316 1.0
+1154 1390 1.0
+1154 1534 1.0
+1155 1305 1.0
+1158 1192 1.0
+1158 1233 1.0
+1159 1181 1.0
+1160 1415 1.0
+1160 1378 1.0
+1160 1376 1.0
+1161 1555 1.0
+1162 1221 1.0
+1163 1284 1.0
+1164 1271 1.0
+1166 1316 1.0
+1168 1449 1.0
+1168 1388 1.0
+1169 1482 1.0
+1169 1358 1.0
+1170 1535 1.0
+1170 1530 1.0
+1172 1204 1.0
+1172 1320 1.0
+1173 1352 1.0
+1173 1237 1.0
+1175 1520 1.0
+1177 1196 1.0
+1178 1325 1.0
+1179 1517 1.0
+1180 1454 1.0
+1182 1352 1.0
+1184 1543 1.0
+1186 1553 1.0
+1187 1584 1.0
+1190 1572 1.0
+1191 1421 1.0
+1193 1456 1.0
+1193 1329 1.0
+1195 1535 1.0
+1196 1502 1.0
+1197 1557 1.0
+1197 1305 1.0
+1198 1478 1.0
+1198 1409 1.0
+1199 1227 1.0
+1199 1426 1.0
+1199 1292 1.0
+1200 1493 1.0
+1202 1526 1.0
+1204 1230 1.0
+1204 1256 1.0
+1204 1320 1.0
+1205 1555 1.0
+1206 1506 1.0
+1207 1296 1.0
+1212 1325 1.0
+1212 1563 1.0
+1212 1259 1.0
+1213 1600 1.0
+1214 1246 1.0
+1215 1525 1.0
+1217 1586 1.0
+1217 1319 1.0
+1219 1529 1.0
+1221 1538 1.0
+1222 1232 1.0
+1222 1372 1.0
+1226 1240 1.0
+1226 1557 1.0
+1226 1584 1.0
+1227 1426 1.0
+1227 1282 1.0
+1229 1446 1.0
+1233 1239 1.0
+1235 1555 1.0
+1238 1355 1.0
+1238 1379 1.0
+1238 1375 1.0
+1240 1517 1.0
+1243 1555 1.0
+1244 1506 1.0
+1245 1529 1.0
+1246 1435 1.0
+1246 1268 1.0
+1247 1502 1.0
+1248 1456 1.0
+1249 1513 1.0
+1252 1309 1.0
+1254 1514 1.0
+1256 1320 1.0
+1257 1502 1.0
+1258 1456 1.0
+1258 1307 1.0
+1258 1293 1.0
+1259 1366 1.0
+1260 1463 1.0
+1263 1510 1.0
+1264 1397 1.0
+1266 1312 1.0
+1267 1295 1.0
+1267 1369 1.0
+1268 1435 1.0
+1270 1374 1.0
+1270 1377 1.0
+1271 1506 1.0
+1273 1408 1.0
+1274 1525 1.0
+1275 1383 1.0
+1276 1438 1.0
+1277 1483 1.0
+1278 1328 1.0
+1281 1315 1.0
+1284 1480 1.0
+1288 1468 1.0
+1289 1526 1.0
+1290 1350 1.0
+1290 1551 1.0
+1291 1570 1.0
+1291 1541 1.0
+1291 1322 1.0
+1293 1307 1.0
+1295 1355 1.0
+1295 1369 1.0
+1297 1323 1.0
+1297 1557 1.0
+1298 1469 1.0
+1299 1500 1.0
+1300 1401 1.0
+1302 1359 1.0
+1302 1340 1.0
+1302 1371 1.0
+1302 1505 1.0
+1310 1422 1.0
+1310 1456 1.0
+1319 1586 1.0
+1320 1333 1.0
+1321 1345 1.0
+1321 1437 1.0
+1322 1526 1.0
+1322 1541 1.0
+1323 1425 1.0
+1323 1547 1.0
+1324 1483 1.0
+1327 1539 1.0
+1329 1476 1.0
+1330 1498 1.0
+1332 1414 1.0
+1332 1349 1.0
+1335 1407 1.0
+1335 1494 1.0
+1341 1599 1.0
+1342 1528 1.0
+1348 1531 1.0
+1353 1376 1.0
+1355 1387 1.0
+1358 1482 1.0
+1360 1418 1.0
+1361 1450 1.0
+1363 1493 1.0
+1364 1418 1.0
+1367 1473 1.0
+1368 1398 1.0
+1368 1394 1.0
+1368 1566 1.0
+1368 1518 1.0
+1371 1505 1.0
+1372 1506 1.0
+1373 1463 1.0
+1374 1377 1.0
+1384 1596 1.0
+1384 1573 1.0
+1385 1545 1.0
+1386 1486 1.0
+1386 1595 1.0
+1387 1450 1.0
+1394 1518 1.0
+1395 1534 1.0
+1398 1566 1.0
+1400 1488 1.0
+1404 1578 1.0
+1405 1472 1.0
+1406 1506 1.0
+1407 1531 1.0
+1407 1494 1.0
+1410 1417 1.0
+1410 1449 1.0
+1416 1464 1.0
+1420 1531 1.0
+1420 1475 1.0
+1422 1463 1.0
+1431 1530 1.0
+1437 1541 1.0
+1437 1526 1.0
+1439 1590 1.0
+1441 1490 1.0
+1443 1539 1.0
+1448 1543 1.0
+1449 1598 1.0
+1454 1528 1.0
+1460 1464 1.0
+1467 1555 1.0
+1471 1512 1.0
+1471 1579 1.0
+1472 1491 1.0
+1474 1496 1.0
+1478 1544 1.0
+1479 1488 1.0
+1479 1563 1.0
+1480 1481 1.0
+1485 1516 1.0
+1488 1563 1.0
+1489 1573 1.0
+1489 1513 1.0
+1491 1591 1.0
+1494 1531 1.0
+1501 1518 1.0
+1507 1542 1.0
+1513 1573 1.0
+1514 1527 1.0
+1526 1541 1.0
+1530 1535 1.0
+1532 1588 1.0
+1541 1570 1.0
+1542 1588 1.0
+1546 1577 1.0
+1568 1580 1.0
+1572 1581 1.0
+1577 1594 1.0
+1583 1584 1.0
+1592 1599 1.0

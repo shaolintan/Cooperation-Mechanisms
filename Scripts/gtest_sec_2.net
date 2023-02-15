@@ -1,0 +1,294 @@
+*network periodic_grid_2d_graph(10,10)
+*vertices 100
+1 546 0.0 0.0 ellipse type 1 fitness 0.5
+2 621 0.0 0.0 ellipse type 1 fitness 0.5
+3 660 0.0 0.0 ellipse type 1 fitness 1.5
+4 692 0.0 0.0 ellipse type 0 fitness 0.5
+5 706 0.0 0.0 ellipse type 1 fitness 0.5
+6 738 0.0 0.0 ellipse type 1 fitness 0.5
+7 770 0.0 0.0 ellipse type 1 fitness 2.5
+8 772 0.0 0.0 ellipse type 1 fitness 1.5
+9 775 0.0 0.0 ellipse type 1 fitness 2.0
+10 782 0.0 0.0 ellipse type 1 fitness 6.0
+11 799 0.0 0.0 ellipse type 1 fitness 4.0
+12 811 0.0 0.0 ellipse type 1 fitness 1.0
+13 815 0.0 0.0 ellipse type 0 fitness 0.75
+14 828 0.0 0.0 ellipse type 1 fitness 2.5
+15 835 0.0 0.0 ellipse type 1 fitness 1.5
+16 836 0.0 0.0 ellipse type 1 fitness 2.5
+17 837 0.0 0.0 ellipse type 1 fitness 0.5
+18 843 0.0 0.0 ellipse type 1 fitness 2.5
+19 845 0.0 0.0 ellipse type 1 fitness 1.0
+20 847 0.0 0.0 ellipse type 1 fitness 3.5
+21 849 0.0 0.0 ellipse type 1 fitness 1.0
+22 851 0.0 0.0 ellipse type 1 fitness 2.0
+23 859 0.0 0.0 ellipse type 1 fitness 1.0
+24 866 0.0 0.0 ellipse type 1 fitness 2.5
+25 875 0.0 0.0 ellipse type 1 fitness 3.0
+26 876 0.0 0.0 ellipse type 1 fitness 1.5
+27 877 0.0 0.0 ellipse type 1 fitness 5.5
+28 884 0.0 0.0 ellipse type 1 fitness 1.5
+29 885 0.0 0.0 ellipse type 1 fitness 2.0
+30 886 0.0 0.0 ellipse type 1 fitness 2.0
+31 889 0.0 0.0 ellipse type 1 fitness 0.5
+32 890 0.0 0.0 ellipse type 0 fitness 1.5
+33 892 0.0 0.0 ellipse type 1 fitness 0.5
+34 896 0.0 0.0 ellipse type 0 fitness 0.75
+35 899 0.0 0.0 ellipse type 1 fitness 1.5
+36 904 0.0 0.0 ellipse type 1 fitness 0.5
+37 905 0.0 0.0 ellipse type 1 fitness 2.5
+38 907 0.0 0.0 ellipse type 1 fitness 3.0
+39 908 0.0 0.0 ellipse type 1 fitness 6.5
+40 913 0.0 0.0 ellipse type 1 fitness 2.5
+41 921 0.0 0.0 ellipse type 1 fitness 5.0
+42 924 0.0 0.0 ellipse type 1 fitness 4.0
+43 925 0.0 0.0 ellipse type 1 fitness 2.0
+44 926 0.0 0.0 ellipse type 1 fitness 2.0
+45 928 0.0 0.0 ellipse type 1 fitness 3.0
+46 930 0.0 0.0 ellipse type 1 fitness 1.5
+47 931 0.0 0.0 ellipse type 1 fitness 2.5
+48 935 0.0 0.0 ellipse type 1 fitness 2.0
+49 936 0.0 0.0 ellipse type 1 fitness 2.5
+50 937 0.0 0.0 ellipse type 1 fitness 4.5
+51 941 0.0 0.0 ellipse type 1 fitness 1.5
+52 943 0.0 0.0 ellipse type 1 fitness 2.0
+53 944 0.0 0.0 ellipse type 1 fitness 2.0
+54 947 0.0 0.0 ellipse type 1 fitness 6.0
+55 948 0.0 0.0 ellipse type 1 fitness 4.0
+56 949 0.0 0.0 ellipse type 1 fitness 2.5
+57 950 0.0 0.0 ellipse type 1 fitness 2.0
+58 952 0.0 0.0 ellipse type 1 fitness 2.0
+59 953 0.0 0.0 ellipse type 1 fitness 3.0
+60 954 0.0 0.0 ellipse type 1 fitness 2.0
+61 955 0.0 0.0 ellipse type 1 fitness 3.5
+62 956 0.0 0.0 ellipse type 1 fitness 4.0
+63 957 0.0 0.0 ellipse type 1 fitness 1.0
+64 958 0.0 0.0 ellipse type 1 fitness 3.5
+65 959 0.0 0.0 ellipse type 1 fitness 2.0
+66 960 0.0 0.0 ellipse type 1 fitness 2.0
+67 961 0.0 0.0 ellipse type 0 fitness 1.5
+68 962 0.0 0.0 ellipse type 1 fitness 1.5
+69 963 0.0 0.0 ellipse type 1 fitness 2.5
+70 965 0.0 0.0 ellipse type 1 fitness 4.0
+71 966 0.0 0.0 ellipse type 1 fitness 5.0
+72 967 0.0 0.0 ellipse type 1 fitness 4.0
+73 969 0.0 0.0 ellipse type 1 fitness 2.0
+74 970 0.0 0.0 ellipse type 1 fitness 3.5
+75 971 0.0 0.0 ellipse type 0 fitness 3.5
+76 972 0.0 0.0 ellipse type 1 fitness 2.0
+77 973 0.0 0.0 ellipse type 1 fitness 2.0
+78 974 0.0 0.0 ellipse type 1 fitness 2.5
+79 976 0.0 0.0 ellipse type 1 fitness 1.5
+80 977 0.0 0.0 ellipse type 1 fitness 3.0
+81 978 0.0 0.0 ellipse type 1 fitness 1.5
+82 979 0.0 0.0 ellipse type 1 fitness 2.5
+83 980 0.0 0.0 ellipse type 1 fitness 3.0
+84 981 0.0 0.0 ellipse type 1 fitness 2.0
+85 982 0.0 0.0 ellipse type 1 fitness 2.5
+86 983 0.0 0.0 ellipse type 1 fitness 2.0
+87 984 0.0 0.0 ellipse type 1 fitness 3.0
+88 985 0.0 0.0 ellipse type 1 fitness 3.0
+89 986 0.0 0.0 ellipse type 1 fitness 3.0
+90 987 0.0 0.0 ellipse type 1 fitness 2.5
+91 988 0.0 0.0 ellipse type 1 fitness 2.5
+92 989 0.0 0.0 ellipse type 1 fitness 2.5
+93 992 0.0 0.0 ellipse type 1 fitness 2.0
+94 993 0.0 0.0 ellipse type 1 fitness 2.5
+95 994 0.0 0.0 ellipse type 1 fitness 2.5
+96 995 0.0 0.0 ellipse type 1 fitness 3.0
+97 996 0.0 0.0 ellipse type 1 fitness 2.5
+98 997 0.0 0.0 ellipse type 1 fitness 2.5
+99 998 0.0 0.0 ellipse type 1 fitness 2.5
+100 999 0.0 0.0 ellipse type 1
+*edges
+3 53 1.0
+3 43 1.0
+7 69 1.0
+7 37 1.0
+7 51 1.0
+7 60 1.0
+8 26 1.0
+8 28 1.0
+9 76 1.0
+9 82 1.0
+9 44 1.0
+10 45 1.0
+10 95 1.0
+10 71 1.0
+10 100 1.0
+10 50 1.0
+10 18 1.0
+10 20 1.0
+10 80 1.0
+10 54 1.0
+10 87 1.0
+10 59 1.0
+10 11 1.0
+11 45 1.0
+11 71 1.0
+11 20 1.0
+11 80 1.0
+11 54 1.0
+11 59 1.0
+12 35 1.0
+13 34 1.0
+14 97 1.0
+14 49 1.0
+14 25 1.0
+14 77 1.0
+15 30 1.0
+15 58 1.0
+16 67 1.0
+16 19 1.0
+16 21 1.0
+16 22 1.0
+16 88 1.0
+16 32 1.0
+18 50 1.0
+18 87 1.0
+18 89 1.0
+20 96 1.0
+20 71 1.0
+20 50 1.0
+20 54 1.0
+22 24 1.0
+22 56 1.0
+23 98 1.0
+24 99 1.0
+24 61 1.0
+24 27 1.0
+25 97 1.0
+25 49 1.0
+25 77 1.0
+25 84 1.0
+26 28 1.0
+27 47 1.0
+27 99 1.0
+27 74 1.0
+27 39 1.0
+27 88 1.0
+27 41 1.0
+27 61 1.0
+27 64 1.0
+29 66 1.0
+29 70 1.0
+29 42 1.0
+30 63 1.0
+30 65 1.0
+32 67 1.0
+35 46 1.0
+37 53 1.0
+37 40 1.0
+37 43 1.0
+38 94 1.0
+38 48 1.0
+38 100 1.0
+38 79 1.0
+38 81 1.0
+38 54 1.0
+39 47 1.0
+39 73 1.0
+39 74 1.0
+39 78 1.0
+39 55 1.0
+39 56 1.0
+39 41 1.0
+39 61 1.0
+39 62 1.0
+39 92 1.0
+39 64 1.0
+40 75 1.0
+40 55 1.0
+40 57 1.0
+40 86 1.0
+41 99 1.0
+41 74 1.0
+41 78 1.0
+41 55 1.0
+41 61 1.0
+41 62 1.0
+41 64 1.0
+42 70 1.0
+42 73 1.0
+42 75 1.0
+42 91 1.0
+42 85 1.0
+42 62 1.0
+42 84 1.0
+43 53 1.0
+44 75 1.0
+44 76 1.0
+44 82 1.0
+45 72 1.0
+45 50 1.0
+45 59 1.0
+46 52 1.0
+47 55 1.0
+47 56 1.0
+48 79 1.0
+48 81 1.0
+49 97 1.0
+49 77 1.0
+50 95 1.0
+50 72 1.0
+50 87 1.0
+50 89 1.0
+51 60 1.0
+52 86 1.0
+52 57 1.0
+54 93 1.0
+54 96 1.0
+54 98 1.0
+54 71 1.0
+54 72 1.0
+54 80 1.0
+54 100 1.0
+54 90 1.0
+55 62 1.0
+55 92 1.0
+55 64 1.0
+56 92 1.0
+57 86 1.0
+58 68 1.0
+58 65 1.0
+59 93 1.0
+59 72 1.0
+60 69 1.0
+61 74 1.0
+62 70 1.0
+62 73 1.0
+62 78 1.0
+64 78 1.0
+64 88 1.0
+65 68 1.0
+66 94 1.0
+66 83 1.0
+69 97 1.0
+69 99 1.0
+70 91 1.0
+70 83 1.0
+70 85 1.0
+70 84 1.0
+71 94 1.0
+71 96 1.0
+71 98 1.0
+71 100 1.0
+71 80 1.0
+71 90 1.0
+72 95 1.0
+72 83 1.0
+72 89 1.0
+74 88 1.0
+75 84 1.0
+76 82 1.0
+80 96 1.0
+82 93 1.0
+83 85 1.0
+83 90 1.0
+85 91 1.0
+87 89 1.0
+87 91 1.0
+89 95 1.0
+90 94 1.0
+92 92 1.0
+96 98 1.0

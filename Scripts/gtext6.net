@@ -1,0 +1,128 @@
+*network NetworkX
+*vertices 45
+1 9984 0.0 0.0 ellipse type 0 fitness 1.5
+2 9985 0.0 0.0 ellipse type 0 fitness 1.25
+3 9987 0.0 0.0 ellipse type 0 fitness 1.5
+4 9989 0.0 0.0 ellipse type 0 fitness 1.5
+5 9990 0.0 0.0 ellipse type 0 fitness 1.0
+6 9991 0.0 0.0 ellipse type 0 fitness 1.5
+7 9994 0.0 0.0 ellipse type 0 fitness 0.75
+8 9995 0.0 0.0 ellipse type 0 fitness 1.5
+9 9996 0.0 0.0 ellipse type 0 fitness 1.5
+10 9997 0.0 0.0 ellipse type 0 fitness 1.5
+11 9998 0.0 0.0 ellipse type 0 fitness 1.0
+12 9999 0.0 0.0 ellipse type 0
+13 9750 0.0 0.0 ellipse type 0 fitness 0.5
+14 9821 0.0 0.0 ellipse type 0 fitness 1.75
+15 9848 0.0 0.0 ellipse type 0 fitness 1.25
+16 9874 0.0 0.0 ellipse type 0 fitness 3.25
+17 9895 0.0 0.0 ellipse type 0 fitness 2.25
+18 9897 0.0 0.0 ellipse type 0 fitness 0.75
+19 9899 0.0 0.0 ellipse type 0 fitness 2.25
+20 9913 0.0 0.0 ellipse type 0 fitness 0.75
+21 9918 0.0 0.0 ellipse type 0 fitness 1.5
+22 9920 0.0 0.0 ellipse type 0 fitness 0.75
+23 9922 0.0 0.0 ellipse type 0 fitness 1.75
+24 9929 0.0 0.0 ellipse type 0 fitness 0.75
+25 9938 0.0 0.0 ellipse type 0 fitness 0.75
+26 9941 0.0 0.0 ellipse type 0 fitness 1.5
+27 9943 0.0 0.0 ellipse type 0 fitness 1.0
+28 9945 0.0 0.0 ellipse type 0 fitness 2.0
+29 9948 0.0 0.0 ellipse type 0 fitness 0.75
+30 9950 0.0 0.0 ellipse type 0 fitness 2.0
+31 9956 0.0 0.0 ellipse type 0 fitness 1.0
+32 9962 0.0 0.0 ellipse type 0 fitness 2.25
+33 9963 0.0 0.0 ellipse type 0 fitness 1.5
+34 9964 0.0 0.0 ellipse type 0 fitness 1.5
+35 9965 0.0 0.0 ellipse type 0 fitness 2.5
+36 9967 0.0 0.0 ellipse type 0 fitness 1.5
+37 9970 0.0 0.0 ellipse type 0 fitness 1.25
+38 9971 0.0 0.0 ellipse type 0 fitness 1.0
+39 9973 0.0 0.0 ellipse type 0 fitness 0.75
+40 9974 0.0 0.0 ellipse type 0 fitness 1.0
+41 9975 0.0 0.0 ellipse type 0 fitness 1.5
+42 9976 0.0 0.0 ellipse type 0 fitness 1.0
+43 9979 0.0 0.0 ellipse type 0 fitness 1.0
+44 9980 0.0 0.0 ellipse type 0 fitness 1.75
+45 9981 0.0 0.0 ellipse type 0 fitness 2.25
+*edges
+1 23 1.0
+1 32 1.0
+1 16 1.0
+1 10 1.0
+2 19 1.0
+2 35 1.0
+2 4 1.0
+3 32 1.0
+3 16 1.0
+3 35 1.0
+3 45 1.0
+4 28 1.0
+4 16 1.0
+4 35 1.0
+5 43 1.0
+5 40 1.0
+6 36 1.0
+6 44 1.0
+6 14 1.0
+6 17 1.0
+7 22 1.0
+8 28 1.0
+8 19 1.0
+8 35 1.0
+8 30 1.0
+9 32 1.0
+9 16 1.0
+9 45 1.0
+10 23 1.0
+10 33 1.0
+10 26 1.0
+11 42 1.0
+11 31 1.0
+11 12 1.0
+12 42 1.0
+12 31 1.0
+14 17 1.0
+14 34 1.0
+14 36 1.0
+14 21 1.0
+15 38 1.0
+15 27 1.0
+15 29 1.0
+16 32 1.0
+16 19 1.0
+16 35 1.0
+16 28 1.0
+16 45 1.0
+16 30 1.0
+17 34 1.0
+17 36 1.0
+17 41 1.0
+17 44 1.0
+17 21 1.0
+18 20 1.0
+19 32 1.0
+19 28 1.0
+19 30 1.0
+21 24 1.0
+21 41 1.0
+23 33 1.0
+23 37 1.0
+23 26 1.0
+25 39 1.0
+26 33 1.0
+26 37 1.0
+27 38 1.0
+28 35 1.0
+28 30 1.0
+30 35 1.0
+30 45 1.0
+31 42 1.0
+32 45 1.0
+33 37 1.0
+34 41 1.0
+34 44 1.0
+35 45 1.0
+36 44 1.0
+40 43 1.0
+41 44 1.0
